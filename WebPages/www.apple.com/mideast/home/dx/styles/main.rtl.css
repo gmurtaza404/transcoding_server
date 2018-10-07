@@ -1,0 +1,91 @@
+.icon-chevronright::after,
+.more::after {
+  -webkit-transform: scaleX(-1);
+  -ms-transform: scaleX(-1);
+  transform: scaleX(-1);
+  padding-right: 0;
+  padding-left: 0.3em;
+}
+
+.icon-external::after {
+  padding-left: 0;
+  padding-right: 0.3em;
+}
+.main
+  [data-module-template="heroes"]
+  [data-unit-id]
+  .unit-copy-wrapper
+  > *.subhead:lang(ar),
+.unit-copy-wrapper,
+.cta-links {
+  direction: rtl;
+}
+.apple-watch-series-4 .subhead {
+  direction: ltr;
+}
+
+.main
+  [data-module-template="promos"]
+  [data-unit-id]
+  .unit-copy-wrapper
+  .cta-links
+  a:last-child,
+.main
+  [data-module-template="heroes"]
+  [data-unit-id]
+  .unit-copy-wrapper
+  > *.cta-links
+  a:last-child {
+  margin-left: unset;
+  margin-right: 26px;
+}
+
+@media only screen and (max-width: 1068px) {
+  .main
+    [data-module-template="promos"]
+    [data-unit-id]
+    .unit-copy-wrapper
+    .cta-links
+    a:last-child,
+  .main
+    [data-module-template="heroes"]
+    [data-unit-id]
+    .unit-copy-wrapper
+    > *.cta-links
+    a:last-child
+    a:last-child {
+    margin-right: 20px;
+  }
+}
+.main [data-module-template="promos"]:not(.standalone-module) {
+  flex-direction: row-reverse;
+}
+@media screen and (max-width: 1441px) and (min-width: 1069px) {
+  .main
+    [data-module-template="promos"]:not(.standalone-module)
+    [data-unit-id]:nth-child(2n) {
+    border-right-width: 6px;
+    border-left-width: 12px;
+  }
+
+  .main
+    [data-module-template="promos"]:not(.standalone-module)
+    [data-unit-id]:nth-child(2n + 1) {
+    border-left-width: 6px;
+    border-right-width: 12px;
+  }
+}
+.main
+  [data-module-template="promos"]
+  [data-unit-id]
+  .unit-copy-wrapper
+  .cta-links
+  a:only-child,
+.main
+  [data-module-template="heroes"]
+  [data-unit-id]
+  .unit-copy-wrapper
+  > *.cta-links
+  a:only-child {
+  margin-right: unset;
+}

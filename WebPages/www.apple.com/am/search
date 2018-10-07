@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="robots" content="noindex, nofollow">
+    <meta id="myViewport" name="viewport"
+          content="width = device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=1 viewport-fit=cover">
+    <meta property="analytics-track" content="Search - Results"/>
+    <meta property="analytics-s-channel" content="search">
+    <script id="index.html">
+
+        function setTitle(language, countryCode) {
+            const path = window.location.pathname.toLowerCase();
+            const iSearch = path.indexOf("/search/");
+            let query;
+            if (iSearch + 8 < path.length) {
+                query = path.substr(iSearch + 8);
+            } else if ('URLSearchParams' in window) {
+                const urlSearchParams = new URLSearchParams(window.location.search);
+                query = urlSearchParams.get("query") || "";
+            }
+            const reDoubleSlash = new RegExp("[/]+", "g");
+            const reTrimSlash = new RegExp("^[/]|[/]$", "g");
+            query = query.replace(reDoubleSlash, "/");
+            query = query.replace(reTrimSlash, "");
+            query = query.replace(/^[-\s\\\\]+|[-\s\\\\]+$/g, '');
+            const queryPlain = query.replace(/[\s-]+/g, ' '); // N - to space
+            let titlePrefix;
+            const titleSuffix = " (" + countryCode.toUpperCase() + ")";
+            let isRtl = false;
+            switch (language) {
+                case "ar":
+                    titlePrefix = "نتائج البحث في متجر Apple";
+                    isRtl = true;
+                    break;
+                case "bg":
+                    titlePrefix = "Резултати от търсенето в Apple Store";
+                    break;
+                case "de":
+                    titlePrefix = "Apple Store Suchergebnisse";
+                    break;
+                case "el":
+                    titlePrefix = "Τα αποτελέσματα αναζήτησης της Apple Store";
+                    break;
+                case "en":
+                    titlePrefix = "Apple Store Search Results";
+                    break;
+                case "es":
+                    titlePrefix = "Resultados de la búsqueda de Apple Store";
+                    break;
+                case "et":
+                    titlePrefix = "Apple Store'i otsingutulemused";
+                    break;
+                case "fr":
+                    titlePrefix = "Résultats de la recherche dans l’Apple Store";
+                    break;
+                case "hr":
+                    titlePrefix = "Rezultati pretraživanja Apple Store";
+                    break;
+                case "id":
+                    titlePrefix = "Hasil Pencarian Apple Store";
+                    break;
+                case "lt":
+                    titlePrefix = '"Apple Store" paieškos rezultatai';
+                    break;
+                case "lv":
+                    titlePrefix = "Apple veikalu meklēšanas rezultāti";
+                    break;
+                case "ro":
+                    titlePrefix = "Rezultatele căutării Apple Store";
+                    break;
+                case "sk":
+                    titlePrefix = "Výsledky vyhľadávania v obchode Apple";
+                    break;
+                case "zh":
+                    titlePrefix = "Apple Store 搜索结果";
+                    break;
+                default:
+                    titlePrefix = "Apple Store Search Results";
+                    break;
+            }
+            let title;
+            if (isRtl) {
+                title = titleSuffix + " Apple - " + ((queryPlain) ? queryPlain : titlePrefix);
+            } else {
+                title = ((queryPlain) ? queryPlain : titlePrefix) + " - Apple" + titleSuffix;
+            }
+            if (document.title !== title) {
+                document.title = title;
+            }
+            addMetaTags(title, countryCode);
+        }
+
+        function addMetaTags(title, countryCode) {
+            let meta = document.createElement("meta");
+            meta.setAttribute("name", "description");
+            meta.setAttribute("content", title);
+            document.head.appendChild(meta);
+
+            const content = "appleglobal,apple" + "{COUNTRY_CODE}" + "search";
+            for (let i = 0; i < 3; i++) {
+                meta = document.createElement("meta");
+                meta.setAttribute("property", "analytics-s-bucket-" + i);
+                meta.setAttribute("content", content);
+                document.head.appendChild(meta);
+            }
+            meta = document.createElement("meta");
+            meta.setAttribute("property", "analytics-track");
+            meta.setAttribute("content", "Search - Results");
+            document.head.appendChild(meta);
+            meta = document.createElement("meta");
+            meta.setAttribute("property", "analytics-s-channel");
+            meta.setAttribute("content", "search");
+            document.head.appendChild(meta);
+
+
+            const script = document.createElement("script");
+            // script.setAttribute("src", "https:XwwwAppleX/metrics/ac-analytics/2.4/scripts/ac-analytics.js");
+            script.setAttribute("src", "");
+            script.setAttribute("type", "text/javascript");
+            script.setAttribute("charSet", "utf-8");
+            document.body.appendChild(script);
+        }
+
+        function getLanguageAndLcl() {
+            const path = window.location.pathname;
+            const langToLcl = {
+                "ar": ["ae-ar", "bh-ar", "eg-ar", "jo-ar", "kw-ar", "om-ar", "qa-ar", "sa-ar"],
+                "bg": ["bg"],
+                "de": ["li"],
+                "el": ["gr"],
+                "en": ["am", "bh", "bw", "eg", "gw", "il", "jo", "ke", "kw", "md", "me", "mk", "mt", "mz", "ng", "om", "qa", "si", "ug"],
+                "es": ["co", "cl"],
+                "et": ["ee"],
+                "fr": ["cf", "ci", "cm", "gn", "gq", "lu", "ma", "mg", "ml", "mu", "ne", "sn", "tn"],
+                "hr": ["hr"],
+                "id": ["id"],
+                "lt": ["lt"],
+                "lv": ["lv"],
+                "ro": ["ro"],
+                "sk": ["sk"],
+                "zh": ["mo"]
+            };
+            let langLcl = ["en", "ke"];
+            for (let lang in langToLcl) {
+                const lcls = langToLcl[lang];
+                for (let ccIndex in lcls) {
+                    const lcl = lcls[ccIndex];
+                    if (path.indexOf("/" + lcl + "/") >= 0) {
+                        langLcl = [lang, lcl];
+                        break;
+                    }
+                    if (path.indexOf("/" + lang + "_" + lcl.toUpperCase() + "/") >= 0) {
+                        langLcl = [lang, lcl];
+                        break;
+                    }
+                }
+            }
+            return langLcl;
+        }
+
+        function setBundle() {
+            const path = window.location.pathname;
+            // Scan back and detect base (ends with first long token before /search)
+            const iSearch = path.indexOf("/search");
+            let base = "/";
+            let foundSearch = (iSearch < 0);
+            const tokens = path.split("/");
+            const count = tokens.length - 1;
+            let i;
+            for (i = count; i >= 0; i--) {
+                const token = tokens[i];
+                if (token.length > 5) {
+                    if (foundSearch) {
+                        // Long token before search
+                        for (let j = 0; j <= i; j++) {
+                            const baseToken = tokens[j];
+                            if (baseToken.length > 0) {
+                                base += baseToken + "/";
+                            }
+                        }
+                        break; // not an LCL (locale designation)
+                    } else {
+                        if ((token === "search") && (i === 0 || tokens[i - 1] !== "search")) {
+                            foundSearch = true;
+                        }
+                    }
+                }
+            }
+            const fileName = base + "search-assets/build/dist/amlsearch20180802.002842.js";
+            const scriptElement = document.createElement('script');
+            scriptElement.setAttribute("src", fileName);
+            scriptElement.setAttribute("type", "text/javascript");
+            document.body.appendChild(scriptElement);
+        }
+
+        document.onreadystatechange = function () {
+            if (document.readyState === "interactive") {
+                const languageAndLcl = getLanguageAndLcl();
+                const language = languageAndLcl[0];
+                const lcl = languageAndLcl[1];
+                let countryCode;
+                if (lcl.length === 2) {
+                    countryCode = lcl.toUpperCase();
+                } else {
+                    countryCode = lcl.substr(0, 2).toUpperCase();
+                }
+                document.lang = language;
+                const htmlTag = document.head.parentElement;
+                htmlTag.setAttribute("lang", language + "-" + countryCode);
+                htmlTag.setAttribute("xml:lang", language + "-" + countryCode);
+                setTitle(language, countryCode);
+            }
+        };
+        window.onload = function () {
+            setBundle();
+            if (screen.width >= 768) {
+                const mvp = document.getElementById('myViewport');
+                mvp.setAttribute('content', 'width=1024');
+            }
+        };
+    </script>
+</head>
+<body class="" cz-shortcut-listen="true">
+<div id="react-app"></div>
+</body>
+
+</html>

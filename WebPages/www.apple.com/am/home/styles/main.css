@@ -1,0 +1,248 @@
+/*------------------------------------*\
+   HERO CSS
+\*------------------------------------*/
+
+
+
+
+/* HERO 1 IPHONE-XS */
+
+/* SCREENS */
+
+.logo-image-iphone-xs-logo-hero {
+    width: 225px;
+    height: 40px;
+    background-size: 225px 40px;
+    background-image: url("/euro/home/k/generic/images/logos/iphone_xs_logo_hero_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-iphone-xs-logo-hero {
+        background-image: url("/euro/home/k/generic/images/logos/iphone_xs_logo_hero_large_2x.png");
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-iphone-xs-logo-hero {
+        width: 193px;
+        height: 33px;
+        background-size: 193px 33px;
+        background-image: url("/euro/home/k/generic/images/logos/iphone_xs_logo_hero_medium.png");
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-iphone-xs-logo-hero {
+        background-image: url("/euro/home/k/generic/images/logos/iphone_xs_logo_hero_medium_2x.png");
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .logo-image-iphone-xs-logo-hero {
+        width: 160px;
+        height: 27px;
+        background-size: 160px 27px;
+        background-image: url("/euro/home/k/generic/images/logos/iphone_xs_logo_hero_small.png");
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .logo-image-iphone-xs-logo-hero {
+        background-image: url("/euro/home/k/generic/images/logos/iphone_xs_logo_hero_small_2x.png");
+    }
+}
+
+/* LOCAL FIXES */
+
+/* END HERO 1 IPHONE-XS */
+
+
+
+
+/* HERO 2 IPHONE-XR */
+
+/* SCREENS */
+
+
+
+/* LOCAL FIXES */
+
+/* END HERO 2 IPHONE-XR */
+
+
+
+
+/* PROMO 1 APPLE MUSIC */
+
+/* SCREENS */
+
+	.logo-image-music-white {
+		width: 129px;
+		height: 33px;
+		background-size: 129px 33px;
+		background-repeat: no-repeat;
+		background-image: url("/euro/home/k/generic/images/logos/music_white_large.png");
+		background-position: center
+	}
+	
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+		.logo-image-music-white {
+			background-image: url("/euro/home/k/generic/images/logos/music_white_large_2x.png")
+		}
+	}
+	
+	@media only screen and (max-width: 1068px) {
+		.logo-image-music-white {
+			width: 107px;
+			height: 27px;
+			background-size: 107px 27px;
+			background-repeat: no-repeat;
+			background-image: url("/euro/home/k/generic/images/logos/music_white_medium.png")
+		}
+	}
+	
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+		.logo-image-music-white {
+			background-image: url("/euro/home/k/generic/images/logos/music_white_medium_2x.png")
+		}
+	}
+	
+	@media only screen and (max-width: 735px) {
+		.logo-image-music-white {
+			width: 103px;
+			height: 26px;
+			background-size: 103px 26px;
+			background-repeat: no-repeat;
+			background-image: url("/euro/home/k/generic/images/logos/music_white_small.png")
+		}
+	}
+	
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+		.logo-image-music-white {
+			background-image: url("/euro/home/k/generic/images/logos/music_white_small_2x.png")
+		}
+	}
+	
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+		width: 1262px;
+		height: 580px;
+		background-size: 1262px 580px;
+		background-repeat: no-repeat;
+		background-image: url("/euro/home/k/generic/images/promos/music_three_months_large.jpg")
+	}
+	
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+		.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+			background-image: url("/euro/home/k/generic/images/promos/music_three_months_large_2x.jpg")
+		}
+	}
+	
+	@media only screen and (max-width: 1068px) {
+		.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+			width: 516px;
+			height: 490px;
+			background-size: 516px 490px;
+			background-repeat: no-repeat;
+			background-image: url("/euro/home/k/generic/images/promos/music_three_months_medium.jpg")
+		}
+	}
+	
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+		.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+			background-image: url("/euro/home/k/generic/images/promos/music_three_months_medium_2x.jpg")
+		}
+	}
+	
+	@media only screen and (max-width: 735px) {
+		.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+			width: 736px;
+			height: 548px;
+			background-size: 736px 548px;
+			background-repeat: no-repeat;
+			background-image: url("/euro/home/k/generic/images/promos/music_three_months_small.jpg")
+		}
+	}
+	
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+		.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+			background-image: url("/euro/home/k/generic/images/promos/music_three_months_small_2x.jpg")
+		}
+	}
+
+/* LOCAL FIXES */
+
+.main [data-module-template="promos"] [data-unit-id="apple-music-three-months"] .unit-copy-wrapper .subhead { margin-top: 10px; }
+.main [data-module-template="promos"] [data-unit-id="apple-music-three-months"] .unit-copy-wrapper .headline { margin-top: 57px; }
+
+/* END PROMO 1 APPLE MUSIC */
+
+
+
+
+/* PROMO 2 MACBOOK PRO */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 2 MACBOOK PRO */
+
+
+
+
+/* PROMO 3 IPAD */
+
+/* SCREENS */
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+    background-image: url("/euro/home/k/titles_us/images/promos/ipad/ipad_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/euro/home/k/titles_us/images/promos/ipad/ipad_large_2x.jpg");
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/euro/home/k/titles_us/images/promos/ipad/ipad_medium.jpg");
+        bottom: 24px;
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/euro/home/k/titles_us/images/promos/ipad/ipad_medium_2x.jpg");
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/euro/home/k/titles_us/images/promos/ipad/ipad_small.jpg");
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/euro/home/k/titles_us/images/promos/ipad/ipad_small_2x.jpg");
+    }
+}
+
+/* LOCAL FIXES */
+
+/* END PROMO 3 IPAD */
+
+
+
+/* PROMO 4 AIRPODS */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 4 AIRPODS */
+
+/*------------------------------------*\
+  END HERO CSS
+\*------------------------------------*/
