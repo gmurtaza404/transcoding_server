@@ -6,7 +6,6 @@
     Make sure, that memory footprints and maxweight have same unit.
 """
 def choose_ids(items, maxweight):
-    # knapsack solution
     result = [] # knapsack
     
     def bestvalue(i, j):
