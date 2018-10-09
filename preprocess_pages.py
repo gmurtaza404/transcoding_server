@@ -41,7 +41,7 @@ def make_differntial_pages(base_page,json_file,maxid_file):
         shutil.rmtree("differential_pages") 
         os.makedirs("differential_pages")
     #os.chdir("differential_pages")
-    create_web_dirs(maxid_file)
+    #create_web_dirs(maxid_file)
     
     for key in json_dict.keys():
         soup = BeautifulSoup(html_string,"html.parser")
@@ -49,8 +49,8 @@ def make_differntial_pages(base_page,json_file,maxid_file):
             element = soup.find(key, r_id=value)
             if element:
 				element.decompose()
-            #move_to_folder(soup,"{}.html".format(value))
-            move_to_server_measurements(soup, val)
+            move_to_folder(soup,"{}.html".format(value))
+            #move_to_server_measurements(soup, val)
             #print element
     os.chdir(root_directory_local)
 
@@ -59,11 +59,6 @@ def main():
     for filename in os.listdir("WebPages"):
         os.chdir("{}/WebPages/{}".format(root_directory,filename))
         # find index.html file and prettify it
-        if filename == "www.urdupoint.com":
-            print "skipping urdu point"
-            os.chdir(root_directory)
-            continue
-        
         page_pretty("index.html")
         base_page, json_file, maxid_file= label_tags("index.html")
         make_differntial_pages(base_page,json_file,maxid_file)

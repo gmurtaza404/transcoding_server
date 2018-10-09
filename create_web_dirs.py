@@ -15,6 +15,7 @@ def create_web_dirs(maxid_file):
 			os.system('sudo mkdir -p '+x_dir+'/public_html')	
 			os.system('sudo chown -R $(whoami):$(whoami) '+x_dir+'/public_html')
 		
+		print("Boht mazaa aa reyaa haii....\n")
 		if not os.path.exists('../../etc/apache2/sites-available/'+x_dir+'.conf'):
 			with open('/etc/apache2/sites-available/'+x_dir+'.conf', 'wb') as f:
 				f.write('<VirtualHost *:80>\n\tServerAdmin webmaster@'+x_dir+'\n\tServerName '+x_dir+'\n\tServerAlias www.'+x_dir+'\n\tDocumentRoot /var/www/'+x_dir+'/public_html\n\tErrorLog ${APACHE_LOG_DIR}/error.log\n\tCustomLog ${APACHE_LOG_DIR}/access.log combined\n</VirtualHost>')
