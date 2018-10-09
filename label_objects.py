@@ -54,7 +54,11 @@ def label_tags(page_path):
         f.write(updated_html)
     with open("{}_json.json".format(file_name),"wb") as f:
         f.write(json.dumps(tag_id))
-    return "{}_base.html".format(file_name), "{}_json.json".format(file_name)
+    #fatima code
+    with open("max_id.txt", "wb") as f:
+	    f.write(str(id-1))
+    
+    return "{}_base.html".format(file_name), "{}_json.json".format(file_name), "max_id.txt"
     
 
 def page_pretty(page_path):
