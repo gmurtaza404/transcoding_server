@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta property="fb:app_id" content="806127442825208" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shows/lekin - Geo.tv: Latest News Breaking Pakistan, World, Live Videos</title>
+<meta name='TITLE' content='Shows/lekin - Geo.tv: Latest News Breaking Pakistan, World, Live Videos'>
+<meta name="description" content="Shows/lekin | Geo TV provides latest news, breaking news, urdu news from pakistan, world, sports, cricket, business, politics, health. watch geo news on live.geo.tv.">
+<meta name="keywords" content="Shows/lekin - geo tv, geo news, geo urdu, urdu news, pakistan news, geo live, watch geo, geo videos, live news, live videos, cricket news, imran khan, asif ali zardari, ashfaq parvez kayani, raja pervaiz ashraf, iftikhar Muhammad chaudhry, nawaz sharif, altaf hussain, ppp, mqm, pml-n, anp, pti, supreme court, balochistan, quetta, karachi, lahore, peshawar, missing persons, hamid Mir, capital talk, najam sethi, kamran khan, gilani, taliban, nato">
+
+<link rel="next" href="https://www.geo.tv//shows/lekin/2" />
+<meta property="og:title" content="Shows/lekin - Geo.tv: Latest News Breaking Pakistan, World, Live Videos" />
+<meta property="og:description" content="Shows/lekin | Geo TV provides latest news, breaking news, urdu news from pakistan, world, sports, cricket, business, politics, health. watch geo news on live.geo.tv." />
+<meta property="og:url" content="https://www.geo.tv/shows/lekin">
+<meta property="og:image" content="" />
+<meta property="og:image:secure_url" content="" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="400" />
+
+<link rel="apple-touch-icon" sizes="57x57" href="../assets/front/images/gn-icons/57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../assets/front/images/gn-icons/60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../assets/front/images/gn-icons/72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../assets/front/images/gn-icons/76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../assets/front/images/gn-icons/114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../assets/front/images/gn-icons/120x120.png">
+<link rel="apple-touch-icon" sizes="128x128" href="../assets/front/images/gn-icons/128x128.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../assets/front/images/gn-icons/152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../assets/front/images/gn-icons/180x180.png">
+<link rel="apple-touch-icon" sizes="192x192" href="../assets/front/images/gn-icons/192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/front/images/gn-icons/16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/front/images/gn-icons/32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../assets/front/images/gn-icons/96x96.png">
+<link rel="icon" type="image/png" sizes="230x230" href="../assets/front/images/gn-icons/230x230.png">
+<link rel="icon" type="image/png" sizes="256x256" href="../assets/front/images/gn-icons/256x256.jpg">
+<link rel="shortcut icon" href="../assets/front/images/gn-icons/geo-favicon.jpg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Geo News">
+<meta name="msapplication-TileImage" content="https://www.geo.tv/assets/front/images/gn-icons/144x144.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#0D3975">
+<link rel="manifest" href="../manifest.json">
+<link rel="stylesheet" href="../assets/front/css/notification.css">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+        appId: "07399937-4be5-465d-b70f-faf99fb461e6",
+        autoRegister: true,
+        notifyButton: {enable: false},
+        welcomeNotification: {disable: true}
+    }]);
+</script>
+<link rel="stylesheet" href="https://www.geo.tv/assets/front/ui/css/geo.css" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+<link rel="stylesheet" href="https://push.jeem.tv/front-api/assets/css/theme-pn.css">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1627489-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<script type='text/javascript'>
+var _sf_async_config = {};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 49676;
+_sf_async_config.mobileApp = true;
+_sf_async_config.domain = 'geo.tv';
+_sf_async_config.useCanonical = true;
+_sf_async_config.sections = "shows,lekin"; //CHANGE THIS
+_sf_async_config.authors = ''; //CHANGE THIS
+/** CONFIGURATION END **/
+(function () {
+function loadChartbeat() {
+window._sf_endpt = (new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function () { oldonload(); loadChartbeat(); };
+})();
+</script>
+<script>
+  (function() {
+   var useSSL = 'https:' == document.location.protocol;
+   var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+   document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+
+    var mappingbillboard = googletag.sizeMapping().
+    addSize([1024, 0], [970, 90]).
+    addSize([768, 0], [970, 90]).
+    addSize([500, 0], [728, 90]).
+    addSize([0, 0], [320, 100]).
+    build();
+    
+    googletag.defineSlot('/1063725/geo_eng_cat_billboard_atf', [970, 90], 'div-gpt-ad-1523347432315-0').defineSizeMapping(mappingbillboard).setTargeting('pos', ['atf']).addService(googletag.pubads());
+    googletag.defineSlot('/1063725/geo_eng_cat_rectangle_atf', [300, 250], 'div-gpt-ad-1523347432315-2').setTargeting('pos', ['atf']).addService(googletag.pubads());
+    googletag.pubads().setTargeting("topic",["shows","Lekin"]);
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+</head>
+<body>
+<div id="transparent_div"></div>
+<div class="categorybg shows-detail">
+<div id="leftOverlay" class="leftOverlay" onclick="closeNav()"></div>
+<div id="mySidenav" class="sidenav">
+<style>
+        header nav ul.menu li.election-links,
+        .sidenav .inner-scroller ul li.election-links
+        {
+            display: none;
+        }
+    </style>
+<div class="inner-scroller">
+<div class="column-left">
+<div class="left-stick" id="leftstickmenu">
+<div class="logo-section">
+<a href="../index.html" class="logo open-section">
+ <img class="responsive-logo-white" src="https://www.geo.tv//assets/front/images/logo.svg" />
+<img style="display: none" class="responsive-logo-green" src="../assets/front/images/logo-green-white.svg" />
+</a>
+</div>
+<div class="search-area">
+<div class="input-group">
+<form action="https://www.geo.tv/search1/" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="006074140653376922054:rmtzskztmow" />
+<input type="hidden" name="cof" value="FORID:10" />
+<input type="hidden" name="ie" value="UTF-8" />
+</div>
+<div class="input-group">
+<input type="text" name="q" class="form-control" placeholder="Search">
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit"><img src="../assets/front/images/geo-menus-icons/search.svg"></button>
+</span>
+</div>
+</form>
+</div>
+</div>
+<div class="menu-area" id="style-1">
+<ul>
+<li class="election-links"><a class="open-section" href="../index.html" title=" Election 2018">Home</a></li>
+<li class="election-links"><a class="open-section" href="../election/constituency" title="Constituencies">Constituencies</a></li>
+<li class="election-links"><a class="open-section" href="../election/candidates" title="Candidates">Candidates</a></li>
+<li class="election-links"><a class="open-section" href="../election/results" title="Election Results">Results</a></li>
+<li><a class="open-section" href="../index.html"><img src="../assets/front/images/geo-menus-icons/latest-icon.svg" />Home</a></li>
+<li><a class="open-section" href="../latest-news"><img src="../assets/front/images/geo-menus-icons/latest-icon.svg" />latest</a></li>
+<li><a class="open-section" href="../category/pakistan"><img src="../assets/front/images/geo-menus-icons/pakistan-icon.svg" />pakistan</a></li>
+<li><a class="open-section" href="../category/world"><img src="../assets/front/images/geo-menus-icons/world-icon.svg" /> world</a> </li>
+<li><a class="open-section" href="../category/sports"><img src="../assets/front/images/geo-menus-icons/sports-icon.svg" /> sports</a></li>
+<li><a class="open-section" href="../category/entertainment"><img src="../assets/front/images/geo-menus-icons/entertainment-icon.svg" /> entertaintment</a></li>
+<li><a class="open-section" href="../category/business"><img src="../assets/front/images/geo-menus-icons/business-icon.svg" /> business</a></li>
+<li><a class="open-section" href="../category/health"><img src="../assets/front/images/geo-menus-icons/health-icon.svg" /> health</a></li>
+<li><a class="open-section" href="../category/amazing"><img src="../assets/front/images/geo-menus-icons/amazing-icon.svg" /> Amazing</a></li>
+<li><a class="open-section" href="../category/sci-tech"><img src="../assets/front/images/geo-menus-icons/sci-tech-icon.svg" /> Sci-Tech</a></li>
+<li><a class="open-section" href="../category/life-style"><img src="../assets/front/images/geo-menus-icons/sci-tech-icon.svg" />Life Style</a></li>
+<li><a class="open-section" href="../videos"><img src="../assets/front/images/geo-menus-icons/video-icon.svg" /> Videos</a></li>
+<li><a class="open-section" href="../tv-shows"><img src="../assets/front/images/geo-menus-icons/shows-icon.svg" /> shows</a></li>
+<li><a href="http://urdu.geo.tv" title="GEO Urdu" target="_blank">GEO Urdu</a></li>
+<li><a href="http://asool.geo.tv" title="Geo Asool" target="_blank">Geo Asool</a></li>
+<li><a href="lekin#_" class="contactus">Contact us</a></li>
+<li>
+<div style="display: table;margin: 0 auto;width: 150px;">
+<a href="javascript:void(0)" class="slide-bell top-head-bell-responsive"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.63 511.63" width="20" height="20" xml:space="preserve"> <g> <path d="M411.404,288.506c-18.455-45.014-27.685-92.455-27.685-142.325c0-31.405-9.131-56.337-27.398-74.802 c-18.28-18.464-43.406-29.602-75.383-33.407c1.52-3.424,2.279-6.945,2.279-10.562c0-7.614-2.663-14.091-7.991-19.416 C269.898,2.663,263.427,0,255.812,0c-7.61,0-14.083,2.663-19.414,7.994c-5.33,5.329-7.993,11.802-7.993,19.416 c0,3.617,0.76,7.135,2.285,10.562c-31.977,3.809-57.103,14.942-75.375,33.407c-18.271,18.464-27.406,43.396-27.406,74.802 c0,49.87-9.229,97.311-27.694,142.325c-18.464,45.015-45.776,82.847-81.942,113.492c0,9.896,3.617,18.463,10.85,25.693 c7.232,7.231,15.796,10.852,25.697,10.852h127.907c0,20.178,7.135,37.404,21.411,51.675c14.277,14.273,31.504,21.412,51.678,21.412 c20.177,0,37.404-7.139,51.675-21.412c14.273-14.271,21.412-31.497,21.412-51.675H456.81c9.897,0,18.47-3.613,25.694-10.852 c7.234-7.23,10.852-15.797,10.852-25.693C457.196,371.353,429.881,333.521,411.404,288.506z M255.816,488.787 c-13.894,0-25.747-4.896-35.548-14.698c-9.801-9.804-14.703-21.658-14.703-35.553c0-3.046,1.524-4.568,4.568-4.568 c3.046,0,4.57,1.522,4.57,4.568c0,11.231,4.043,20.889,12.132,28.982c8.091,8.094,17.749,12.135,28.98,12.135 c3.046,0,4.575,1.53,4.575,4.569C260.392,487.268,258.862,488.787,255.816,488.787z"></path> </g> </svg></a>
+<div class="fb-bot-btn" style="margin-top: 10px;float: left">
+<div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='101059326616167' color='blue' size='large' style="height: 27px;"></div>
+<script> window.fbAsyncInit = function () {
+                                        FB.init({appId: '1678638095724206', xfbml: true, version: 'v2.6'});
+                                    }</script>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="fullpage">
+<header>
+<div class="top-header long-block">
+<div class="long-story-logo">
+<div class="logo">
+<a class="open-section" href="../index.html"><img src="../assets/front/images/logo.svg"></a>
+</div>
+<div class="mobile-header">
+<div class="mobile-left">
+<div class="mobile-nav">
+<span class="mob-menu-icon" onclick="openNav()">
+<img src="../assets/front/images/Menu-blue.svg" class="mob-blue-icon">
+<img src="../assets/front/images/Menu-white.svg" class="mob-white-icon">
+</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</header>
+</div>
+<section class="category">
+<div class="scaler">
+<div class="fixed-bg dimmer"></div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="shows-detail-banner">
+<img src="https://www.geo.tv/assets/uploads/programs/2017-11-23/image_logo/69_2329876_programs.jpg"> </div>
+<div class="shows-profile">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-7 col-lg-8 shows-top-left">
+<h1>Lekin</h1>
+<p><p>It's a simple transition from a comment to a question. Lekin (But), that one word that you might use it frequently every day but never realize how often you do or how necessary it is. Living under dictatorships for most of its life, Pakistan - and its education system - doesn't encourage its people to ask questions or have an opinion. Most Pakistanis tend to accept what they hear, even if they are the most outrageous conspiracy theories, trying to understand it and hoping what they have heard is right. But hope isn't enough. When you have the courage to rebut a comment and are willing to sit back and listen to the answer, with an open mind, then you're talking journalism.</p>
+<p><br /> Lekin isn't your regular Pakistani news program. It is not going to be the show where you will hear confusing facts, watch irrational and overly-dramatic reports and be forced to see a messy screen. It is simply journalism, fact versus fiction, black and white, leaving it up to you to decide what colour you prefer.</p>
+<p><br /> Lekin takes the local news and breaks it down for you, in plain, frank words, with reports, information and guests who are related to the issue. Each story has two or more sides. We will present all angles to you, even the ones you didn't think of and allow you to make up your own mind. No drama. Just the truth. It is that simple.</p></p>
+<hr>
+<div class="timing-section">
+<h3>Timings</h3>
+<p>Friday, Saturday and Sunday @ 7:05 PM<br />
+Repeat: Next day @ 03:05 AM</p>
+<div class="a-header__share">
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-5 col-lg-4 shows-top-right">
+<div class="ads mrec ads-bg">
+
+
+<div id='div-gpt-ad-1523347432315-2' style='height:auto; width:auto;'>
+<script type='text/javascript'>
+                                            googletag.cmd.push(function () {
+                                                googletag.display('div-gpt-ad-1523347432315-2');
+                                            });
+                                        </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ads lb ads-bg" style="margin: 10px 0 30px;padding: 5px 0;">
+
+
+<div id='div-gpt-ad-1523347432315-0'>
+<script type='text/javascript'>
+                            googletag.cmd.push(function () {
+                                googletag.display('div-gpt-ad-1523347432315-0');
+                            });
+                        </script>
+ </div>
+</div>
+<input type="hidden" name="page_url" id="page_url" value="shows/lekin/0">
+<input type="hidden" name="category_id" id="category_id" value="43">
+<input type="hidden" name="video_id" id="video_id" value="0">
+<div class="more-episode laodMoreVideo">
+<div class="tittle-top">
+<h2>Episodes</h2>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/199713-lekin-18-june-2018-geo-news" title="LEKIN - 18 June 2018 - GEO NEWS">
+<img alt="LEKIN - 18 June 2018 - GEO NEWS" title="LEKIN - 18 June 2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-06-18/l_199713_9695514_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN - 18 June 2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/199596-lekin-17-june-2018-geo-news" title="LEKIN 17 June 2018 - GEO NEWS">
+<img alt="LEKIN 17 June 2018 - GEO NEWS" title="LEKIN 17 June 2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-06-17/l_199596_5970186_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN 17 June 2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/199488-lekin-16-june-2018-geo-news" title="LEKIN 16 June 2018 - GEO NEWS">
+<img alt="LEKIN 16 June 2018 - GEO NEWS" title="LEKIN 16 June 2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-06-16/l_199488_2442011_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN 16 June 2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+ <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/195317-lekin-13-may-2018-geo-news" title="LEKIN 13-May-2018 - GEO NEWS">
+<img alt="LEKIN 13-May-2018 - GEO NEWS" title="LEKIN 13-May-2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-05-13/l_195317_1799055_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN 13-May-2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/195201-lekin-12-may-2018-geo-news" title="LEKIN 12 May 2018 - GEO NEWS">
+<img alt="LEKIN 12 May 2018 - GEO NEWS" title="LEKIN 12 May 2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-05-12/l_195201_9541312_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN 12 May 2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/195055-lekin-11-may-2018-geo-news" title="LEKIN 11 May 2018 - GEO NEWS">
+<img alt="LEKIN 11 May 2018 - GEO NEWS" title="LEKIN 11 May 2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-05-11/l_195055_5031416_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN 11 May 2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/194200-lekin-05-may-2018-geo-news" title="LEKIN 05 May 2018 - GEO NEWS">
+<img alt="LEKIN 05 May 2018 - GEO NEWS" title="LEKIN 05 May 2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-05-05/l_194200_8479809_updates.jpg" class="cat-pic-shad">  <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN 05 May 2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/194077-lekin-04-may-2018-geo-news" title="LEKIN 04 May 2018 - GEO NEWS">
+<img alt="LEKIN 04 May 2018 - GEO NEWS" title="LEKIN 04 May 2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-05-04/l_194077_8478633_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN 04 May 2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/193219-lekin-28-april-2018-geo-news" title="LEKIN 28 April 2018 - GEO NEWS">
+<img alt="LEKIN 28 April 2018 - GEO NEWS" title="LEKIN 28 April 2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-04-28/l_193219_5823730_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN 28 April 2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/193074-lekin-27-april-2018-geo-news" title="LEKIN - 27 April 2018 - GEO NEWS">
+<img alt="LEKIN - 27 April 2018 - GEO NEWS" title="LEKIN - 27 April 2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-04-27/l_193074_4016150_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN - 27 April 2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+ <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/192302-lekin-22-april-2018-geo-news" title="LEKIN 22-April-2018 - GEO NEWS">
+<img alt="LEKIN 22-April-2018 - GEO NEWS" title="LEKIN 22-April-2018 - GEO NEWS" src="https://www.geo.tv/assets/uploads/updates/2018-04-22/l_192302_3857638_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN 22-April-2018 - GEO NEWS </h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 cat-box">
+<div class="cat-list">
+<a class="open-section" href="https://www.geo.tv/shows/lekin/192186-lekin-21-april-2018" title="LEKIN - 21 April 2018">
+<img alt="LEKIN - 21 April 2018" title="LEKIN - 21 April 2018" src="https://www.geo.tv/assets/uploads/updates/2018-04-21/l_192186_1934385_updates.jpg" class="cat-pic-shad"> <span class="video-icon"><img src="https://www.geo.tv/assets/front/images/video-icon-hover.svg"></span>
+<div class="main-heading">
+<h2>
+LEKIN - 21 April 2018 </h2>
+</div>
+</a>
+</div>
+</div>
+<input type="hidden" class="latestScrollPagination" value="1">
+</div>
+<div class="loaderP">
+
+<img class="loader" src="https://www.geo.tv/assets/front/images/geo-loader.gif">
+</div>
+</div>
+</div>
+</div>
+</section>
+<script src="https://player.h-cdn.com/loader.js?customer=geo" crossorigin="anonymous" async></script>
+</div>
+
+
+<script>
+    var botBtn = setInterval(function () {
+
+      if(typeof jQuery !== "undefined"){
+        clearInterval(botBtn);
+        jQuery(function () {
+
+          if(jQuery(".bottomMainFixed").hasClass("disable")){
+
+            jQuery(".fb-bot-btn").css({"bottom":0});
+
+          }else{
+
+            jQuery(".fb-bot-btn").css({"bottom":"75px"});
+
+          }
+
+        });
+
+      }
+
+    },100);
+
+  </script>
+<script src="https://www.geo.tv/assets/front/ui/js/thirdparty.js?isdd=23423423"></script>
+<script src="../assets/front/ui/js/my.js"></script>
+<script type='text/javascript'>
+var BaseURL = 'https://www.geo.tv/';
+var Page = 'shows","Lekin';
+var sg = 'shows';
+</script>
+<script type='text/javascript' src='https://www.geo.tv/assets/front/js/mycustom.js?p=33232'></script>
+<script type='text/javascript' src='https://www.geo.tv/assets/front/js/sw-app.js?traa=1234'></script>
+<a href="javascript:void(0)" class="slide-bell top-head-bell"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.63 511.63" width="20" height="20" xml:space="preserve"> <g> <path d="M411.404,288.506c-18.455-45.014-27.685-92.455-27.685-142.325c0-31.405-9.131-56.337-27.398-74.802 c-18.28-18.464-43.406-29.602-75.383-33.407c1.52-3.424,2.279-6.945,2.279-10.562c0-7.614-2.663-14.091-7.991-19.416 C269.898,2.663,263.427,0,255.812,0c-7.61,0-14.083,2.663-19.414,7.994c-5.33,5.329-7.993,11.802-7.993,19.416 c0,3.617,0.76,7.135,2.285,10.562c-31.977,3.809-57.103,14.942-75.375,33.407c-18.271,18.464-27.406,43.396-27.406,74.802 c0,49.87-9.229,97.311-27.694,142.325c-18.464,45.015-45.776,82.847-81.942,113.492c0,9.896,3.617,18.463,10.85,25.693 c7.232,7.231,15.796,10.852,25.697,10.852h127.907c0,20.178,7.135,37.404,21.411,51.675c14.277,14.273,31.504,21.412,51.678,21.412 c20.177,0,37.404-7.139,51.675-21.412c14.273-14.271,21.412-31.497,21.412-51.675H456.81c9.897,0,18.47-3.613,25.694-10.852 c7.234-7.23,10.852-15.797,10.852-25.693C457.196,371.353,429.881,333.521,411.404,288.506z M255.816,488.787 c-13.894,0-25.747-4.896-35.548-14.698c-9.801-9.804-14.703-21.658-14.703-35.553c0-3.046,1.524-4.568,4.568-4.568 c3.046,0,4.57,1.522,4.57,4.568c0,11.231,4.043,20.889,12.132,28.982c8.091,8.094,17.749,12.135,28.98,12.135 c3.046,0,4.575,1.53,4.575,4.569C260.392,487.268,258.862,488.787,255.816,488.787z"></path> </g> </svg></a>
+<div class="geo-news-panel fixed-side-button" style="right: -400px;">
+<div class="buttonBody"><a class="close-side-button closeSideBar" href="javascript:void(0)"><i class="fa fa-times"></i></a>
+<h2>Notification Management</h2>
+<hr>
+<div class="category-body">
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="pakistan" name="categories[]" disabled=""> <span>Pakistan</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="world" name="categories[]" disabled=""><span>World</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="entertainment" name="categories[]" disabled=""> <span>Entertainment</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="lifestyle" name="categories[]" disabled=""> <span>Lifestyle</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="sports" name="categories[]" disabled=""> <span>Sports</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="business" name="categories[]" disabled=""> <span>Business</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="videos" name="categories[]" disabled=""> <span>Videos</span>
+ <div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="tv-shows" name="categories[]" disabled=""> <span>Tv Shows</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="health" name="categories[]" disabled=""> <span>Health</span>
+<div class="clearfix"></div>
+</div>
+</div>
+<button type="button" class="btn btn-primary saveCategories disable">Save changes</button>
+<hr>
+<div for="subsChecked" class="sub-section"><input type="checkbox" id="subsChecked" class="subscribe-notifications"><span>Subscribe to desktop notification</span>
+<div class="clearfix"></div>
+</div><a href="http://immcorporate.com/" target="_blank" class="powered-text">Powered by IMM</a></div>
+</div>
+</body>
+</html>

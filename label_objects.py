@@ -26,12 +26,15 @@ def add_rids(regex, html_string_list,html_string,tag_id,id):
             tags = tags[0].split(">")
             tags[1] = ">"
         
-        insert_dict(tag_id,tags[0][1:],id)
-        tags.insert(1, "r_id=\"{}\"".format(id))
-        id+= 1
-        new_tags =  " ".join(tags)
-        html_string_list[html_string_list.index(temp_tags)] = new_tags
-    
+        try:
+            new_tags =  " ".join(tags)
+            html_string_list[html_string_list.index(temp_tags)] = new_tags
+            insert_dict(tag_id,tags[0][1:],id)
+            tags.insert(1, "r_id=\"{}\"".format(id))
+            id+= 1
+        except ValueError:
+            print "found an embedded tag"
+                    
     return html_string_list,id
 
 def label_tags(page_path):
@@ -41,7 +44,7 @@ def label_tags(page_path):
     file_name = page_path.split("/")[-1].split(".")[0]
     with open(page_path, "rb") as f:
         html_string = f.read()
-        regexes = [re.compile('<script.*?>'),re.compile('<noscript.*?>'), re.compile('<img.*?>'),re.compile('<link.*?>'),re.compile('<a.*?>'),re.compile('<video.*?>')]
+        regexes = [re.compile('<script.*?>'),re.compile('<noscript.*?>'), re.compile('<img.*?>'),re.compile('<link.*?>'),re.compile('<video.*?>')]
         html_string_list = html_string.split("\n")
         html_string_list = map((lambda x: x.strip()), html_string_list)
         for regex in regexes:

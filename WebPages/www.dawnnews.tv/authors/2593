@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html lang="en" class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html lang="en" class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html lang="en" class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html lang="en" class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+  
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <![endif]-->
+    <title>مجاہد بریلوی کی خبریں - Dawn News</title> 
+     <meta name='subject' content='Your window to latest news, analysis and features from Pakistan, South Asia and the world in Urdu language.' /> 
+     <meta property='fb:app_id' content='1389302098047338' />  
+     <meta property='og:locale' content='en_US' /> 
+     <link rel='canonical' href='../index.html' /> 
+     <link rel='dns-prefetch' href='https://i.dawn.com/'>
+     <link rel='dns-prefetch' href='https://ajax.googleapis.com/'>
+     <link rel='dns-prefetch' href='https://cdnjs.cloudflare.com/'>   
+     <link rel='index' href='../index.html' />
+     <meta name='description' content='پاکستان اور دنیا بھر کی تازہ ترین خبروں کے لئے چیک کریں' />
+     <meta property='og:image' content='http://www.dawnnews.tv/_img/social-default.jpg' />
+     <meta name='twitter:image' content='http://www.dawnnews.tv/_img/social-default.jpg' />
+     <script type="application/ld+json">
+         {"@context":"http:\/\/schema.org","@type":"organization","logo":"https:\/\/www.dawnnews.tv\/_img\/logo.png","name":"Dawn News Television","url":"https:\/\/www.dawnnews.tv","sameAs":["","https:\/\/twitter.com\/dawn_news","","https:\/\/www.youtube.com\/user\/dawnnewspakistan"],"potentialAction":{"@type":"SearchAction","target":"https:\/\/www.dawnnews.tv\/search?cx=partner-pub-8258178831251847:4394456500&ie=UTF-8&q={search_term_string}","query-input":"required name=search_term_string"}}
+     </script>
+    
+  
+    <link rel='preload' as='style' href='../_css/all.20181005165911.css'>
+    <link rel='preload' as='style' href='../_css/nafees.20180530190018.css'>
+    <link rel='preload' as='script' href='https://code.jquery.com/jquery-3.2.1.min.js'>
+    <link rel='preload' as='script' href='../_js/all.20181008130517.js'>
+    <link rel='stylesheet'  href='../_css/all.20181005165911.css' media='all'>
+    <link rel='stylesheet'  href='../_css/nafees.20180530190018.css' media='all'>
+      
+  
+<!-- - - - - - - adsense:header start - - - - - - -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+googleAdsSlots = [];
+googletag.cmd.push(function() {
+      
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-ASA-DESKTOP-TOP', [[728,90],[970,90],[970,250]], 'div-gpt-ad-1510380105517-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-BOTTOM', [728,90], 'div-gpt-ad-1509519280329-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-STICKY-DESKTOP-728x60', [728,60], 'div-gpt-ad-1538376694503-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-STICKY-MOBILE-320x50', [320,50], 'div-gpt-ad-1538376752024-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-DESKTOP-300x250-TOP', [300,250], 'div-gpt-ad-1455520357400-3').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-FLIMSTRIP-300x600', [[300,250],[300,600],[160,600]], 'div-gpt-ad-1520840073529-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-ASA-MOBILE-TOP', [[320,50],[728,90],[320,100]], 'div-gpt-ad-1518611317921-0').addService(googletag.pubads()));
+
+  googletag.pubads().set("document_language", "en");
+  
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().setTargeting('site', 'www.dawnnews.tv');
+  
+  googletag.pubads().disableInitialLoad();
+  googletag.enableServices();
+});
+</script>
+<!-- - - - - - - adsense:header end - - - - - - -->
+
+<!-- - - - - start:refresh slots - - - - -->
+<script type="text/javascript">
+window.onload = function() {
+  googletag.cmd.push(function() {
+
+    function isEnabled(div) {
+      if (!div) return false;
+
+      var display = $(div).css('display');
+      var parent = $(div).parent();
+
+      if (display == 'none') return false;
+
+      if (parent.is('body')) {
+        return true;
+      } else {
+        return isEnabled(parent);
+      }
+    }
+
+    var resetCorrelator = true; // issue #470
+    for (i = 0; i < googleAdsSlots.length; i++) {
+      var slot = googleAdsSlots[i];
+      var id = slot.getSlotElementId();
+      var div = document.getElementById(id);
+
+      if (isEnabled(div)) {
+        googletag.pubads().refresh([slot], {changeCorrelator: resetCorrelator});
+        resetCorrelator = false;
+      }
+    }
+
+    // http://stackoverflow.com/a/30935893
+    // https://developers.google.com/doubleclick-gpt/reference#googletag.events.SlotRenderEndedEvent
+    // it is required as sometimes rendered ad is empty but rad adds width and height on the div
+    // which doesn't allow the ad to collapse in this case
+    googletag.pubads().addEventListener('slotRenderEnded', function(e) {
+      var $renderedSlot = $('#' + e.slot.getSlotElementId());
+      if(e.isEmpty) {
+        $renderedSlot.parents('.ad').attr("style", "display: none !important");
+      } else {
+        // https://github.com/aleemb/dawn.com/issues/836
+        // multi dimension ads rad init, as we don't know which ad is rendered so
+        // we get the dimensions of rendered ad and then configure it with rad
+        var width = 0;
+        var height = 0;
+        var isMultidimensionalAd = $renderedSlot.parents('.ad').find('.rad--multi').length > 0;
+        var isPriorityAd = $renderedSlot.parents('.ad').hasClass('ad--priority');
+        if(e.size.length) {
+          width = e.size[0];
+          height = e.size[1];
+        }
+        if (isMultidimensionalAd) {
+          if (width && height) {
+            $renderedSlot.css({width: width+'px', height: height+'px'});
+            $renderedSlot.closest('.js-ad').css({maxWidth: width+'px', maxHeight: height+'px'});
+            $renderedSlot.rad({allowBiggerSizing:'true'});
+          }
+        }
+        if (isPriorityAd) {
+          if (width && height) {
+            var onMouseOut  =  "javascript:this.style.overflow='hidden';"
+                   +"__adi=$(this).find('iframe').eq(0);"
+                   +"__adi.height(height);";
+            var onMouseOver =  "javascript:this.style.overflow='visible';"
+                   +"__adi=$(this).find('iframe').eq(0);"
+                   +"__adi.contents().height();" // weird, adding this fixes Firefox expanding issue
+                   +"setTimeout(function(){__adi.height(__adi.contents().height() || height);}, 10);";
+            $renderedSlot.parents('.js-ad').attr('onMouseOver', onMouseOver);
+            $renderedSlot.parents('.js-ad').attr('onMouseOut', onMouseOut);
+          }
+        }
+      }
+    });
+  });
+}
+</script>
+<!-- - - - - end:refresh slots - - - - -->
+
+  
+<!-- - - - - start:onesignal link - - - - -->
+<link rel='manifest' href='../manifest.json'>
+<!-- - - - - end:onesignal link - - - - -->
+
+            <!-- - - - - start:google - - - - -->
+            <script type="text/javascript">
+            (function (i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function () {
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-40396753-3', 'auto');
+            
+    ga('set', 'dimension1', 'Authors');
+    ga('set', 'dimension2', '2593-Mujahid Barelvi');  
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
+            </script>
+            <!-- - - - - end:google - - - - -->
+
+    <!-- - - - - start:chartbeat - - - - -->
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    <!-- - - - - end:chartbeat - - - - -->
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body class=""  dir="rtl">
+
+<header class="pb-2">
+  
+<div class="container-fluid" dir="auto">
+  <div class="px-2  d-none  d-sm-block">
+    <ul class='nav  nav--network  text-center'>
+                <li class='nav__item  nav__item--live-tv        '><a  class='' href='../watch-live'>LIVE TV</a></li>
+                <li class='nav__item  nav__item--dawn-com        '><a  class='' href='https://www.dawn.com'>Dawn.COM</a></li>
+                <li class='nav__item  nav__item--images        '><a  class='' href='https://images.dawn.com'>Images</a></li>
+                <li class='nav__item  nav__item--herald        '><a  class='' href='https://herald.dawn.com'>Herald</a></li>
+                <li class='nav__item  nav__item--aurora        '><a  class='' href='https://aurora.dawn.com'>Aurora</a></li>
+                <li class='nav__item  nav__item--cityfm89        '><a target='_blank' class='' href='https://cityfm89.com'>CityFM89</a></li>
+                <li class='nav__item  nav__item--teeli        '><a target='_blank' class='' href='https://www.youtube.com/channel/UCkMdI0K-74jAjOmh5J5H97Q'>Teeli</a></li>
+                <li class='nav__item  nav__item--events        '><a target='_blank' class='' href='https://educationexpo.dawn.com'>Events</a></li>
+                <li class='nav__item  nav__item--supplements        '><a  class='' href='https://www.dawn.com/events/supplements'>Supplements</a></li>
+                <li class='nav__item  nav__item--classifieds        '><a target='_blank' class='' href='http://classifieds.dawn.com/'>Classifieds</a></li>
+                <li class='nav__item  nav__item--obituaries        '><a target='_blank' class='' href='https://obituary.dawn.com'>Obituaries</a></li>
+          </ul>
+  </div>
+</div> <!-- .container-fluid -->
+<div class='menu  headroom'>
+  <div class="mast  theme--urdu-light  py-1">
+  </div>
+  
+<div class='container-fluid  '>
+  <div class='px-2'>
+    <div class='row  no-gutters'>
+      <div class='col-12  col-md-11'>
+                  <a href='../index.html' class=''>
+                <h1 class='text-hide  logo  absolute'>
+                    Dawn News Television
+                </h1>      
+            </a>      <a class="watch-live  absolute  mr-7  mr-sm-9  mt-1" href='../watch-live'><img height="35" src='../_img/watch-live.gif' /></a>
+      <ul class='nav  nav--primary  nav--responsive  nav--urdu-primary    mr-5'>
+                <li class='nav__item  nav__item--home  theme    theme--interactive  theme--interactive--home    '><a  class='size-fsive  ' href='../index.html'>پہلا صفحہ</a>
+                  <!-- home listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--home'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088697/'>ملکی تاریخ میں ڈالر پہلی بار 136 روپے تک پہنچ گیا</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088692/'>اسلام آباد ایئرپورٹ پر مسافروں کو جہاز میں منتقل کرنے والا پُل گر گیا</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088689/'>شہباز شریف کی گرفتاری عمران خان کے ایما پر ہوئی، نواز شریف</a/></li>
+                  </ul><!-- home listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--latest-news  theme    theme--interactive  theme--interactive--latest-news    '><a  class='size-fsive  ' href='/latest-news'>تازہ ترین</a>
+                  <!-- latest-news listing started --!></li>
+                <li class='nav__item  nav__item--pakistan  theme    theme--interactive  theme--interactive--pakistan    '><a  class='size-fsive  ' href='/pakistan'>پاکستان</a>
+                  <!-- pakistan listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--pakistan'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088697/'>ملکی تاریخ میں ڈالر پہلی بار 136 روپے تک پہنچ گیا</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088701/'>ایف اے ٹی ایف وفد کی پاکستانی اداروں سے سوالات</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088699/'>سی پیک کو زرعی شعبے روزگار کی فراہمی کیلئے استعمال کرنے کا فیصلہ</a/></li>
+                  </ul><!-- pakistan listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--world  theme    theme--interactive  theme--interactive--world    '><a  class='size-fsive  ' href='/world'>دنیا</a>
+                  <!-- world listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--world'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088680/'>اسپین: بچے چوری کرنے والا مجرم ڈاکٹر عدالت سے بری</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088682/'>بھارت: جسمانی تعلقات سے انکار پر خاتون قتل</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088678/'>بھارت: 30 کم عمر طالبات پر تشدد کے الزام میں خواتین سمیت 9 افراد پر مقدمہ</a/></li>
+                  </ul><!-- world listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--sport  theme    theme--interactive  theme--interactive--sport    '><a  class='size-fsive  ' href='/sport'>کھیل</a>
+                  <!-- sport listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--sport'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088629/'>دبئی ٹیسٹ میں حارث کی سنچری، پاکستان کی اننگز 482 رنز پر تمام</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088646/'>انہوں نے میرے مذہب کے بارے میں بات کی، تب ہی انہیں مارا، مسلمان فائٹر</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088677/'>میتھیو ہیڈن بدترین حادثے میں بال بال بچ گئے</a/></li>
+                  </ul><!-- sport listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--entertainment  theme    theme--interactive  theme--interactive--entertainment    '><a  class='size-fsive  ' href='/entertainment'>انٹرٹینمنٹ</a>
+                  <!-- entertainment listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--entertainment'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088700/'>’سنسکاری‘ آلوک ناتھ پر بھی ریپ اور ہراساں کرنے کا الزام</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088695/'>بیمار رشی کپور سے سونالی اور پریانکا کی ملاقات</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088666/'>طیفا ان ٹربل سلک روڈ فلم فیسٹیول میں پیش</a/></li>
+                  </ul><!-- entertainment listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--health  theme    theme--interactive  theme--interactive--health    '><a  class='size-fsive  ' href='/health'>صحت</a>
+                  <!-- health listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--health'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088661/'>وٹامن ڈی اور ہڈیوں کی کمزوری کا آپس میں کوئی تعلق نہیں، تحقیق</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088599/'>چہرے کے بغیر بچے کی پیدائش</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088498/'>بریسٹ کینسر آگاہی کیلئے گلابی ربن کا استعمال کیسے شروع ہوا؟</a/></li>
+                  </ul><!-- health listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--tech  theme    theme--interactive  theme--interactive--tech    '><a  class='size-fsive  ' href='/tech'>ٹیکنالوجی</a>
+                  <!-- tech listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--tech'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088654/'>امریکا اور برطانیہ نے کمپیوٹرز کے ذریعے چین کی جاسوسی کو مسترد کردیا</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088602/'>گوگل کے پکسل فون لیک ہوکر مارکیٹ میں پہنچ گئے</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088492/'>فیس بک انسٹاگرام سے بھی لوکیشن ہسٹری ٹریک کرنے کی خواہشمند؟</a/></li>
+                  </ul><!-- tech listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--opinions  theme    theme--interactive  theme--interactive--opinions    '><a  class='size-fsive  ' href='/opinions'>بلاگ</a>
+                  <!-- opinions listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--opinions'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088536/'>لولی وڈ انڈسٹری میں آف بیٹ فلموں کی گنجائش ہے یا نہیں؟</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088644/'>شہباز شریف کی گرفتاری اور تاریخ کے ناخوشگوار واقعات </a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1087138/'>مِرا مزاج بچپن سے ہی کاہلانہ ہے</a/></li>
+                  </ul><!-- opinions listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--food  theme    theme--interactive  theme--interactive--food    '><a  class='size-fsive  ' href='/food'>دسترخوان</a>
+                  <!-- food listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--food'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088468/'>ناشتے کا اچھا انتخاب کیوں ضروری ہوتا ہے؟</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088422/'>آخر فورک میں یہ 4 کانٹے کیوں ہوتے ہیں؟</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088334/'>جسمانی وزن میں کمی کے لیے فائدہ مند سپر فوڈ</a/></li>
+                  </ul><!-- food listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--business  theme    theme--interactive  theme--interactive--business    '><a  class='size-fsive  ' href='/business'>کاروبار</a>
+                  <!-- business listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--business'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088697/'>ملکی تاریخ میں ڈالر پہلی بار 136 روپے تک پہنچ گیا</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088672/'>اقتصادیات کا نوبیل انعام 2 امریکی ماہر معاشیات کے نام</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088651/'>کراچی: اسٹاک ایکسچینج میں مندی، انڈیکس 38 ہزار پوائنٹ سے نیچے آگیا</a/></li>
+                  </ul><!-- business listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--videos  theme    theme--interactive  theme--interactive--videos    '><a  class='size-fsive  ' href='/videos'>ویڈیوز</a>
+                  <!-- videos listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--videos'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088679/'>معاشی بحران: حکومت کا آئی ایم ایف سے رجوع کرنے کا فیصلہ </a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088696/karachi-mai-gudiya-aur-gudday-ki-hoe-dhoom-dhaam-say-shaadi'>گڑیا اور گڈے کی ہوئی دھوم دھام سے شادی</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088681/charsadda-ki-musaiwira-faras-rafeeque-canvas-per-pak-fouj-ki-khidmat-ki-khuwahismand'>پختون ثقافت کی منظرکشی کرتی مصورہ پاک فوج کی خدمت کی خواہشمند </a/></li>
+                  </ul><!-- videos listing ended --!>
+                </li>
+                <li class='nav__item  nav__item--slideshows  theme    theme--interactive  theme--interactive--slideshows    '><a  class='size-fsive  ' href='/slideshows'>تصاویر</a>
+                  <!-- slideshows listing started --!>
+                  <ul class='nav--dropdown  float-right  mb-2  theme--interactive  theme--interactive--slideshows'>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088617/'>پاکستان اور آسٹریلیا کے درمیان پہلا ٹیسٹ میچ</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088435/'>جرمنی میں سب سے بڑا فیسٹیول</a/></li>
+                    <li class='nav__item  '><a class='size-four  story__link' href='https://www.dawnnews.tv/news/1088392/'>ان بولی وڈ اسٹارز کو کبھی گوگل سرچ مت کریں</a/></li>
+                  </ul><!-- slideshows listing ended --!>
+                </li>
+          </ul>
+      </div>
+      <div class='d-none  d-md-block  col-1'>
+        <ul class="nav  nav--aside  ">
+          <li class='nav__item  d-none  d-md-inline-block  hidden-sm-down'>
+            <button class='js-search  search  mt-2  bald  transparent'>
+              <img src='/_img/search.png' />
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class='search-box  text-center  '>
+<form accept-charset="utf-8" class="form-vertical" method="GET" action="https://www.dawnnews.tv/search">  <input class="form-control" type="hidden" name="cx" value="partner-pub-8258178831251847:4394456500">  <input class="form-control" type="hidden" name="cof" value="FORID:10">  <input class="form-control" type="hidden" name="ie" value="UTF-8">  <div class="form-group required"><input class="form-control search  col-offset-2  col-8  p-1  theme  my-1" placeholder="تلاش کریں" required id="q" type="text" name="q"></div></form></div></div></header>
+<div class="aux-content" style="overflow: hidden;">
+  <div class="container-fluid  px-1  d-none  my-2  pb-2  border--bottom  d-sm-block">
+            
+<!-- - - adsense: start - - -->
+<div class='ad    ad--priority' aria-hidden='true'>
+  
+  <div class="js-ad  clearfix" style='max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  rad--multi  ad__wrapper">
+      <div id='div-gpt-ad-1510380105517-0' class='ad__wrapper__slot' style='width:728px;height:90px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1510380105517-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+  </div>
+  <div class="container-fluid  px-1  d-block  pb-2  border--bottom  mb-2  d-sm-none">
+            
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  
+  <div class="js-ad  clearfix" style='max-width:320px;max-height:50px;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  rad--multi  ad__wrapper">
+      <div id='div-gpt-ad-1518611317921-0' class='ad__wrapper__slot' style='width:320px;height:50px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518611317921-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+  </div>
+</div>
+<div class="container-fluid  clearfix  pt-4"   dir="rtl">
+  <div class="content">
+    <main class="pb-2">
+      <div class="row">
+  <div class="col-12">
+    <div class="px-2  theme">
+      
+    <span  class='badge  size-nine  text--700  caps      pr-0  my-2'>مجاہد بریلوی</span>
+
+      
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1088644' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="../news/1088644/index.html"><img src="https://i.dawn.com/thumbnail/2018/10/5bbb436aee866.png"  alt="شہباز شریف کی گرفتاری اور تاریخ کے ناخوشگوار واقعات" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1088644'  class='story__title          '><a href='../news/1088644/index.html' class='story__link'>شہباز شریف کی گرفتاری اور تاریخ کے ناخوشگوار واقعات
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>سیاسی رہنماوں کی گرفتاریاں تو شروع سےہی ہورہی ہیں، بس وجہ کرپشن کےبجائے ملک سے غداری اور حکومت سے بغاوت ٹھہرائی جاتی تھی  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>شائع</span> <span class='timestamp--time  timeago' title='2018-10-08T16:53:24+05:00'><span class='timestamp__calendar'>اکتوبر 08, 2018</span> <span class='timestamp__time'>04:53pm</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1087751' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1087751/"><img src="https://i.dawn.com/thumbnail/2018/09/5baa104e4739d.jpg"  alt="ابھی تحریکِ انصاف کی حکومت کو 4 جمعے نہیں گزرے کہ۔۔۔" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1087751'  class='story__title          '><a href='https://www.dawnnews.tv/news/1087751/' class='story__link'>ابھی تحریکِ انصاف کی حکومت کو 4 جمعے نہیں گزرے کہ۔۔۔
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>جہاں تک میری معلومات اور مشاہدے کا تعلق ہے غالباً خان صاحب کا کوئی ایسا دوست نہیں بچا جو کہیں نہ کہیں کھپا نہ دیا گیا ہو  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>شائع</span> <span class='timestamp--time  timeago' title='2018-09-29T09:43:17+05:00'><span class='timestamp__calendar'>ستمبر 29, 2018</span> <span class='timestamp__time'>09:43am</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1087310' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1087310/"><img src="https://i.dawn.com/thumbnail/2018/09/5ba0d5474f221.jpg"  alt="خان صاحب 90 کیا 900 دن لے لیں مگر ایسا تو نہ کریں" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1087310'  class='story__title          '><a href='https://www.dawnnews.tv/news/1087310/' class='story__link'>خان صاحب 90 کیا 900 دن لے لیں مگر ایسا تو نہ کریں
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>جتنی مستعدی حاضریاں دینے میں لگائی جاتی ہے، اتنی کیا کبھی قائدِ اعظم کے اقوال پر عملدرآمد کرنے میں دکھائی گئی ہے؟  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>شائع</span> <span class='timestamp--time  timeago' title='2018-09-19T08:59:52+05:00'><span class='timestamp__calendar'>ستمبر 19, 2018</span> <span class='timestamp__time'>08:59am</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1086872' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1086872/"><img src="https://i.dawn.com/thumbnail/2018/09/5b97e06ef0905.jpg"  alt="خاموش طبع اور پُراثر سابق خاتونِ اول کلثوم نواز" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1086872'  class='story__title          '><a href='https://www.dawnnews.tv/news/1086872/' class='story__link'>خاموش طبع اور پُراثر سابق خاتونِ اول کلثوم نواز
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>بیگم کلثوم لٹریچر کی خاتون تھیں، ادب سے تعلق تھا، لکھتی بھی تھیں، مگر انہوں نے اس کو کبھی اپنی تشہیر کا ذریعہ نہیں بنایا  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>اپ ڈیٹ</span> <span class='timestamp--time  timeago' title='2018-09-12T12:00:42+05:00'><span class='timestamp__calendar'>ستمبر 12, 2018</span> <span class='timestamp__time'>12:00pm</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1086393' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1086393/"><img src="https://i.dawn.com/thumbnail/2018/09/5b8ecb386176f.jpg"  alt="میں واللہ صدرِ پاکستان ہوتا!" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1086393'  class='story__title          '><a href='https://www.dawnnews.tv/news/1086393/' class='story__link'>میں واللہ صدرِ پاکستان ہوتا!
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>جب جب فوجی حکومتیں آئیں تو آرمی چیف صدارت کی کیپ سر پر سجاتا اور آئین کی ایک شق کی مدد سے وزیراعظم کو گھر بھیج دیتا  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>اپ ڈیٹ</span> <span class='timestamp--time  timeago' title='2018-09-05T19:26:43+05:00'><span class='timestamp__calendar'>ستمبر 05, 2018</span> <span class='timestamp__time'>07:26pm</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1086035' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1086035/"><img src="https://i.dawn.com/thumbnail/2018/08/5b891788b46b9.jpg"  alt="عمران خان بھی وفاداروں کو نوازیں گے، یہ امید ہرگز نہیں تھی" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1086035'  class='story__title          '><a href='https://www.dawnnews.tv/news/1086035/' class='story__link'>عمران خان بھی وفاداروں کو نوازیں گے، یہ امید ہرگز نہیں تھی
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>نواز شریف اور بے نظر بھٹو کی حکومتوں سے بیزار لوگوں کو وزیرِاعظم عمران خان سے بے پناہ امیدیں وابستہ تھیں اور ہیں۔  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>شائع</span> <span class='timestamp--time  timeago' title='2018-08-31T17:24:37+05:00'><span class='timestamp__calendar'>اگست 31, 2018</span> <span class='timestamp__time'>05:24pm</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1085358' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1085358/"><img src="https://i.dawn.com/thumbnail/2018/08/5b7a3ed9e4df7.jpg"  alt="عمران خان کی تقریبِِ حلف برداری کا آنکھوں دیکھا حال" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1085358'  class='story__title          '><a href='https://www.dawnnews.tv/news/1085358/' class='story__link'>عمران خان کی تقریبِِ حلف برداری کا آنکھوں دیکھا حال
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>کپتان اپنے کھلاڑیوں کو پہلے ہی ہدایت کر چکے تھے کہ وہ جوش جذبات میں آ کر انہیں شرمندگی کا موقع نہیں دیں گے۔  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>اپ ڈیٹ</span> <span class='timestamp--time  timeago' title='2018-08-20T10:16:42+05:00'><span class='timestamp__calendar'>اگست 20, 2018</span> <span class='timestamp__time'>10:16am</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1085237' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1085237/"><img src="https://i.dawn.com/thumbnail/2018/08/5b781483504b0.jpg"  alt="ماضی کی یادوں سے خان صاحب کے حلف لینے تک کی داستان" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1085237'  class='story__title          '><a href='https://www.dawnnews.tv/news/1085237/' class='story__link'>ماضی کی یادوں سے خان صاحب کے حلف لینے تک کی داستان
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>اس بار خان صاحب بولنگ نہیں بیٹنگ کر رہے ہیں، کیا وہ ایک کے بعد دوسری اور پھر تواتر سے آنے والی باؤنسرز کے لیے تیار ہیں؟  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>اپ ڈیٹ</span> <span class='timestamp--time  timeago' title='2018-08-19T10:25:39+05:00'><span class='timestamp__calendar'>اگست 19, 2018</span> <span class='timestamp__time'>10:25am</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1084443' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1084443/"><img src="https://i.dawn.com/thumbnail/2018/08/5b67eb4dd97ab.jpg"  alt="کیا عمران خان بھٹو بن سکتے ہیں؟" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1084443'  class='story__title          '><a href='https://www.dawnnews.tv/news/1084443/' class='story__link'>کیا عمران خان بھٹو بن سکتے ہیں؟
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>اس بات سے کسی کو انکار نہیں کہ دونوں کو اپنی نوجوانی میں اپنے اپنے شعبوں کے حوالے سے بین الاقوامی طور پر بھرپور شہرت ملی  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>شائع</span> <span class='timestamp--time  timeago' title='2018-08-06T17:41:45+05:00'><span class='timestamp__calendar'>اگست 06, 2018</span> <span class='timestamp__time'>05:41pm</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1084092' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1084092/"><img src="https://i.dawn.com/thumbnail/2018/08/5b6199da76492.jpg"  alt="اسلام آباد پر راج کرنے کیلئے تختِ لاہور کا سہارا ناگزیر" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1084092'  class='story__title          '><a href='https://www.dawnnews.tv/news/1084092/' class='story__link'>اسلام آباد پر راج کرنے کیلئے تختِ لاہور کا سہارا ناگزیر
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>اسٹیبلشمنٹ بھی اس بات سے آگاہ تھی کہ شریف خاندان کو پنجاب میں شکست دیے جانے کے بعد ہی عمران خان کو کھلا میدان مل سکے گا  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>شائع</span> <span class='timestamp--time  timeago' title='2018-08-01T16:31:23+05:00'><span class='timestamp__calendar'>اگست 01, 2018</span> <span class='timestamp__time'>04:31pm</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    pb-2' data-id='1083266' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1083266/"><img src="https://i.dawn.com/thumbnail/2018/07/5b58350315cde.png"  alt="پاکستان میں انتخابات کا المیہ" /></a></div>        
+    </figure>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1083266'  class='story__title          '><a href='https://www.dawnnews.tv/news/1083266/' class='story__link'>پاکستان میں انتخابات کا المیہ
+</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt        '>بھٹو صاحب ایسی سویلین اور ملٹری نوکر شاہی کے نرغے میں بھی آچکے تھے کہ جو ہر دور کے حکمرانوں کے آگے سر بسجود ہوتے ہیں۔  <!-- box/date --><span class='story__time      '><span class='timestamp--label'>شائع</span> <span class='timestamp--time  timeago' title='2018-07-25T13:30:19+05:00'><span class='timestamp__calendar'>جولائ 25, 2018</span> <span class='timestamp__time'>01:30pm</span></span></span> 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+    </div>
+    <div class="my-3">
+          </div>
+  </div><!-- .-->
+</div><!-- .row -->    </main>
+    <aside class="pb-4">
+
+<!-- - - - - - - widget:start id: 68 -  type: adsense -  object_id:  -  title: Desk Mrec Top - - - - - - -->
+<section class='widget  theme  widget-adsense    modifywidget--border-off  modifywidget--transparent'  data-type='adsense' data-id='68'>
+<div class='widget__header  '>
+<h2 class='widget__title    modifywidget--title-off'><span>Desk Mrec Top</span></h2>
+</div>
+<div class='widget__main  '>
+        
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  
+  <div class="js-ad  clearfix" style='max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  ad__wrapper">
+      <div id='div-gpt-ad-1455520357400-3' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-3'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 582 -  type: videos -  object_id:  -  title: مقبول ویڈیوز - - - - - - -->
+<section class='widget  theme  widget-videos    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent'  data-type='videos' data-id='582'>
+<div class='widget__header  '>
+<h2 class='widget__title    modifywidget--title-center'><span>مقبول ویڈیوز</span></h2>
+</div>
+<div class='widget__main  '>
+
+<!-- - - - article - - - -->
+<article class='box  story    mb-2  border--bottom' data-id='1088607' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1088607/"><img src="https://i.dawn.com/thumbnail/2018/10/5bba2cd032279.png"  alt="کسی کرپٹ کو نہیں چھوڑوں گا، وزیراعظم کا دو ٹوک اعلان" /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+
+    <!-- box/title small -->
+    <h2 data-layout='story'  data-id='1088607'  class='story__title    size-five      '><a href='https://www.dawnnews.tv/news/1088607/' class='story__link'>کسی کرپٹ کو نہیں چھوڑوں گا، وزیراعظم کا دو ٹوک اعلان
+</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    mb-2  border--bottom' data-id='1088634' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="../news/1088634/index.html"><img src="https://i.dawn.com/thumbnail/2018/10/5bbb20c6b4eb1.png"  alt="پولینڈ کے بائیکرز میاں بیوی کا گجرانوالہ میں شاندار استقبال" /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+
+    <!-- box/title small -->
+    <h2 data-layout='story'  data-id='1088634'  class='story__title    size-five      '><a href='../news/1088634/index.html' class='story__link'>پولینڈ کے بائیکرز میاں بیوی کا گجرانوالہ میں شاندار استقبال
+</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 587 -  type: tvprograms -  object_id:  -  title: ٹی وی پروگرام - - - - - - -->
+<section class='widget  theme  widget-tvprograms    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent'  data-type='tvprograms' data-id='587'>
+<div class='widget__header  '>
+<h2 class='widget__title    modifywidget--title-center'><span>ٹی وی پروگرام</span></h2>
+</div>
+<div class='widget__main  '>
+  <article class="box  story    mb-2  border--bottom" data-id="1088684" data-layout="story">
+    <figure class="media  media--stretch  col-sm-12  col-12">
+      <div class="media__item">
+        <a href="../videos/news-eye">
+          <img src="https://i.dawn.com/medium/2018/10/5bbbb69d3aac0.png" alt="نیوز آئی، 08 اکتوبر
+">
+        </a>
+      </div>
+    </figure>
+    <h2 data-layout="story" data-id="1088684" class="story__title">
+      <a href="../videos/news-eye" class="story__link">نیوز آئی، 08 اکتوبر
+</a>
+    </h2>    
+  </article>  <article class="box  story    mb-2  border--bottom" data-id="1088686" data-layout="story">
+    <figure class="media  media--stretch  col-sm-12  col-12">
+      <div class="media__item">
+        <a href="../videos/zara-hat-key">
+          <img src="https://i.dawn.com/medium/2018/10/5bbbb7218ed7c.png" alt="ذرا ہٹ کے، 08 اکتوبر
+">
+        </a>
+      </div>
+    </figure>
+    <h2 data-layout="story" data-id="1088686" class="story__title">
+      <a href="../videos/zara-hat-key" class="story__link">ذرا ہٹ کے، 08 اکتوبر
+</a>
+    </h2>    
+  </article>  <article class="box  story    mb-2  border--bottom" data-id="1088685" data-layout="story">
+    <figure class="media  media--stretch  col-sm-12  col-12">
+      <div class="media__item">
+        <a href="../videos/bol-bol-pakistan">
+          <img src="https://i.dawn.com/medium/2018/10/5bbbb6e28ff69.png" alt="بول بول پاکستان، 8 اکتوبر
+">
+        </a>
+      </div>
+    </figure>
+    <h2 data-layout="story" data-id="1088685" class="story__title">
+      <a href="../videos/bol-bol-pakistan" class="story__link">بول بول پاکستان، 8 اکتوبر
+</a>
+    </h2>    
+  </article></div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 553 -  type: adsense -  object_id:  -  title: Filmstrip - - - - - - -->
+<section class='widget  theme  widget-adsense    modifywidget--border-off  modifywidget--transparent'  data-type='adsense' data-id='553'>
+<div class='widget__header  '>
+<h2 class='widget__title    modifywidget--title-off'><span>Filmstrip</span></h2>
+</div>
+<div class='widget__main  '>
+        
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  
+  <div class="js-ad  clearfix" style='max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  rad--multi  ad__wrapper">
+      <div id='div-gpt-ad-1520840073529-0' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1520840073529-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 161 -  type: blogs -  object_id:  -  title: کالمز / بلاگ - - - - - - -->
+<section class='widget  theme  widget-blogs    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent'  data-type='blogs' data-id='161'>
+<div class='widget__header  '>
+<h2 class='widget__title    modifywidget--title-center'><span>کالمز / بلاگ</span></h2>
+</div>
+<div class='widget__main  '>
+<div class='row  no-gutters'>
+
+      <div class='col-12'>
+        <div class='mb-2  pb-2  border--bottom'>
+          <div class='row  no-gutters'>
+            <div class='col-3'>
+              <a href='https://www.dawnnews.tv/authors/2620'><img src='https://i.dawn.com/urdu/users/2620.jpg?181006044203' /></a>
+            </div>
+            <div class='col-9'>
+              <div class='size-three  px-2  mb-2'><a class='text--black' href='../news/1088536.1'>لولی وڈ انڈسٹری میں آف بیٹ فلموں کی گنجائش ہے یا نہیں؟
+</a></div>
+              <div class='size-one  px-2  widget-blogs__author-name'><a href='https://www.dawnnews.tv/authors/2620'> ابوعلیحہ</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='col-12'>
+        <div class='mb-2  pb-2  border--bottom'>
+          <div class='row  no-gutters'>
+            <div class='col-3'>
+              <a href='2593'><img src='https://i.dawn.com/urdu/users/2593.jpg?180725012653' /></a>
+            </div>
+            <div class='col-9'>
+              <div class='size-three  px-2  mb-2'><a class='text--black' href='https://www.dawnnews.tv/news/1088644'>شہباز شریف کی گرفتاری اور تاریخ کے ناخوشگوار واقعات
+</a></div>
+              <div class='size-one  px-2  widget-blogs__author-name'><a href='2593'>مجاہد بریلوی</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='col-12'>
+        <div class='mb-2  pb-2  border--bottom'>
+          <div class='row  no-gutters'>
+            <div class='col-3'>
+              <a href='https://www.dawnnews.tv/authors/2484'><img src='https://i.dawn.com/urdu/users/2484.jpg?171023124526' /></a>
+            </div>
+            <div class='col-9'>
+              <div class='size-three  px-2  mb-2'><a class='text--black' href='https://www.dawnnews.tv/news/1087138'>مِرا مزاج بچپن سے ہی کاہلانہ ہے
+</a></div>
+              <div class='size-one  px-2  widget-blogs__author-name'><a href='https://www.dawnnews.tv/authors/2484'>عثمان جامعی</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='col-12'>
+        <div class='mb-2  pb-2  border--bottom'>
+          <div class='row  no-gutters'>
+            <div class='col-3'>
+              <a href='https://www.dawnnews.tv/authors/259'><img src='https://i.dawn.com/urdu/users/259.jpg?170705040131' /></a>
+            </div>
+            <div class='col-9'>
+              <div class='size-three  px-2  mb-2'><a class='text--black' href='https://www.dawnnews.tv/news/1087958'>اسلام آباد کو وزارتِ داخلہ کے ماتحت نہ کریں!
+</a></div>
+              <div class='size-one  px-2  widget-blogs__author-name'><a href='https://www.dawnnews.tv/authors/259'>آئی اے رحمان</a></div>
+            </div>
+          </div>
+        </div>
+      </div>    <div class='col-12'>
+      <div class="text-left"><a class="caps  size-one  read-more" href="../opinions">مزید پڑھیں</a></div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 653 -  type: stories -  object_id:  -  title: کارٹون - - - - - - -->
+<section class='widget  theme  widget-stories    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent'  data-type='stories' data-id='653'>
+<div class='widget__header  '>
+<h2 class='widget__title    modifywidget--title-center'><span>کارٹون</span></h2>
+</div>
+<div class='widget__main  '>
+
+
+<div class=' slideshow--list        mt-2'>
+ <div class='clear--both'>  <div class='slideshow--row__item   active     float-right' data-id='0' style='float:right;width:99%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1088687' data-layout='slideshow'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1088687/"><img src="https://i.dawn.com/medium/2018/10/5bbc102bd28f8.jpg"  alt="کارٹون : 9 اکتوبر 2018" /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'>  <div class='slideshow--row__item      float-right' data-id='1' style='float:right;width:99%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1088618' data-layout='slideshow'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title="" href="https://www.dawnnews.tv/news/1088618/"><img src="https://i.dawn.com/medium/2018/10/5bbab558386ba.jpg"  alt="کارٹون : 8 اکتوبر 2018" /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'> </div></div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+</aside>
+  </div>
+</div>
+<footer>
+	<div class='pt-2  px-2  mb-2  cf'>
+		        
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  
+  <div class="js-ad  clearfix" style='max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  ad__wrapper">
+      <div id='div-gpt-ad-1509519280329-0' class='ad__wrapper__slot' style='width:728px;height:90px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1509519280329-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+	</div>
+
+	
+    <script  src='https://code.jquery.com/jquery-3.2.1.min.js' defer='true'></script>
+    <script  src='../_js/all.20181008130517.js' defer='true'></script>
+<div class='pt-2  px-2  mb-2  clearfix'>
+  <!-- sticky bottom ad
+  https://github.com/aleemb/dawn.com/issues/1039 -->
+          
+<!-- - - adsense: start - - -->
+<div class='ad  py-2   ad--sticky  d-none  d-sm-block' aria-hidden='true'>
+  
+  <div class="js-ad  clearfix" style='max-width:728px;max-height:60px;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  ad__wrapper">
+      <div id='div-gpt-ad-1538376694503-0' class='ad__wrapper__slot' style='width:728px;height:60px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1538376694503-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+          
+<!-- - - adsense: start - - -->
+<div class='ad  py-2  d-block  ad--sticky  d-sm-none' aria-hidden='true'>
+  
+  <div class="js-ad  clearfix" style='max-width:320px;max-height:50px;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  ad__wrapper">
+      <div id='div-gpt-ad-1538376752024-0' class='ad__wrapper__slot' style='width:320px;height:50px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1538376752024-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+
+<div class="p-2  mx-2  theme  theme--urdu">
+  <div class="container-fluid">
+    <div class="pt-4">
+      <div class="row">
+        <div class="col-sm-2  col-12">
+          <ul class="nav">
+            <li class="nav__item"><img alt="Dawn News" src="../_img/logo.png"></li>
+            <li class="nav__item  col-12  size-one  px-0  mt-2"><p>کاپی رائٹ &copy; 2018</p></li>
+            <li class="nav__item  col-12"><p class="d-none"> Tupernic Private Limited. (<a href="https://www.tupernic.com">www.tupernic.com</a>).Designed for <a href="https://www.dawn.com">Dawn</a>.</p></li>
+          </ul>
+        </div>
+        <div class="col-sm-10  col-12">
+          <ul class="nav  nav--urdu-footer  m-auto  mt-sm-4">
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://www.dawn.com/contact">رابطہ کریں</a></li>
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://www.facebook.com/DawnNews">فیس بک</a></li>
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://twitter.com/Dawn_News">ٹو ئٹر</a></li>
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://www.instagram.com/dawnnewstv/">انسٹاگرام</a></li>
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://www.dawn.com/terms">استعمال کے شرائط و ضوابط</a></li>
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://www.dawn.com/privacy">پرائیویسی پالیسی</a></li>
+          </ul>
+          <hr>
+          <ul class="nav  nav--urdu-footer">
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://www.dawn.com">ڈان ڈاٹ کام</a></li>
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://cityfm89.com/">سٹی ایف ایم 89</a></li>
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://herald.dawn.com/">ھیرالڈ</a></li>
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://aurora.dawn.com/">ارور١</a></li>
+            <li class="nav__item  px-2  mb-2  palm-bald--left"><a class="theme--urdu" href="https://images.dawn.com/">امیجز</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+            <!-- - - - - start:alexa - - - - -->
+            <script type="text/javascript">
+              _atrk_opts = { atrk_acct:"1DJ3k1acFH00UN", domain:"dawnnews.tv",dynamic: true};
+              (function() {
+                var as = document.createElement('script');
+                as.type = 'text/javascript';
+                as.async = true;
+                as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+                var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+            </script>
+            <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=1DJ3k1acFH00UN" style="display:none" height="1" width="1" alt="" /></noscript>
+            <!-- - - - - end:alexa - - - - -->
+    <!-- - - - - start:chartbeat publishing - - - - -->
+    <script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 62163;
+    _sf_async_config.domain = "dawnnews.tv";
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = "Authors,2593-Mujahid Barelvi";
+    _sf_async_config.authors = "";
+    /** CONFIGURATION END **/
+
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt = (new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+    </script>
+    <!-- - - - - end:chartbeat - - - - -->
+
+
+            <!-- - - - - start:onesignal - - - - -->
+            <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+            <script>
+            var OneSignal = window.OneSignal || [];
+            OneSignal.push(["init", {
+                appId: "5b286ac4-a1dd-47c1-9b8a-5627135aaf0f",
+                /* Set to true to automatically prompt visitors */
+                autoRegister: true,
+
+                // https://documentation.onesignal.com/docs/customize-permission-messages-1
+                notifyButton: {
+                    text: {
+                        'tip.state.unsubscribed': 'Subscribe to notifications',
+                        'tip.state.subscribed': "You're subscribed to notifications",
+                        'tip.state.blocked': "You've blocked notifications",
+                        'message.prenotify': 'Click to subscribe to notifications',
+                        'message.action.subscribed': "Thanks for subscribing!",
+                        'message.action.resubscribed': "You're subscribed to notifications",
+                        'message.action.unsubscribed': "You won't receive notifications again",
+                        'dialog.main.title': 'Manage Site Notifications',
+                        'dialog.main.button.subscribe': 'SUBSCRIBE',
+                        'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+                        'dialog.blocked.title': 'Unblock Notifications',
+                        'dialog.blocked.message': "Follow these instructions to allow notifications:"
+                    },
+                    /* Set to false to hide */
+                    enable: false
+                },
+
+                prenotify: true,
+                persistNotification: false,
+                showCredit: false,
+                // Your other init options here
+                promptOptions: {
+                    /* Change bold title, limited to 30 characters */
+                    siteName: "Dawnnews TV",
+                    /* Subtitle, limited to 90 characters */
+                    actionMessage: "We'd like to show you notifications for the latest news and updates.",
+                    /* Example notification title */
+                    exampleNotificationTitle: 'Subscribe for news updates',
+                    /* Example notification message */
+                    exampleNotificationMessage: "",
+                    /* Text below example notification, limited to 50 characters */
+                    exampleNotificationCaption: 'You can unsubscribe anytime',
+                    /* Accept button text, limited to 15 characters */
+                    acceptButtonText: "ALLOW",
+                    /* Cancel button text, limited to 15 characters */
+                    cancelButtonText: "NO THANKS"
+                }
+            }]);
+            // OneSignal.setSubscription(true);
+            OneSignal.push(function() {
+                // forcefully popup for notification subscription
+                // OneSignal.registerForPushNotifications();
+                // for debugging
+                // OneSignal.log.setLevel('trace');
+                /*OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+                    if (isEnabled) {
+                      console.log("Push notifications are enabled!");
+                    }
+                    else {
+                      console.log("Push notifications are not enabled yet.");
+                    }
+                });*/
+            });
+            </script>
+            <!-- - - - - end:onesignal - - - - -->
+</footer>
+<!--2018-10-09 12:32:05-->
+</body>
+</html>

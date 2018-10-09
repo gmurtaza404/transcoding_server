@@ -1,0 +1,3705 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="fb:app_id" content="806127442825208" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pakistan Election 2018: Results, Party Position, Candidates, News, Live Updates</title>
+<meta name='TITLE' content='Pakistan Election 2018: Results, Party Position, Candidates, News, Live Updates'>
+<meta name="description" content="Pakistan Election 2018">
+<meta name="keywords" content="election results, electionspakistan pk, election 2018, election 2018 pakistan">
+<meta property="og:title" content="Pakistan Election 2018: Results, Party Position, Candidates, News, Live Updates" />
+<meta property="og:image" content="https://www.geo.tv/assets/front/images/election/og-images/election-constituencies-page.jpeg" />
+<meta property="og:description" content="Pakistan Election 2018" />
+<meta property="og:url" content="https://www.geo.tv/election/constituency">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@geonews_english">
+<meta name="twitter:title" content="Pakistan Election 2018: Results, Party Position, Candidates, News, Live Updates">
+<meta name="twitter:description" content="Pakistan Election 2018">
+<meta name="twitter:image" content="https://www.geo.tv/assets/front/images/election/og-images/election-constituencies-page.jpeg">
+
+<link rel="apple-touch-icon" sizes="57x57" href="../assets/front/images/gn-icons/57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../assets/front/images/gn-icons/60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../assets/front/images/gn-icons/72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../assets/front/images/gn-icons/76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../assets/front/images/gn-icons/114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../assets/front/images/gn-icons/120x120.png">
+<link rel="apple-touch-icon" sizes="128x128" href="../assets/front/images/gn-icons/128x128.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../assets/front/images/gn-icons/152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../assets/front/images/gn-icons/180x180.png">
+<link rel="apple-touch-icon" sizes="192x192" href="../assets/front/images/gn-icons/192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/front/images/gn-icons/16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/front/images/gn-icons/32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../assets/front/images/gn-icons/96x96.png">
+<link rel="icon" type="image/png" sizes="230x230" href="../assets/front/images/gn-icons/230x230.png">
+<link rel="icon" type="image/png" sizes="256x256" href="../assets/front/images/gn-icons/256x256.jpg">
+<link rel="shortcut icon" href="../assets/front/images/gn-icons/geo-favicon.jpg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Geo News">
+<meta name="msapplication-TileImage" content="https://www.geo.tv/assets/front/images/gn-icons/144x144.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#0D3975">
+<link rel="manifest" href="../manifest.json">
+<link rel="stylesheet" href="../assets/front/css/notification.css">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+        appId: "07399937-4be5-465d-b70f-faf99fb461e6",
+        autoRegister: true,
+        notifyButton: {enable: false},
+        welcomeNotification: {disable: true}
+    }]);
+</script>
+<link rel="stylesheet" href="../assets/front/ui/css/geo.css?vr=3&amp;123456" type="text/css" />
+<link href="https://www.geo.tv/assets/front/css/election.css?abcdefghijklmnopqrstuvw" rel="stylesheet" type="text/css">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1627489-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<script type='text/javascript'>
+var _sf_async_config = {};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 49676;
+_sf_async_config.mobileApp = true;
+_sf_async_config.domain = 'geo.tv';
+_sf_async_config.useCanonical = true;
+_sf_async_config.sections = "election,constituency"; //CHANGE THIS
+_sf_async_config.authors = ''; //CHANGE THIS
+/** CONFIGURATION END **/
+(function () {
+function loadChartbeat() {
+window._sf_endpt = (new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function () { oldonload(); loadChartbeat(); };
+})();
+</script>
+<script>
+    function mobilecheck()
+    {
+      var check = false;
+      (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) check = true;})(navigator.userAgent||navigator.vendor||window.opera);
+      return check;
+    }
+
+    (function() {
+       var useSSL = 'https:' == document.location.protocol;
+       var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+       document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+</script>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+
+        /*var mappingbillboard = googletag.sizeMapping().
+        addSize([1024, 0], [970, 90]).
+        addSize([768, 0], [970, 90]).
+        addSize([500, 0], [728, 90]).
+        addSize([0, 0], [320, 100]).
+        build();*/
+
+        var mappingbillboard = googletag.sizeMapping().
+        addSize([1024, 0], [970, 90]).
+        addSize([768, 0], [970, 90]).
+        addSize([500, 0], [728, 90]).
+        addSize([0, 0], [320, 100]).
+        build();
+
+        var mappingbillboardhome = googletag.sizeMapping().
+        addSize([1024, 0], [[970, 250], [970, 90], [728, 90]]).
+        addSize([768, 0], [970, 90]).
+        addSize([500, 0], [728, 90]).
+        addSize([0, 0], [320, 100]).
+        build();
+
+        var mappingbillboardlatest = googletag.sizeMapping().
+        addSize([1024, 0], [728, 90]).
+        addSize([768, 0], [728, 90]).
+        addSize([500, 0], [336, 280]).
+        addSize([0, 0], [300, 250]).
+        build();
+        
+        var mappingleaderboardb = googletag.sizeMapping().
+        addSize([1024, 0], [970, 90]).
+        addSize([768, 0], [970, 90]).
+        addSize([500, 0], [336, 280]).
+        addSize([0, 0], [300, 250]).
+        build();
+
+
+                //election code
+        googletag.defineSlot('/1063725/geo_eng_home_billboard_atf', [970, 90], 'div-gpt-ad-1523347432315-4').defineSizeMapping(mappingbillboard).setTargeting('pos', ['atf']).addService(googletag.pubads());
+        googletag.defineSlot('/1063725/geo_eng_home_rectangle_atf', [300, 600], 'div-gpt-ad-1523347432315-6').setTargeting('pos', ['atf']).addService(googletag.pubads());
+        googletag.defineSlot('/1063725/geo_eng_home_billboard_btf', [970, 90], 'div-gpt-ad-1523347432315-5').defineSizeMapping(mappingleaderboardb).setTargeting('pos', ['btf']).addService(googletag.pubads());
+        googletag.defineSlot('/1063725/geo_eng_home_rectangle_btf', [300, 250], 'div-gpt-ad-1523347432315-7').setTargeting('pos', ['btf']).addService(googletag.pubads());
+        googletag.pubads().collapseEmptyDivs();
+                googletag.pubads().enableSyncRendering();
+        googletag.enableServices();
+    });
+
+
+    /*googletag.cmd.push(function() {
+
+     var mappingLeaderboardTop = googletag.sizeMapping().
+     addSize([1024, 0 ], [970, 90]).
+     addSize([768, 0 ], [728, 90]).
+     addSize([500, 0 ], [468, 60]).
+     addSize([1, 1 ], [320, 100]).
+     build();
+
+     var mappingLeaderboardBottom = googletag.sizeMapping().
+     addSize([1024, 0 ], [970, 90]).
+     addSize([768, 0 ], [728, 90]).
+     addSize([500, 0 ], [468, 60]).
+     addSize([1, 1 ], [320, 100]).
+     build();
+
+     var mappingLeaderboardLarge = googletag.sizeMapping().
+     addSize([1024, 200 ], [970, 250]).
+     addSize([768, 200 ], [728, 90]).
+     addSize([500, 200 ], [468, 60]).
+     addSize([1, 1 ], [320, 100]).
+     build();
+
+     var mappingLeaderboard728 = googletag.sizeMapping().
+     addSize([1024, 0 ], [728, 90]).
+     addSize([500, 0 ], [468, 60]).
+     addSize([1, 1 ], [320, 100]).
+     build();
+
+     googletag.defineSlot('/1063725/GeoNews_Halfpage_300x600', [300, 600], 'div-gpt-ad-1449055393329-0').addService(googletag.pubads());
+     googletag.defineSlot('/1063725/GeoNews_LB_Bottom_970x90', [970, 90], 'div-gpt-ad-1449055393329-1').defineSizeMapping(mappingLeaderboardBottom).addService(googletag.pubads());
+     googletag.defineSlot('/1063725/GeoNews_LB_Large_970x250', [970, 250], 'div-gpt-ad-1449055393329-2').defineSizeMapping(mappingLeaderboardLarge).addService(googletag.pubads());
+     googletag.defineSlot('/1063725/GeoNews_LB_Top_970x90', [970, 90], 'div-gpt-ad-1449055393329-3').defineSizeMapping(mappingLeaderboardTop).addService(googletag.pubads());
+     googletag.defineSlot('/1063725/GeoNews_Mrec_Bottom_300x250', [300, 250], 'div-gpt-ad-1449055393329-4').addService(googletag.pubads());
+     googletag.defineSlot('/1063725/GeoNews_Mrec_Top_300x250', [300, 250], 'div-gpt-ad-1449055393329-5').addService(googletag.pubads());
+     googletag.defineSlot('/1063725/GeoNews_LB_728x90', [728, 90], 'div-gpt-ad-1449495306701-0').defineSizeMapping(mappingLeaderboard728).addService(googletag.pubads());
+     googletag.defineSlot('/1063725/GeoNews_Mrec_Breaking', [300, 250], 'div-gpt-ad-1451484026253-0').addService(googletag.pubads());
+     googletag.defineSlot('/1063725/GeoNews_Mrec_BelowPost_336x280_1', [336, 280], 'div-gpt-ad-1457533594593-0').addService(googletag.pubads());
+     googletag.defineSlot('/1063725/GeoNews_320x100', [320, 100], 'div-gpt-ad-1457533698433-0').addService(googletag.pubads());
+     googletag.defineSlot('/1063725/Geo_Catfish', [1000, 90], 'div-gpt-ad-1460532032141-0').addService(googletag.pubads());
+     googletag.pubads().setTargeting("topic",["<php echo $this->my_model->gtopic;?>"]);
+     googletag.enableServices();
+     });*/
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.geo.tv//",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.geo.tv//search1?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+
+</script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=643971302475718";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<div class="homebg">
+<style>
+        header nav ul.menu li.election-links,
+        .sidenav .inner-scroller ul li.election-links
+        {
+            display: none;
+        }
+    </style>
+<div id="leftOverlay" class="leftOverlay" onclick="closeNav()"></div>
+<div class="loader-geonews hide">
+<div class="loader-inner">
+<div class="logo-content"></div>
+</div>
+</div>
+<div class="offline-mode-container hide">
+<span>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve"> <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M4.221,49c-1.419-1.426-2.835-2.848-4.284-4.304 c4.167-4.167,8.385-8.386,12.631-12.63c-1.387-1.391-2.757-2.764-4.17-4.181c0.517-0.471,0.982-0.919,1.472-1.336 c2.85-2.431,6.102-4.088,9.726-5.018c1.271-0.326,2.565-0.532,3.872-0.652c0.195-0.018,0.354-0.061,0.499-0.208 c1.285-1.296,2.576-2.586,3.864-3.879c0.011-0.01,0.012-0.03,0.034-0.094c-4.161-0.345-8.184,0.212-12.091,1.622 c-3.923,1.416-7.347,3.627-10.286,6.529c-1.436-1.446-2.847-2.868-4.28-4.312c0.275-0.271,0.592-0.602,0.929-0.912 c2.669-2.454,5.642-4.454,8.938-5.967c2.501-1.149,5.106-1.98,7.807-2.513c2.739-0.54,5.506-0.718,8.29-0.604 c1.908,0.079,3.8,0.327,5.665,0.743c0.341,0.076,0.531-0.014,0.756-0.238c2.89-2.901,5.787-5.793,8.68-8.692 c0.144-0.144,0.252-0.323,0.413-0.535c1.516,1.489,2.927,2.912,4.335,4.324C46.811,6.498,4.661,48.681,4.221,49z" /> <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M25.587,45.223c-1.986-2.104-3.982-4.22-6.002-6.361 c0.087-0.102,0.165-0.206,0.256-0.297c2.252-2.256,4.51-4.506,6.753-6.77c0.244-0.246,0.486-0.33,0.815-0.285 c1.083,0.148,2.134,0.42,3.151,0.82c1.538,0.605,2.913,1.473,4.133,2.588c0.149,0.136,0.287,0.284,0.412,0.409 C31.931,38.629,28.778,41.906,25.587,45.223z" /> <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M42.755,27.838c-1.434,1.433-2.842,2.84-4.296,4.293 c-1.039-0.986-2.2-1.923-3.485-2.693c-1.275-0.765-2.637-1.34-4.022-1.794c-0.019-0.051-0.027-0.065-0.028-0.08 c-0.001-0.017-0.003-0.039,0.007-0.05c1.415-1.428,2.829-2.857,4.247-4.285c0.106-0.107,0.222-0.206,0.354-0.329 C38.257,24.119,40.677,25.756,42.755,27.838z" /> <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M43.211,15.341c1.803,0.896,5.56,3.739,6.789,5.227 c-1.418,1.419-2.834,2.836-4.28,4.284c-2.032-2.045-4.384-3.741-6.937-5.081C40.267,18.286,41.731,16.822,43.211,15.341z" /> </svg>
+Can't connect right now!
+<a href="javascript:void(0)" class="retry-btn">retry</a>
+<div class="clearfix"></div>
+</span>
+</div>
+<div id="mySidenav" class="sidenav">
+<style>
+        header nav ul.menu li.election-links,
+        .sidenav .inner-scroller ul li.election-links
+        {
+            display: none;
+        }
+    </style>
+<div class="inner-scroller">
+<div class="column-left">
+<div class="left-stick" id="leftstickmenu">
+<div class="logo-section">
+<a href="../index.html" class="logo open-section">
+<img class="responsive-logo-white" src="https://www.geo.tv//assets/front/images/logo.svg" />
+<img style="display: none" class="responsive-logo-green" src="../assets/front/images/logo-green-white.svg" />
+</a>
+</div>
+<div class="search-area">
+<div class="input-group">
+<form action="https://www.geo.tv/search1/" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="006074140653376922054:rmtzskztmow" />
+<input type="hidden" name="cof" value="FORID:10" />
+<input type="hidden" name="ie" value="UTF-8" />
+</div>
+<div class="input-group">
+<input type="text" name="q" class="form-control" placeholder="Search">
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit"><img src="../assets/front/images/geo-menus-icons/search.svg"></button>
+</span>
+</div>
+</form>
+</div>
+</div>
+<div class="menu-area" id="style-1">
+<ul>
+<li class="election-links"><a class="open-section" href="../index.html" title=" Election 2018">Home</a></li>
+<li class="election-links"><a class="open-section" href="constituency" title="Constituencies">Constituencies</a></li>
+<li class="election-links"><a class="open-section" href="candidates" title="Candidates">Candidates</a></li>
+<li class="election-links"><a class="open-section" href="results" title="Election Results">Results</a></li>
+<li><a class="open-section" href="../index.html"><img src="../assets/front/images/geo-menus-icons/latest-icon.svg" />Home</a></li>
+<li><a class="open-section" href="../latest-news"><img src="../assets/front/images/geo-menus-icons/latest-icon.svg" />latest</a></li>
+<li><a class="open-section" href="../category/pakistan"><img src="../assets/front/images/geo-menus-icons/pakistan-icon.svg" />pakistan</a></li>
+<li><a class="open-section" href="../category/world"><img src="../assets/front/images/geo-menus-icons/world-icon.svg" /> world</a> </li>
+<li><a class="open-section" href="../category/sports"><img src="../assets/front/images/geo-menus-icons/sports-icon.svg" /> sports</a></li>
+<li><a class="open-section" href="../category/entertainment"><img src="../assets/front/images/geo-menus-icons/entertainment-icon.svg" /> entertaintment</a></li>
+<li><a class="open-section" href="../category/business"><img src="../assets/front/images/geo-menus-icons/business-icon.svg" /> business</a></li>
+<li><a class="open-section" href="../category/health"><img src="../assets/front/images/geo-menus-icons/health-icon.svg" /> health</a></li>
+<li><a class="open-section" href="../category/amazing"><img src="../assets/front/images/geo-menus-icons/amazing-icon.svg" /> Amazing</a></li>
+<li><a class="open-section" href="../category/sci-tech"><img src="../assets/front/images/geo-menus-icons/sci-tech-icon.svg" /> Sci-Tech</a></li>
+<li><a class="open-section" href="../category/life-style"><img src="../assets/front/images/geo-menus-icons/sci-tech-icon.svg" />Life Style</a></li>
+<li><a class="open-section" href="../videos"><img src="../assets/front/images/geo-menus-icons/video-icon.svg" /> Videos</a></li>
+<li><a class="open-section" href="../tv-shows"><img src="../assets/front/images/geo-menus-icons/shows-icon.svg" /> shows</a></li>
+<li><a href="http://urdu.geo.tv" title="GEO Urdu" target="_blank">GEO Urdu</a></li>
+<li><a href="http://asool.geo.tv" title="Geo Asool" target="_blank">Geo Asool</a></li>
+<li><a href="constituency#_" class="contactus">Contact us</a></li>
+<li>
+<div style="display: table;margin: 0 auto;width: 150px;">
+<a href="javascript:void(0)" class="slide-bell top-head-bell-responsive"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.63 511.63" width="20" height="20" xml:space="preserve"> <g> <path d="M411.404,288.506c-18.455-45.014-27.685-92.455-27.685-142.325c0-31.405-9.131-56.337-27.398-74.802 c-18.28-18.464-43.406-29.602-75.383-33.407c1.52-3.424,2.279-6.945,2.279-10.562c0-7.614-2.663-14.091-7.991-19.416 C269.898,2.663,263.427,0,255.812,0c-7.61,0-14.083,2.663-19.414,7.994c-5.33,5.329-7.993,11.802-7.993,19.416 c0,3.617,0.76,7.135,2.285,10.562c-31.977,3.809-57.103,14.942-75.375,33.407c-18.271,18.464-27.406,43.396-27.406,74.802 c0,49.87-9.229,97.311-27.694,142.325c-18.464,45.015-45.776,82.847-81.942,113.492c0,9.896,3.617,18.463,10.85,25.693 c7.232,7.231,15.796,10.852,25.697,10.852h127.907c0,20.178,7.135,37.404,21.411,51.675c14.277,14.273,31.504,21.412,51.678,21.412 c20.177,0,37.404-7.139,51.675-21.412c14.273-14.271,21.412-31.497,21.412-51.675H456.81c9.897,0,18.47-3.613,25.694-10.852 c7.234-7.23,10.852-15.797,10.852-25.693C457.196,371.353,429.881,333.521,411.404,288.506z M255.816,488.787 c-13.894,0-25.747-4.896-35.548-14.698c-9.801-9.804-14.703-21.658-14.703-35.553c0-3.046,1.524-4.568,4.568-4.568 c3.046,0,4.57,1.522,4.57,4.568c0,11.231,4.043,20.889,12.132,28.982c8.091,8.094,17.749,12.135,28.98,12.135 c3.046,0,4.575,1.53,4.575,4.569C260.392,487.268,258.862,488.787,255.816,488.787z"></path> </g> </svg></a>
+<div class="fb-bot-btn" style="margin-top: 10px;float: left">
+<div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='101059326616167' color='blue' size='large' style="height: 27px;"></div>
+<script> window.fbAsyncInit = function () {
+                                        FB.init({appId: '1678638095724206', xfbml: true, version: 'v2.6'});
+                                    }</script>
+</div>
+</div>
+ </li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<header>
+<div class="container">
+<div class="mobile-header">
+<div class="mobile-left">
+<div class="mobile-nav">
+<span class="mob-menu-icon" onclick="openNav()">
+<img src="../assets/front/images/Menu-blue.svg" class="mob-blue-icon">
+<img src="../assets/front/images/Menu-white.svg" class="mob-white-icon">
+<img src="../assets/front/images/Menu-green.svg" class="mob-green-icon">
+</span>
+</div>
+</div>
+<div class="mobile-header-left">
+<div class="logo">
+<a class="open-section" href="../index.html">
+<div class="logo-white"><img src="../assets/front/images/logo.svg"> </div>
+<div class="logo-blck"><img src="../assets/front/images/logo-blue.svg"> </div>
+<div class="logo-green" style="display: none"><img src="../assets/front/images/logo-green.svg"> </div>
+</a>
+</div>
+</div>
+<div class="header-right">
+<ul>
+<li>
+<div class="live-btn"><a href="http://live.geo.tv/" target="_blank">
+<div class="icon" style="display: block">
+<img src="../assets/front/images/live-icon.svg">
+</div>
+<b>Tv</b>
+<span id="text-blink" title="Tv">.</span></a>
+</div>
+<div class="live-btn radio-btn" style="margin-right: 10px;">
+<a href="http://live.geo.tv/radio.php" class="<!--play-radio-->" target="_blank">
+<div class="icon" style="display: block">
+<img class="radio-icons load-img hide" style="width: 22px;" src="../assets/front/images/loading_dots.gif">
+<img class="radio-icons play-icon" src="../assets/front/images/radio.svg">
+<img class="radio-icons pause-icon hide" style="width: 14px;" src="../assets/front/images/pause.svg">
+</div>
+<b>Radio</b><span id="text-blink" title="Radio">.</span></a></div>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="desktop-header">
+<div class="logo-white"><a href="../index.html"><img src="../assets/front/images/logo.svg"></a> </div>
+<div class="logo-blck"><a href="../index.html"><img src="../assets/front/images/logo-blue.svg"></a> </div>
+<nav>
+<a href="constituency#" id="close-nav">X</a>
+<ul class="menu">
+<li><a class="open-section" href="../index.html" title="Home">Home</a></li>
+<li class="election-links"><a class="open-section" href="../index.html" title=" Election 2018">Home</a></li>
+<li class="election-links"><a class="open-section" href="constituency" title="Constituencies">Constituencies</a></li>
+<li class="election-links"><a class="open-section" href="candidates" title="candidates">Candidates</a></li>
+<li class="election-links"><a class="open-section" href="results" title="Election Results">Results</a></li>
+<li><a class="open-section" href="../latest-news" title="Latest News">Latest</a></li>
+<li><a class="open-section" href="../category/pakistan" title="Pakistan">Pakistan</a></li>
+<li><a class="open-section" href="../category/world" title="World">World</a></li>
+<li><a class="open-section" href="../category/sports" title="Sports">Sports</a></li>
+<li><a class="open-section" href="../category/entertainment" title="Entertainment">Entertainment</a></li>
+<li><a class="open-section" href="../category/business" title="Business">Business</a></li>
+<li><a class="open-section" href="../category/health" title="Health">Health</a></li>
+<li><a class="open-section" href="../category/amazing" title="Amazing">Amazing</a></li>
+<li><a class="open-section" href="../category/sci-tech" title="Sci-Tech">Sci-Tech</a></li>
+<li><a class="open-section" href="../category/life-style" title="Lifestyle">Lifestyle</a></li>
+<li><a class="open-section" href="../tv-shows" title="TV Shows">TV Shows</a></li>
+<li><a class="open-section" href="../videos" title="Videos">Videos</a></li>
+<li><a class="open-section" href="http://urdu.geo.tv" title="GEO Urdu" target="_blank">Urdu</a></li>
+</ul>
+</nav>
+<div class="header-right">
+<ul>
+<li>
+<div class="live-btn radio-btn" style="margin-right: 5px;">
+<a href="http://live.geo.tv/radio.php" class="<!--play-radio-->" target="_blank">
+<div class="icon">
+<img class="radio-icons load-img hide" style="width: 22px;" src="../assets/front/images/loading_dots.gif">
+<img class="radio-icons play-icon" src="../assets/front/images/radio.svg">
+<img class="radio-icons pause-icon hide" style="width: 14px;" src="../assets/front/images/pause.svg">
+<img class="radio-icons error-icon hide" src="../assets/front/images/warning.svg">
+</div>
+<span id="text-blink" title="Radio">.</span>
+</a>
+</div>
+</li>
+<li>
+<div class="live-btn">
+<a href="http://live.geo.tv/" target="_blank">
+<div class="icon"><img src="../assets/front/images/live-icon.svg"></div>
+<span id="text-blink" title="Tv">.</span>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<style>
+    .ads-pic-desktop{
+        display: inline-block;
+        width: 100%;
+    }
+    .ads-pic-mobile{
+        display: none;
+        width:100%;
+    }
+    @media (max-width: 480px){
+        .ads-pic-desktop{
+            display: none;
+            width: 100%;
+        }
+        .ads-pic-mobile{
+            display: inline-block;
+            width:100%;
+        }
+    }
+</style>
+<style>
+    .election.constituency .constituency-top-area h1{
+        display: block !important;
+    }
+    .constit_nwsl {
+        padding: 10px 5px;
+        float: left;
+        width: 100%;
+        margin-bottom: 15px;
+        background-color: #fff !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.16), 0 0px 2px rgba(0, 0, 0, 0.23);
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+        transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+        border-radius: 5px;
+    }
+
+    .constit_nwsl h3 a {
+        font-size: 20px;
+        /* color: #005689; */
+        font-family: 'gn-home';
+        margin-top: 0pc;
+        margin-bottom: 15px;
+        padding-left: 11px;
+        color: #000000;
+        display: inline-table;
+        line-height: 20px;
+    }
+
+    .constit_nwsl .label-container {
+        padding-left: 11px;
+    }
+
+    .constit_nwsl .label-container a.label {
+        margin-right: 11px;
+        font-size: 12px;
+        text-transform: uppercase;
+        font-family: 'gn-light';
+        background: #21409a;
+        border-radius: 0;
+        color: #fff !important;
+        margin-bottom: 6px;
+        padding: 5px 10px;
+        display: inline-block;
+        width: 82px;
+        border-radius: 11px;
+    }
+    .grid-masonry { width: calc(100% / 4 - 10px); }
+    @media (max-width: 770px) {
+        .grid-masonry { width: calc(100% / 2 - 10px); }
+    }
+    @media (max-width: 500px) {
+        .constit_nwsl h3 a{
+            font-size: 17px;
+        }
+
+        .election.constituency .constituency-top-area h1 {
+            font-size: 24px;
+        }
+    }
+    @media (max-width: 400px) {
+        .grid-masonry { width: 100%; }
+    }/*
+    @media (max-width: 470px) {
+        .grid-masonry { width: calc(100% / 2 - 10px); }
+    }*/
+</style>
+<div class="election constituency">
+<section class="constituency-top-area">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<ul class="breadcrumb">
+<li><a href="../index.html" title="Home">Home</a></li>
+<li><a href="https://www.geo.tv/election" title="Election">Election</a></li>
+<li>Constituencies</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="main_bxss party-view-box">
+<h1>Election 2018 Constituencies</h1>
+<div class="container">
+<div class="grid-main">
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-1.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-1">NA 1 Chitral</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-1" class="label label-primary">PK1</a>
+ </div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-2.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-2">NA 2 Swat 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-3" class="label label-primary">PK3</a>
+<a href="https://www.geo.tv/election/PK-2" class="label label-primary">PK2</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-3.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-3">NA 3 Swat 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-4" class="label label-primary">PK4</a>
+<a href="https://www.geo.tv/election/PK-6" class="label label-primary">PK6</a>
+<a href="https://www.geo.tv/election/PK-5" class="label label-primary">PK5</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-4.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-4">NA 4 Swat 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-7" class="label label-primary">PK7</a>
+<a href="https://www.geo.tv/election/PK-8" class="label label-primary">PK8</a>
+<a href="https://www.geo.tv/election/PK-9" class="label label-primary">PK9</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-5.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-5">NA 5 Upper Dir</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-10" class="label label-primary">PK10</a>
+<a href="https://www.geo.tv/election/PK-11" class="label label-primary">PK11</a>
+<a href="https://www.geo.tv/election/PK-12" class="label label-primary">PK12</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-6.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-6">NA 6 Lower Dir 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-13" class="label label-primary">PK13</a>
+<a href="https://www.geo.tv/election/PK-14" class="label label-primary">PK14</a>
+<a href="https://www.geo.tv/election/PK-15" class="label label-primary">PK15</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-7.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-7">NA 7 Lower Dir 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-17" class="label label-primary">PK17</a>
+<a href="https://www.geo.tv/election/PK-18" class="label label-primary">PK18</a>
+<a href="https://www.geo.tv/election/PK-16" class="label label-primary">PK16</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-8.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-8">NA 8 Malakand</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-18" class="label label-primary">PK18</a>
+<a href="https://www.geo.tv/election/PK-19" class="label label-primary">PK19</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-9.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-9">NA 9 Buner</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-20" class="label label-primary">PK20</a>
+<a href="https://www.geo.tv/election/PK-21" class="label label-primary">PK21</a>
+<a href="https://www.geo.tv/election/PK-22" class="label label-primary">PK22</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-10.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-10">NA 10 Shangla</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-23" class="label label-primary">PK23</a>
+<a href="https://www.geo.tv/election/PK-24" class="label label-primary">PK24</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-11.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-11">NA 11 Kohistan </a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PK-27" class="label label-primary">PK27</a>
+<a href="https://www.geo.tv/election/PK-26" class="label label-primary">PK26</a>
+<a href="https://www.geo.tv/election/PK-25" class="label label-primary">PK25</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-12.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-12">NA 12 Batagram</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-28" class="label label-primary">PK28</a>
+<a href="https://www.geo.tv/election/PK-29" class="label label-primary">PK29</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-13.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-13">NA 13 Mansehra 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-34" class="label label-primary">PK34</a>
+<a href="https://www.geo.tv/election/PK-30" class="label label-primary">PK30</a>
+<a href="https://www.geo.tv/election/PK-31" class="label label-primary">PK31</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-14.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-14">NA 14 Mansehra 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-33" class="label label-primary">PK33</a>
+ <a href="https://www.geo.tv/election/PK-32" class="label label-primary">PK32</a>
+<a href="https://www.geo.tv/election/PK-35" class="label label-primary">PK35</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-15.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-15">NA 15 Abbottabad 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-36" class="label label-primary">PK36</a>
+<a href="https://www.geo.tv/election/PK-37" class="label label-primary">PK37</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-16.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-16">NA 16 Abbottabad 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-39" class="label label-primary">PK39</a>
+<a href="https://www.geo.tv/election/PK-38" class="label label-primary">PK38</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-17.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-17">NA 17 Haripur </a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-42" class="label label-primary">PK42</a>
+<a href="https://www.geo.tv/election/PK-41" class="label label-primary">PK41</a>
+<a href="https://www.geo.tv/election/PK-40" class="label label-primary">PK40</a>
+</div>
+ </div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-18.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-18">NA 18 Swabi 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-43" class="label label-primary">PK43</a>
+<a href="https://www.geo.tv/election/PK-44" class="label label-primary">PK44</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-19.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-19">NA 19 Swabi 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-45" class="label label-primary">PK45</a>
+<a href="https://www.geo.tv/election/PK-46" class="label label-primary">PK46</a>
+<a href="https://www.geo.tv/election/PK-47" class="label label-primary">PK47</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-20.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-20">NA 20 Mardan 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-50" class="label label-primary">PK50</a>
+<a href="https://www.geo.tv/election/PK-49" class="label label-primary">PK49</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-21.svg) #f1f1f1 no-repeat right;">
+<h3>
+ <a href="https://www.geo.tv/election/NA-21">NA 21 Mardan 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-51" class="label label-primary">PK51</a>
+<a href="https://www.geo.tv/election/PK-52" class="label label-primary">PK52</a>
+<a href="https://www.geo.tv/election/PK-53" class="label label-primary">PK53</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-22.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-22">NA 22 Mardan 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-55" class="label label-primary">PK55</a>
+<a href="https://www.geo.tv/election/PK-54" class="label label-primary">PK54</a>
+<a href="https://www.geo.tv/election/PK-48" class="label label-primary">PK48</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-23.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-23">NA 23 Charsadda 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-58" class="label label-primary">PK58</a>
+<a href="https://www.geo.tv/election/PK-56" class="label label-primary">PK56</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-24.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-24">NA 24 Charsadda 2</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PK-57" class="label label-primary">PK57</a>
+<a href="https://www.geo.tv/election/PK-58" class="label label-primary">PK58</a>
+<a href="https://www.geo.tv/election/PK-59" class="label label-primary">PK59</a>
+<a href="https://www.geo.tv/election/PK-60" class="label label-primary">PK60</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-25.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-25">NA 25 Nowshera 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-64" class="label label-primary">PK64</a>
+<a href="https://www.geo.tv/election/PK-61" class="label label-primary">PK61</a>
+<a href="https://www.geo.tv/election/PK-62" class="label label-primary">PK62</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-26.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-26">NA 26 Nowshera 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-61" class="label label-primary">PK61</a>
+<a href="https://www.geo.tv/election/PK-63" class="label label-primary">PK63</a>
+<a href="https://www.geo.tv/election/PK-64" class="label label-primary">PK64</a>
+<a href="https://www.geo.tv/election/PK-65" class="label label-primary">PK65</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-27.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-27">NA 27 Peshawar 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-66" class="label label-primary">PK66</a>
+<a href="https://www.geo.tv/election/PK-67" class="label label-primary">PK67</a>
+<a href="https://www.geo.tv/election/PK-68" class="label label-primary">PK68</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-28.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-28">NA 28 Peshawar 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-79" class="label label-primary">PK79</a>
+<a href="https://www.geo.tv/election/PK-69" class="label label-primary">PK69</a>
+<a href="https://www.geo.tv/election/PK-68" class="label label-primary">PK68</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-29.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-29">NA 29 Peshawar 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-70" class="label label-primary">PK70</a>
+<a href="https://www.geo.tv/election/PK-71" class="label label-primary">PK71</a>
+<a href="https://www.geo.tv/election/PK-72" class="label label-primary">PK72</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-30.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-30">NA 30 Peshawar 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-75" class="label label-primary">PK75</a>
+<a href="https://www.geo.tv/election/PK-73" class="label label-primary">PK73</a>
+<a href="https://www.geo.tv/election/PK-74" class="label label-primary">PK74</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-31.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-31">NA 31 Peshawar 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-76" class="label label-primary">PK76</a>
+<a href="https://www.geo.tv/election/PK-77" class="label label-primary">PK77</a>
+<a href="https://www.geo.tv/election/PK-78" class="label label-primary">PK78</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-32.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-32">NA 32 Kohat</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-80" class="label label-primary">PK80</a>
+<a href="https://www.geo.tv/election/PK-81" class="label label-primary">PK81</a>
+<a href="https://www.geo.tv/election/PK-82" class="label label-primary">PK82</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-33.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-33">NA 33 Hangu</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-83" class="label label-primary">PK83</a>
+<a href="https://www.geo.tv/election/PK-84" class="label label-primary">PK84</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-34.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-34">NA 34 Karak</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-85" class="label label-primary">PK85</a>
+<a href="https://www.geo.tv/election/PK-86" class="label label-primary">PK86</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-35.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-35">NA 35 Bannu</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-87" class="label label-primary">PK87</a>
+<a href="https://www.geo.tv/election/PK-88" class="label label-primary">PK88</a>
+<a href="https://www.geo.tv/election/PK-89" class="label label-primary">PK89</a>
+<a href="https://www.geo.tv/election/PK-90" class="label label-primary">PK90</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-36.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-36">NA 36 Lakki Marwat</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-92" class="label label-primary">PK92</a>
+<a href="https://www.geo.tv/election/PK-93" class="label label-primary">PK93</a>
+<a href="https://www.geo.tv/election/PK-91" class="label label-primary">PK91</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-37.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-37">NA 37 Tank</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-94" class="label label-primary">PK94</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-38.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-38">NA 38 Dera Ismail Khan 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-95" class="label label-primary">PK95</a>
+<a href="https://www.geo.tv/election/PK-96" class="label label-primary">PK96</a>
+<a href="https://www.geo.tv/election/PK-97" class="label label-primary">PK97</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-39.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-39">NA 39 Dera Ismail Khan 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PK-96" class="label label-primary">PK96</a>
+ <a href="https://www.geo.tv/election/PK-97" class="label label-primary">PK97</a>
+<a href="https://www.geo.tv/election/PK-98" class="label label-primary">PK98</a>
+<a href="https://www.geo.tv/election/PK-99" class="label label-primary">PK99</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-40.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-40">NA 40 Bajaur Agency 1 Tribal Area 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-41.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-41">NA 41 Bajaur Agency 2 Tribal Area 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-42.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-42">NA 42 Mohmand Agency Tribal Area 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-43.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-43">NA 43 Khyber Agency 1 Tribal Area 4</a>
+</h3>
+ <div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-44.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-44">NA 44 Khyber Agency 2 Tribal Area 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-45.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-45">NA 45 Kurram Agency 1 Tribal Area 6</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-46.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-46">NA 46 Kurram Agency 1 Tribal Area 7</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-47.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-47">NA 47 Orakzai Agency Tribal Area 8</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+ </div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-48.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-48">NA 48 North Waziristan Agency Tribal Area 9</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-49.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-49">NA 49 South Waziristan Agency 1 Tribal Area 10</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-50.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-50">NA 50 South Waziristan Agency 2 Tribal Area 11</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-51.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-51">NA 51 Frontier Region Tribal Area 12</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-52.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-52">NA 52 Islamabad 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-53.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-53">NA 53 Islamabad 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-54.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-54">NA 54 Islamabad 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-55.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-55">NA 55 Attock 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-2" class="label label-primary">PP2</a>
+<a href="https://www.geo.tv/election/PP-3" class="label label-primary">PP3</a>
+<a href="https://www.geo.tv/election/PP-5" class="label label-primary">PP5</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-56.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-56">NA 56 Attock 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-1" class="label label-primary">PP1</a>
+<a href="https://www.geo.tv/election/PP-4" class="label label-primary">PP4</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-57.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-57">NA 57 Rawalpindi 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-7" class="label label-primary">PP7</a>
+<a href="https://www.geo.tv/election/PP-9" class="label label-primary">PP9</a>
+<a href="https://www.geo.tv/election/PP-10" class="label label-primary">PP10</a>
+<a href="https://www.geo.tv/election/PP-6" class="label label-primary">PP6</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-58.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-58">NA 58 Rawalpindi 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-7" class="label label-primary">PP7</a>
+<a href="https://www.geo.tv/election/PP-8" class="label label-primary">PP8</a>
+<a href="https://www.geo.tv/election/PP-9" class="label label-primary">PP9</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-59.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-59">NA 59 Rawalpindi 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-10" class="label label-primary">PP10</a>
+<a href="https://www.geo.tv/election/PP-12" class="label label-primary">PP12</a>
+<a href="https://www.geo.tv/election/PP-13" class="label label-primary">PP13</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-60.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-60">NA 60 Rawalpindi 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-11" class="label label-primary">PP11</a>
+<a href="https://www.geo.tv/election/PP-13" class="label label-primary">PP13</a>
+<a href="https://www.geo.tv/election/PP-16" class="label label-primary">PP16</a>
+<a href="https://www.geo.tv/election/PP-17" class="label label-primary">PP17</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-61.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-61">NA 61 Rawalpindi 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-13" class="label label-primary">PP13</a>
+<a href="https://www.geo.tv/election/PP-11" class="label label-primary">PP11</a>
+<a href="https://www.geo.tv/election/PP-14" class="label label-primary">PP14</a>
+<a href="https://www.geo.tv/election/PP-15" class="label label-primary">PP15</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-62.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-62">NA 62 Rawalpindi 6</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-17" class="label label-primary">PP17</a>
+<a href="https://www.geo.tv/election/PP-18" class="label label-primary">PP18</a>
+<a href="https://www.geo.tv/election/PP-16" class="label label-primary">PP16</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-63.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-63">NA 63 Rawalpindi 7</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-11" class="label label-primary">PP11</a>
+<a href="https://www.geo.tv/election/PP-13" class="label label-primary">PP13</a>
+<a href="https://www.geo.tv/election/PP-14" class="label label-primary">PP14</a>
+<a href="https://www.geo.tv/election/PP-15" class="label label-primary">PP15</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-64.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-64">NA 64 Chakwal 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-21" class="label label-primary">PP21</a>
+</div>
+</div>
+ </div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-65.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-65">NA 65 Chakwal 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-22" class="label label-primary">PP22</a>
+<a href="https://www.geo.tv/election/PP-23" class="label label-primary">PP23</a>
+<a href="https://www.geo.tv/election/PP-24" class="label label-primary">PP24</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-66.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-66">NA 66 Jhelum 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-25" class="label label-primary">PP25</a>
+<a href="https://www.geo.tv/election/PP-26" class="label label-primary">PP26</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-67.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-67">NA 67 Jhelum 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-27" class="label label-primary">PP27</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-68.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-68">NA 68 Gujrat 1</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PP-28" class="label label-primary">PP28</a>
+<a href="https://www.geo.tv/election/PP-29" class="label label-primary">PP29</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-69.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-69">NA 69 Gujrat 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-31" class="label label-primary">PP31</a>
+<a href="https://www.geo.tv/election/PP-30" class="label label-primary">PP30</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-70.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-70">NA 70 Gujrat 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-32" class="label label-primary">PP32</a>
+<a href="https://www.geo.tv/election/PP-33" class="label label-primary">PP33</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-71.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-71">NA 71 Gujrat 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-41" class="label label-primary">PP41</a>
+<a href="https://www.geo.tv/election/PP-42" class="label label-primary">PP42</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-72.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-72">NA 72 Sialkot 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-35" class="label label-primary">PP35</a>
+<a href="https://www.geo.tv/election/PP-38" class="label label-primary">PP38</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-73.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-73">NA 73 Sialkot 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-36" class="label label-primary">PP36</a>
+<a href="https://www.geo.tv/election/PP-37" class="label label-primary">PP37</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-74.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-74">NA 74 Sialkot 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-39" class="label label-primary">PP39</a>
+<a href="https://www.geo.tv/election/PP-40" class="label label-primary">PP40</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-75.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-75">NA 75 Sialkot 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-41" class="label label-primary">PP41</a>
+ <a href="https://www.geo.tv/election/PP-42" class="label label-primary">PP42</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-76.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-76">NA 76 Sialkot 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-43" class="label label-primary">PP43</a>
+<a href="https://www.geo.tv/election/PP-44" class="label label-primary">PP44</a>
+<a href="https://www.geo.tv/election/PP-45" class="label label-primary">PP45</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-77.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-77">NA 77 Narowal 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-43" class="label label-primary">PP43</a>
+<a href="https://www.geo.tv/election/PP-44" class="label label-primary">PP44</a>
+<a href="https://www.geo.tv/election/PP-45" class="label label-primary">PP45</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-78.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-78">NA 78 Narowal 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-48" class="label label-primary">PP48</a>
+<a href="https://www.geo.tv/election/PP-49" class="label label-primary">PP49</a>
+ <a href="https://www.geo.tv/election/PP-50" class="label label-primary">PP50</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-79.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-79">NA 79 Gujranwala 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-51" class="label label-primary">PP51</a>
+<a href="https://www.geo.tv/election/PP-52" class="label label-primary">PP52</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-80.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-80">NA 80 Gujranwala 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-53" class="label label-primary">PP53</a>
+<a href="https://www.geo.tv/election/PP-62" class="label label-primary">PP62</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-81.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-81">NA 81 Gujranwala 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-57" class="label label-primary">PP57</a>
+<a href="https://www.geo.tv/election/PP-58" class="label label-primary">PP58</a>
+<a href="https://www.geo.tv/election/PP-59" class="label label-primary">PP59</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-82.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-82">NA 82 Gujranwala 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-54" class="label label-primary">PP54</a>
+<a href="https://www.geo.tv/election/PP-55" class="label label-primary">PP55</a>
+<a href="https://www.geo.tv/election/PP-56" class="label label-primary">PP56</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-83.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-83">NA 83 Gujranwala 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-61" class="label label-primary">PP61</a>
+<a href="https://www.geo.tv/election/PP-60" class="label label-primary">PP60</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-84.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-84">NA 84 Gujranwala 6</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-63" class="label label-primary">PP63</a>
+<a href="https://www.geo.tv/election/PP-64" class="label label-primary">PP64</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-85.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-85">NA 85 Mandi Bahauddin 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-65" class="label label-primary">PP65</a>
+<a href="https://www.geo.tv/election/PP-66" class="label label-primary">PP66</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-86.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-86">NA 86 Mandi Bahauddin 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-68" class="label label-primary">PP68</a>
+<a href="https://www.geo.tv/election/PP-67" class="label label-primary">PP67</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-87.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-87">NA 87 Hafizabad 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-70" class="label label-primary">PP70</a>
+<a href="https://www.geo.tv/election/PP-69" class="label label-primary">PP69</a>
+<a href="https://www.geo.tv/election/PP-71" class="label label-primary">PP71</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-88.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-88">NA 88 Sargodha 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-72" class="label label-primary">PP72</a>
+<a href="https://www.geo.tv/election/PP-73" class="label label-primary">PP73</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-89.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-89">NA 89 Sargodha 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-75" class="label label-primary">PP75</a>
+<a href="https://www.geo.tv/election/PP-74" class="label label-primary">PP74</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-90.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-90">NA 90 Sargodha 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-76" class="label label-primary">PP76</a>
+<a href="https://www.geo.tv/election/PP-77" class="label label-primary">PP77</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-91.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-91">NA 91 Sargodha 4 </a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/" class="label label-primary"></a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-92.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-92">NA 92 Sargodha 5</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PP-80" class="label label-primary">PP80</a>
+<a href="https://www.geo.tv/election/PP-81" class="label label-primary">PP81</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-93.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-93">NA 93 Khushab 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-82" class="label label-primary">PP82</a>
+<a href="https://www.geo.tv/election/PP-83" class="label label-primary">PP83</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-94.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-94">NA 94 Khushab 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-83" class="label label-primary">PP83</a>
+<a href="https://www.geo.tv/election/PP-84" class="label label-primary">PP84</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-95.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-95">NA 95 Mianwali 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-86" class="label label-primary">PP86</a>
+<a href="https://www.geo.tv/election/PP-85" class="label label-primary">PP85</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-96.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-96">NA 96 Mianwali 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-87" class="label label-primary">PP87</a>
+<a href="https://www.geo.tv/election/PP-88" class="label label-primary">PP88</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-97.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-97">NA 97 Bhakkar 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-89" class="label label-primary">PP89</a>
+<a href="https://www.geo.tv/election/PP-90" class="label label-primary">PP90</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-98.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-98">NA 98 Bhakkar 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-92" class="label label-primary">PP92</a>
+<a href="https://www.geo.tv/election/PP-91" class="label label-primary">PP91</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-99.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-99">NA 99 Chiniot 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-93" class="label label-primary">PP93</a>
+ <a href="https://www.geo.tv/election/PP-94" class="label label-primary">PP94</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-100.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-100">NA 100 Chiniot 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-95" class="label label-primary">PP95</a>
+<a href="https://www.geo.tv/election/PP-96" class="label label-primary">PP96</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-101.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-101">NA 101 Faisalabad 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-98" class="label label-primary">PP98</a>
+<a href="https://www.geo.tv/election/PP-97" class="label label-primary">PP97</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-102.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-102">NA 102 Faisalabad 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-92" class="label label-primary">PP92</a>
+<a href="https://www.geo.tv/election/PP-99" class="label label-primary">PP99</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-103.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-103">NA 103 Faisalabad 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-101" class="label label-primary">PP101</a>
+<a href="https://www.geo.tv/election/PP-102" class="label label-primary">PP102</a>
+<a href="https://www.geo.tv/election/PP-103" class="label label-primary">PP103</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-104.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-104">NA 104 Faisalabad 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-104" class="label label-primary">PP104</a>
+<a href="https://www.geo.tv/election/PP-105" class="label label-primary">PP105</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-105.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-105">NA 105 Faisalabad 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-113" class="label label-primary">PP113</a>
+<a href="https://www.geo.tv/election/PP-106" class="label label-primary">PP106</a>
+<a href="https://www.geo.tv/election/PP-107" class="label label-primary">PP107</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-106.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-106">NA 106 Faisalabad 6</a>
+ </h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-108" class="label label-primary">PP108</a>
+<a href="https://www.geo.tv/election/PP-109" class="label label-primary">PP109</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-107.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-107">NA 107 Faisalabad 7</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-110" class="label label-primary">PP110</a>
+<a href="https://www.geo.tv/election/PP-111" class="label label-primary">PP111</a>
+<a href="https://www.geo.tv/election/PP-112" class="label label-primary">PP112</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-108.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-108">NA 108 Faisalabad 8</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-111" class="label label-primary">PP111</a>
+<a href="https://www.geo.tv/election/PP-112" class="label label-primary">PP112</a>
+<a href="https://www.geo.tv/election/PP-113" class="label label-primary">PP113</a>
+<a href="https://www.geo.tv/election/PP-114" class="label label-primary">PP114</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-109.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-109">NA 109 Faisalabad 9</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-114" class="label label-primary">PP114</a>
+<a href="https://www.geo.tv/election/PP-115" class="label label-primary">PP115</a>
+<a href="https://www.geo.tv/election/PP-116" class="label label-primary">PP116</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-110.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-110">NA 110 Faisalabad 10</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-117" class="label label-primary">PP117</a>
+<a href="https://www.geo.tv/election/PP-107" class="label label-primary">PP107</a>
+<a href="https://www.geo.tv/election/PP-111" class="label label-primary">PP111</a>
+<a href="https://www.geo.tv/election/PP-116" class="label label-primary">PP116</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-111.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-111">NA 111 Toba tek singh 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-118" class="label label-primary">PP118</a>
+<a href="https://www.geo.tv/election/PP-119" class="label label-primary">PP119</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-112.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-112">NA 112 Toba tek singh 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-120" class="label label-primary">PP120</a>
+<a href="https://www.geo.tv/election/PP-121" class="label label-primary">PP121</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-113.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-113">NA 113 Toba tek singh 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-122" class="label label-primary">PP122</a>
+<a href="https://www.geo.tv/election/PP-123" class="label label-primary">PP123</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-114.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-114">NA 114 Jhang 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-124" class="label label-primary">PP124</a>
+<a href="https://www.geo.tv/election/PP-125" class="label label-primary">PP125</a>
+<a href="https://www.geo.tv/election/PP-130" class="label label-primary">PP130</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-115.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-115">NA 115 Jhang 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-126" class="label label-primary">PP126</a>
+ <a href="https://www.geo.tv/election/PP-127" class="label label-primary">PP127</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-116.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-116">NA 116 Jhang 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-128" class="label label-primary">PP128</a>
+<a href="https://www.geo.tv/election/PP-129" class="label label-primary">PP129</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-117.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-117">NA 117 Nankana Sahib 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-131" class="label label-primary">PP131</a>
+<a href="https://www.geo.tv/election/PP-132" class="label label-primary">PP132</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-118.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-118">NA 118 Nankana Sahib 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-133" class="label label-primary">PP133</a>
+<a href="https://www.geo.tv/election/PP-134" class="label label-primary">PP134</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-119.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-119">NA 119 Sheikhupura 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-135" class="label label-primary">PP135</a>
+<a href="https://www.geo.tv/election/PP-136" class="label label-primary">PP136</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-120.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-120">NA 120 Sheikhupura 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-137" class="label label-primary">PP137</a>
+<a href="https://www.geo.tv/election/PP-138" class="label label-primary">PP138</a>
+<a href="https://www.geo.tv/election/PP-139" class="label label-primary">PP139</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-121.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-121">NA 121 Sheikhupura 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-140" class="label label-primary">PP140</a>
+<a href="https://www.geo.tv/election/PP-142" class="label label-primary">PP142</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-122.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-122">NA 122 Sheikhupura 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-141" class="label label-primary">PP141</a>
+<a href="https://www.geo.tv/election/PP-143" class="label label-primary">PP143</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-123.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-123">NA 123 Lahore 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-144" class="label label-primary">PP144</a>
+<a href="https://www.geo.tv/election/PP-145" class="label label-primary">PP145</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-124.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-124">NA 124 Lahore 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-146" class="label label-primary">PP146</a>
+<a href="https://www.geo.tv/election/PP-147" class="label label-primary">PP147</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-125.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-125">NA 125 Lahore 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-149" class="label label-primary">PP149</a>
+<a href="https://www.geo.tv/election/PP-150" class="label label-primary">PP150</a>
+<a href="https://www.geo.tv/election/PP-148" class="label label-primary">PP148</a>
+</div>
+ </div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-126.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-126">NA 126 Lahore 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-151" class="label label-primary">PP151</a>
+<a href="https://www.geo.tv/election/PP-152" class="label label-primary">PP152</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-127.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-127">NA 127 Lahore 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-148" class="label label-primary">PP148</a>
+<a href="https://www.geo.tv/election/PP-153" class="label label-primary">PP153</a>
+<a href="https://www.geo.tv/election/PP-154" class="label label-primary">PP154</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-128.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-128">NA 128 Lahore 6 </a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-155" class="label label-primary">PP155</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-129.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-129">NA 129 Lahore 7</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PP-156" class="label label-primary">PP156</a>
+<a href="https://www.geo.tv/election/PP-157" class="label label-primary">PP157</a>
+<a href="https://www.geo.tv/election/PP-158" class="label label-primary">PP158</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-130.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-130">NA 130 Lahore 8</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-152" class="label label-primary">PP152</a>
+<a href="https://www.geo.tv/election/PP-159" class="label label-primary">PP159</a>
+<a href="https://www.geo.tv/election/PP-160" class="label label-primary">PP160</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-131.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-131">NA 131 Lahore 9</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-162" class="label label-primary">PP162</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-132.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-132">NA 132 Lahore 10</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-164" class="label label-primary">PP164</a>
+<a href="https://www.geo.tv/election/PP-163" class="label label-primary">PP163</a>
+ </div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-133.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-133">NA 133 Lahore 11</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-166" class="label label-primary">PP166</a>
+<a href="https://www.geo.tv/election/PP-167" class="label label-primary">PP167</a>
+<a href="https://www.geo.tv/election/PP-168" class="label label-primary">PP168</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-134.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-134">NA 134 Lahore 12</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-169" class="label label-primary">PP169</a>
+<a href="https://www.geo.tv/election/PP-170" class="label label-primary">PP170</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-135.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-135">NA 135 Lahore 13</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-161" class="label label-primary">PP161</a>
+<a href="https://www.geo.tv/election/PP-173" class="label label-primary">PP173</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-136.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-136">NA 136 Lahore 14</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-171" class="label label-primary">PP171</a>
+<a href="https://www.geo.tv/election/PP-172" class="label label-primary">PP172</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-137.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-137">NA 137 Kasur 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-174" class="label label-primary">PP174</a>
+<a href="https://www.geo.tv/election/PP-175" class="label label-primary">PP175</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-138.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-138">NA 138 Kasur 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-176" class="label label-primary">PP176</a>
+<a href="https://www.geo.tv/election/PP-182" class="label label-primary">PP182</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-139.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-139">NA 139 Kasur 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-179" class="label label-primary">PP179</a>
+<a href="https://www.geo.tv/election/PP-177" class="label label-primary">PP177</a>
+<a href="https://www.geo.tv/election/PP-178" class="label label-primary">PP178</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-140.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-140">NA 140 Kasur 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-180" class="label label-primary">PP180</a>
+<a href="https://www.geo.tv/election/PP-181" class="label label-primary">PP181</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-141.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-141">NA 141 Okara 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-183" class="label label-primary">PP183</a>
+<a href="https://www.geo.tv/election/PP-190" class="label label-primary">PP190</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-142.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-142">NA 142 Okara 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-188" class="label label-primary">PP188</a>
+<a href="https://www.geo.tv/election/PP-189" class="label label-primary">PP189</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-143.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-143">NA 143 Okara 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-184" class="label label-primary">PP184</a>
+<a href="https://www.geo.tv/election/PP-187" class="label label-primary">PP187</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-144.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-144">NA 144 Okara 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-185" class="label label-primary">PP185</a>
+<a href="https://www.geo.tv/election/PP-186" class="label label-primary">PP186</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-145.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-145">NA 145 Pakpattan 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-191" class="label label-primary">PP191</a>
+<a href="https://www.geo.tv/election/PP-192" class="label label-primary">PP192</a>
+<a href="https://www.geo.tv/election/PP-193" class="label label-primary">PP193</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-146.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-146">NA 146 Pakpattan 2</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PP-194" class="label label-primary">PP194</a>
+<a href="https://www.geo.tv/election/PP-195" class="label label-primary">PP195</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-147.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-147">NA 147 Sahiwal 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-196" class="label label-primary">PP196</a>
+<a href="https://www.geo.tv/election/PP-197" class="label label-primary">PP197</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-148.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-148">NA 148 Sahiwal 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-198" class="label label-primary">PP198</a>
+<a href="https://www.geo.tv/election/PP-199" class="label label-primary">PP199</a>
+<a href="https://www.geo.tv/election/PP-200" class="label label-primary">PP200</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-149.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-149">NA 149 Sahiwal 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-201" class="label label-primary">PP201</a>
+<a href="https://www.geo.tv/election/PP-202" class="label label-primary">PP202</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-150.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-150">NA 150 Khanewal 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-203" class="label label-primary">PP203</a>
+<a href="https://www.geo.tv/election/PP-204" class="label label-primary">PP204</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-151.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-151">NA 151 Khanewal 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-206" class="label label-primary">PP206</a>
+<a href="https://www.geo.tv/election/PP-205" class="label label-primary">PP205</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-152.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-152">NA 152 Khanewal 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-207" class="label label-primary">PP207</a>
+<a href="https://www.geo.tv/election/PP-208" class="label label-primary">PP208</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-153.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-153">NA 153 Khanewal 4</a>
+ </h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-209" class="label label-primary">PP209</a>
+<a href="https://www.geo.tv/election/PP-210" class="label label-primary">PP210</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-154.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-154">NA 154 Multan 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-211" class="label label-primary">PP211</a>
+<a href="https://www.geo.tv/election/PP-212" class="label label-primary">PP212</a>
+<a href="https://www.geo.tv/election/PP-219" class="label label-primary">PP219</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-155.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-155">NA 155 Multan 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-216" class="label label-primary">PP216</a>
+<a href="https://www.geo.tv/election/PP-213" class="label label-primary">PP213</a>
+<a href="https://www.geo.tv/election/PP-214" class="label label-primary">PP214</a>
+<a href="https://www.geo.tv/election/PP-215" class="label label-primary">PP215</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-156.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-156">NA 156 Multan 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-213" class="label label-primary">PP213</a>
+<a href="https://www.geo.tv/election/PP-215" class="label label-primary">PP215</a>
+<a href="https://www.geo.tv/election/PP-216" class="label label-primary">PP216</a>
+<a href="https://www.geo.tv/election/PP-217" class="label label-primary">PP217</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-157.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-157">NA 157 Multan 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-218" class="label label-primary">PP218</a>
+<a href="https://www.geo.tv/election/PP-219" class="label label-primary">PP219</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-158.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-158">NA 158 Multan 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-219" class="label label-primary">PP219</a>
+<a href="https://www.geo.tv/election/PP-220" class="label label-primary">PP220</a>
+<a href="https://www.geo.tv/election/PP-221" class="label label-primary">PP221</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-159.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-159">NA 159 Multan 6</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-222" class="label label-primary">PP222</a>
+<a href="https://www.geo.tv/election/PP-223" class="label label-primary">PP223</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-160.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-160">NA 160 Lodhran 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-224" class="label label-primary">PP224</a>
+<a href="https://www.geo.tv/election/PP-225" class="label label-primary">PP225</a>
+<a href="https://www.geo.tv/election/PP-226" class="label label-primary">PP226</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-161.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-161">NA 161 Lodhran 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-224" class="label label-primary">PP224</a>
+<a href="https://www.geo.tv/election/PP-227" class="label label-primary">PP227</a>
+<a href="https://www.geo.tv/election/PP-228" class="label label-primary">PP228</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-162.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-162">NA 162 Vihari 1</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PP-229" class="label label-primary">PP229</a>
+<a href="https://www.geo.tv/election/PP-230" class="label label-primary">PP230</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-163.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-163">NA 163 Vihari 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-231" class="label label-primary">PP231</a>
+<a href="https://www.geo.tv/election/PP-232" class="label label-primary">PP232</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-164.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-164">NA 164 Vihari 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-233" class="label label-primary">PP233</a>
+<a href="https://www.geo.tv/election/PP-234" class="label label-primary">PP234</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-165.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-165">NA 165 Vihari 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-235" class="label label-primary">PP235</a>
+<a href="https://www.geo.tv/election/PP-236" class="label label-primary">PP236</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-166.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-166">NA 166 Bahawalnagar 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-237" class="label label-primary">PP237</a>
+<a href="https://www.geo.tv/election/PP-238" class="label label-primary">PP238</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-167.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-167">NA 167 Bahawalnagar 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-239" class="label label-primary">PP239</a>
+<a href="https://www.geo.tv/election/PP-240" class="label label-primary">PP240</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-168.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-168">NA 168 Bahawalnagar 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-241" class="label label-primary">PP241</a>
+<a href="https://www.geo.tv/election/PP-242" class="label label-primary">PP242</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-169.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-169">NA 169 Bahawalnagar 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-243" class="label label-primary">PP243</a>
+<a href="https://www.geo.tv/election/PP-244" class="label label-primary">PP244</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-170.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-170">NA 170 Bahawalpur 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-245" class="label label-primary">PP245</a>
+<a href="https://www.geo.tv/election/PP-246" class="label label-primary">PP246</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-171.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-171">NA 171 Bahawalpur 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-247" class="label label-primary">PP247</a>
+<a href="https://www.geo.tv/election/PP-248" class="label label-primary">PP248</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-172.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-172">NA 172 Bahawalpur 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-250" class="label label-primary">PP250</a>
+<a href="https://www.geo.tv/election/PP-249" class="label label-primary">PP249</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-173.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-173">NA 173 Bahawalpur 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-251" class="label label-primary">PP251</a>
+<a href="https://www.geo.tv/election/PP-252" class="label label-primary">PP252</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-174.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-174">NA 174 Bahawalpur 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-253" class="label label-primary">PP253</a>
+<a href="https://www.geo.tv/election/PP-254" class="label label-primary">PP254</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-175.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-175">NA 175 Rahim Yar Khan 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-255" class="label label-primary">PP255</a>
+<a href="https://www.geo.tv/election/PP-256" class="label label-primary">PP256</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-176.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-176">NA 176 Rahim Yar Khan 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-257" class="label label-primary">PP257</a>
+ <a href="https://www.geo.tv/election/PP-258" class="label label-primary">PP258</a>
+<a href="https://www.geo.tv/election/PP-260" class="label label-primary">PP260</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-177.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-177">NA 177 Rahim Yar Khan 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-261" class="label label-primary">PP261</a>
+<a href="https://www.geo.tv/election/PP-258" class="label label-primary">PP258</a>
+<a href="https://www.geo.tv/election/PP-259" class="label label-primary">PP259</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-178.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-178">NA 178 Rahim Yar Khan 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-261" class="label label-primary">PP261</a>
+<a href="https://www.geo.tv/election/PP-264" class="label label-primary">PP264</a>
+<a href="https://www.geo.tv/election/PP-265" class="label label-primary">PP265</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-179.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-179">NA 179 Rahim Yar Khan 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-262" class="label label-primary">PP262</a>
+<a href="https://www.geo.tv/election/PP-263" class="label label-primary">PP263</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-180.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-180">NA 180 Rahim Yar Khan 6</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-265" class="label label-primary">PP265</a>
+<a href="https://www.geo.tv/election/PP-266" class="label label-primary">PP266</a>
+<a href="https://www.geo.tv/election/PP-267" class="label label-primary">PP267</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-181.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-181">NA 181 Muzaffarhgarh 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-268" class="label label-primary">PP268</a>
+<a href="https://www.geo.tv/election/PP-269" class="label label-primary">PP269</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-182.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-182">NA 182 Muzaffarhgarh 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-270" class="label label-primary">PP270</a>
+<a href="https://www.geo.tv/election/PP-271" class="label label-primary">PP271</a>
+</div>
+</div>
+</div>
+ <div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-183.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-183">NA 183 Muzaffarhgarh 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-272" class="label label-primary">PP272</a>
+<a href="https://www.geo.tv/election/PP-273" class="label label-primary">PP273</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-184.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-184">NA 184 Muzaffarhgarh 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-274" class="label label-primary">PP274</a>
+<a href="https://www.geo.tv/election/PP-275" class="label label-primary">PP275</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-185.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-185">NA 185 Muzaffarhgarh 5</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-276" class="label label-primary">PP276</a>
+<a href="https://www.geo.tv/election/PP-277" class="label label-primary">PP277</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-186.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-186">NA 186 Muzaffarhgarh 6</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PP-278" class="label label-primary">PP278</a>
+<a href="https://www.geo.tv/election/PP-279" class="label label-primary">PP279</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-187.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-187">NA 187 Layyah 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-280" class="label label-primary">PP280</a>
+<a href="https://www.geo.tv/election/PP-281" class="label label-primary">PP281</a>
+<a href="https://www.geo.tv/election/PP-282" class="label label-primary">PP282</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-188.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-188">NA 188 Layyah 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-283" class="label label-primary">PP283</a>
+<a href="https://www.geo.tv/election/PP-284" class="label label-primary">PP284</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-189.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-189">NA 189 Dera Ghazi Khan 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-285" class="label label-primary">PP285</a>
+<a href="https://www.geo.tv/election/PP-286" class="label label-primary">PP286</a>
+ </div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-190.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-190">NA 190 Dera Ghazi Khan 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-287" class="label label-primary">PP287</a>
+<a href="https://www.geo.tv/election/PP-288" class="label label-primary">PP288</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-191.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-191">NA 191 Dera Ghazi Khan 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-289" class="label label-primary">PP289</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-192.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-192">NA 192 Dera Ghazi Khan 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-290" class="label label-primary">PP290</a>
+<a href="https://www.geo.tv/election/PP-291" class="label label-primary">PP291</a>
+<a href="https://www.geo.tv/election/PP-292" class="label label-primary">PP292</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-193.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-193">NA 193 Rajanpur 1</a>
+ </h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-293" class="label label-primary">PP293</a>
+<a href="https://www.geo.tv/election/PP-294" class="label label-primary">PP294</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-194.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-194">NA 194 Rajanpur 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-295" class="label label-primary">PP295</a>
+<a href="https://www.geo.tv/election/PP-296" class="label label-primary">PP296</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-195.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-195">NA 195 Rajanpur 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PP-297" class="label label-primary">PP297</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-196.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-196">NA 196 Jacoabad </a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-1" class="label label-primary">PS1</a>
+<a href="https://www.geo.tv/election/PS-2" class="label label-primary">PS2</a>
+<a href="https://www.geo.tv/election/PS-3" class="label label-primary">PS3</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-197.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-197">NA 197 Kashmore </a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-6" class="label label-primary">PS6</a>
+<a href="https://www.geo.tv/election/PS-4" class="label label-primary">PS4</a>
+<a href="https://www.geo.tv/election/PS-5" class="label label-primary">PS5</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-198.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-198">NA 198 Shikarpur 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-8" class="label label-primary">PS8</a>
+<a href="https://www.geo.tv/election/PS-7" class="label label-primary">PS7</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-199.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-199">NA 199 Shikarpur 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-9" class="label label-primary">PS9</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-200.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-200">NA 200 Larkana 1</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PS-10" class="label label-primary">PS10</a>
+<a href="https://www.geo.tv/election/PS-11" class="label label-primary">PS11</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-201.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-201">NA 201 Larkana 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-12" class="label label-primary">PS12</a>
+<a href="https://www.geo.tv/election/PS-13" class="label label-primary">PS13</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-202.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-202">NA 202 Qamber Shahdakot 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-14" class="label label-primary">PS14</a>
+<a href="https://www.geo.tv/election/PS-15" class="label label-primary">PS15</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-203.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-203">NA 203 Qamber Shahdad kot 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-16" class="label label-primary">PS16</a>
+<a href="https://www.geo.tv/election/PS-17" class="label label-primary">PS17</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+ <div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-204.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-204">NA 204 Ghotki 1 </a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-18" class="label label-primary">PS18</a>
+<a href="https://www.geo.tv/election/PS-19" class="label label-primary">PS19</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-205.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-205">NA 205 Ghotki 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-21" class="label label-primary">PS21</a>
+<a href="https://www.geo.tv/election/PS-20" class="label label-primary">PS20</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-206.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-206">NA 206 Sukkur 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-22" class="label label-primary">PS22</a>
+<a href="https://www.geo.tv/election/PS-23" class="label label-primary">PS23</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-207.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-207">NA 207 Sukkur 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-24" class="label label-primary">PS24</a>
+<a href="https://www.geo.tv/election/PS-25" class="label label-primary">PS25</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-208.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-208">NA 208 Khairpur 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-27" class="label label-primary">PS27</a>
+<a href="https://www.geo.tv/election/PS-26" class="label label-primary">PS26</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-209.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-209">NA 209 Khairpur 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-29" class="label label-primary">PS29</a>
+<a href="https://www.geo.tv/election/PS-28" class="label label-primary">PS28</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-210.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-210">NA 210 Khairpur 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-30" class="label label-primary">PS30</a>
+<a href="https://www.geo.tv/election/PS-31" class="label label-primary">PS31</a>
+<a href="https://www.geo.tv/election/PS-32" class="label label-primary">PS32</a>
+</div>
+</div>
+</div>
+ <div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-211.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-211">NA 211 Naushahro Feroze 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-33" class="label label-primary">PS33</a>
+<a href="https://www.geo.tv/election/PS-34" class="label label-primary">PS34</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-212.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-212">NA 212 Naushahro Feroze 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-36" class="label label-primary">PS36</a>
+<a href="https://www.geo.tv/election/PS-35" class="label label-primary">PS35</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-213.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-213">NA 213 Shaheed Benazir Abad 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-37" class="label label-primary">PS37</a>
+<a href="https://www.geo.tv/election/PS-38" class="label label-primary">PS38</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-214.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-214">NA 214 Shaheed Benazir Abad 2</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PS-39" class="label label-primary">PS39</a>
+<a href="https://www.geo.tv/election/PS-40" class="label label-primary">PS40</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-215.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-215">NA 215 Sanghar 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-46" class="label label-primary">PS46</a>
+<a href="https://www.geo.tv/election/PS-41" class="label label-primary">PS41</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-216.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-216">NA 216 Sanghar 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-42" class="label label-primary">PS42</a>
+<a href="https://www.geo.tv/election/PS-43" class="label label-primary">PS43</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-217.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-217">NA 217 Sanghar 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-44" class="label label-primary">PS44</a>
+<a href="https://www.geo.tv/election/PS-45" class="label label-primary">PS45</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+ <div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-218.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-218">NA 218 Mirpurkhas 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-47" class="label label-primary">PS47</a>
+<a href="https://www.geo.tv/election/PS-48" class="label label-primary">PS48</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-219.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-219">NA 219 Mirpurkhas 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-50" class="label label-primary">PS50</a>
+<a href="https://www.geo.tv/election/PS-49" class="label label-primary">PS49</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-220.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-220">NA 220 Umer Kot </a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-51" class="label label-primary">PS51</a>
+<a href="https://www.geo.tv/election/PS-52" class="label label-primary">PS52</a>
+<a href="https://www.geo.tv/election/PS-53" class="label label-primary">PS53</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-221.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-221">NA 221 Tharparker 1</a>
+</h3>
+ <div class="label-container">
+<a href="https://www.geo.tv/election/PS-54" class="label label-primary">PS54</a>
+<a href="https://www.geo.tv/election/PS-55" class="label label-primary">PS55</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-222.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-222">NA 222 Tharparker 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-56" class="label label-primary">PS56</a>
+<a href="https://www.geo.tv/election/PS-57" class="label label-primary">PS57</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-223.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-223">NA 223 Matiari </a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-58" class="label label-primary">PS58</a>
+<a href="https://www.geo.tv/election/PS-59" class="label label-primary">PS59</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-224.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-224">NA 224 Tando Allahyar</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-60" class="label label-primary">PS60</a>
+<a href="https://www.geo.tv/election/PS-61" class="label label-primary">PS61</a>
+</div>
+</div>
+</div>
+ <div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-225.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-225">NA 225 Hyderabad 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-62" class="label label-primary">PS62</a>
+<a href="https://www.geo.tv/election/PS-63" class="label label-primary">PS63</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-226.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-226">NA 226 Hyderabad 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-65" class="label label-primary">PS65</a>
+<a href="https://www.geo.tv/election/PS-64" class="label label-primary">PS64</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-227.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-227">NA 227 Hyderabad 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-66" class="label label-primary">PS66</a>
+<a href="https://www.geo.tv/election/PS-67" class="label label-primary">PS67</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-228.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-228">NA 228 Tando Muhammad Khan</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PS-69" class="label label-primary">PS69</a>
+<a href="https://www.geo.tv/election/PS-68" class="label label-primary">PS68</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-229.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-229">NA 229 Badin 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-71" class="label label-primary">PS71</a>
+<a href="https://www.geo.tv/election/PS-72" class="label label-primary">PS72</a>
+<a href="https://www.geo.tv/election/PS-70" class="label label-primary">PS70</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-230.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-230">NA 230 Badin 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-72" class="label label-primary">PS72</a>
+<a href="https://www.geo.tv/election/PS-73" class="label label-primary">PS73</a>
+<a href="https://www.geo.tv/election/PS-74" class="label label-primary">PS74</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-231.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-231">NA 231 Sujawal</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-76" class="label label-primary">PS76</a>
+ <a href="https://www.geo.tv/election/PS-75" class="label label-primary">PS75</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-232.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-232">NA 232 Thatta </a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-77" class="label label-primary">PS77</a>
+<a href="https://www.geo.tv/election/PS-78" class="label label-primary">PS78</a>
+<a href="https://www.geo.tv/election/PS-79" class="label label-primary">PS79</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-233.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-233">NA 233 Jamshoro</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-81" class="label label-primary">PS81</a>
+<a href="https://www.geo.tv/election/PS-82" class="label label-primary">PS82</a>
+<a href="https://www.geo.tv/election/PS-80" class="label label-primary">PS80</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-234.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-234">NA 234 Dadu 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-84" class="label label-primary">PS84</a>
+<a href="https://www.geo.tv/election/PS-83" class="label label-primary">PS83</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-235.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-235">NA 235 Dadu 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-85" class="label label-primary">PS85</a>
+<a href="https://www.geo.tv/election/PS-86" class="label label-primary">PS86</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-236.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-236">NA 236 Karachi Malir 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-87" class="label label-primary">PS87</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-237.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-237">NA 237 Karachi Malir 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-89" class="label label-primary">PS89</a>
+<a href="https://www.geo.tv/election/PS-88" class="label label-primary">PS88</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-238.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-238">NA 238 Karachi Malir 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-91" class="label label-primary">PS91</a>
+<a href="https://www.geo.tv/election/PS-90" class="label label-primary">PS90</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-239.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-239">NA 239 Karachi Korangi 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-92" class="label label-primary">PS92</a>
+<a href="https://www.geo.tv/election/PS-93" class="label label-primary">PS93</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-240.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-240">NA 240 Karachi Korangi 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-94" class="label label-primary">PS94</a>
+<a href="https://www.geo.tv/election/PS-95" class="label label-primary">PS95</a>
+<a href="https://www.geo.tv/election/PS-96" class="label label-primary">PS96</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-241.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-241">NA 241 Karachi Korangi 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-97" class="label label-primary">PS97</a>
+<a href="https://www.geo.tv/election/PS-98" class="label label-primary">PS98</a>
+</div>
+</div>
+</div>
+ <div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-242.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-242">NA 242 Karachi East 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-100" class="label label-primary">PS100</a>
+<a href="https://www.geo.tv/election/PS-99" class="label label-primary">PS99</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-243.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-243">NA 243 Karachi East 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-102" class="label label-primary">PS102</a>
+<a href="https://www.geo.tv/election/PS-101" class="label label-primary">PS101</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-244.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-244">NA 244 Karachi East 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-104" class="label label-primary">PS104</a>
+<a href="https://www.geo.tv/election/PS-103" class="label label-primary">PS103</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-245.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-245">NA 245 Karachi East 4</a>
+</h3>
+<div class="label-container">
+ <a href="https://www.geo.tv/election/PS-105" class="label label-primary">PS105</a>
+<a href="https://www.geo.tv/election/PS-106" class="label label-primary">PS106</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-246.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-246">NA 246 Karachi South 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-107" class="label label-primary">PS107</a>
+<a href="https://www.geo.tv/election/PS-108" class="label label-primary">PS108</a>
+<a href="https://www.geo.tv/election/PS-109" class="label label-primary">PS109</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-247.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-247">NA 247 Karachi South 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-110" class="label label-primary">PS110</a>
+<a href="https://www.geo.tv/election/PS-111" class="label label-primary">PS111</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-248.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-248">NA 248 Karachi West 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-113" class="label label-primary">PS113</a>
+<a href="https://www.geo.tv/election/PS-112" class="label label-primary">PS112</a>
+ </div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-249.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-249">NA 249 Karachi West 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-115" class="label label-primary">PS115</a>
+<a href="https://www.geo.tv/election/PS-116" class="label label-primary">PS116</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-250.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-250">NA 250 Karachi West 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-104" class="label label-primary">PS104</a>
+<a href="https://www.geo.tv/election/PS-103" class="label label-primary">PS103</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-251.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-251">NA 251 Karachi West 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-118" class="label label-primary">PS118</a>
+<a href="https://www.geo.tv/election/PS-117" class="label label-primary">PS117</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-252.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-252">NA 252 Karachi West 5</a>
+ </h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-122" class="label label-primary">PS122</a>
+<a href="https://www.geo.tv/election/PS-121" class="label label-primary">PS121</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-253.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-253">NA 253 Karachi Central 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-124" class="label label-primary">PS124</a>
+<a href="https://www.geo.tv/election/PS-123" class="label label-primary">PS123</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-254.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-254">NA 254 Karachi Central 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-125" class="label label-primary">PS125</a>
+<a href="https://www.geo.tv/election/PS-126" class="label label-primary">PS126</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-255.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-255">NA 255 Karachi Central 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-127" class="label label-primary">PS127</a>
+<a href="https://www.geo.tv/election/PS-128" class="label label-primary">PS128</a>
+</div>
+ </div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-256.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-256">NA 256 Karachi Central 4</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PS-129" class="label label-primary">PS129</a>
+<a href="https://www.geo.tv/election/PS-130" class="label label-primary">PS130</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-257.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-257">NA 257 Killa Saifullah-cum-Zhob-cum-Sherani</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-3" class="label label-primary">PB3</a>
+<a href="https://www.geo.tv/election/PB-2" class="label label-primary">PB2</a>
+<a href="https://www.geo.tv/election/PB-1" class="label label-primary">PB1</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-258.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-258">NA 258 Loralai-cum-Musakhail-cum-Ziarat-cum-Dukki-cum-Harnai</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-6" class="label label-primary">PB6</a>
+<a href="https://www.geo.tv/election/PB-5" class="label label-primary">PB5</a>
+<a href="https://www.geo.tv/election/PB-4" class="label label-primary">PB4</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-259.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-259">NA 259 Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-7" class="label label-primary">PB7</a>
+<a href="https://www.geo.tv/election/PB-8" class="label label-primary">PB8</a>
+<a href="https://www.geo.tv/election/PB-9" class="label label-primary">PB9</a>
+<a href="https://www.geo.tv/election/PB-10" class="label label-primary">PB10</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-260.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-260">NA 260 Nasirabad-cum-Kachhi-cum-Jhal Magsi</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-17" class="label label-primary">PB17</a>
+<a href="https://www.geo.tv/election/PB-16" class="label label-primary">PB16</a>
+<a href="https://www.geo.tv/election/PB-12" class="label label-primary">PB12</a>
+<a href="https://www.geo.tv/election/PB-11" class="label label-primary">PB11</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-261.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-261">NA 261 Jafarabad-cum-Sohbatpur</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-13" class="label label-primary">PB13</a>
+<a href="https://www.geo.tv/election/PB-14" class="label label-primary">PB14</a>
+<a href="https://www.geo.tv/election/PB-15" class="label label-primary">PB15</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-262.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-262">NA 262 Pishin</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-18" class="label label-primary">PB18</a>
+<a href="https://www.geo.tv/election/PB-19" class="label label-primary">PB19</a>
+<a href="https://www.geo.tv/election/PB-20" class="label label-primary">PB20</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-263.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-263">NA 263 Killa Abdullah</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-21" class="label label-primary">PB21</a>
+<a href="https://www.geo.tv/election/PB-22" class="label label-primary">PB22</a>
+<a href="https://www.geo.tv/election/PB-23" class="label label-primary">PB23</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-264.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-264">Na 264 Quetta 1</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-26" class="label label-primary">PB26</a>
+<a href="https://www.geo.tv/election/PB-24" class="label label-primary">PB24</a>
+<a href="https://www.geo.tv/election/PB-25" class="label label-primary">PB25</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-265.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-265">NA 265 Quetta 2</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-30" class="label label-primary">PB30</a>
+<a href="https://www.geo.tv/election/PB-29" class="label label-primary">PB29</a>
+<a href="https://www.geo.tv/election/PB-28" class="label label-primary">PB28</a>
+<a href="https://www.geo.tv/election/PB-27" class="label label-primary">PB27</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-266.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-266">NA 266 Quetta 3</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-31" class="label label-primary">PB31</a>
+<a href="https://www.geo.tv/election/PB-32" class="label label-primary">PB32</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-267.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-267">NA 267 Mustang-cum-Kalat-cum-Shaheed Sikandarabad</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-37" class="label label-primary">PB37</a>
+<a href="https://www.geo.tv/election/PB-36" class="label label-primary">PB36</a>
+<a href="https://www.geo.tv/election/PB-35" class="label label-primary">PB35</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-268.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-268">NA 268 Chagai-cum-Nushki-cum-Kharan</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-42" class="label label-primary">PB42</a>
+<a href="https://www.geo.tv/election/PB-34" class="label label-primary">PB34</a>
+<a href="https://www.geo.tv/election/PB-33" class="label label-primary">PB33</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-269.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-269">NA 269 Khuzdar</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-39" class="label label-primary">PB39</a>
+<a href="https://www.geo.tv/election/PB-40" class="label label-primary">PB40</a>
+<a href="https://www.geo.tv/election/PB-38" class="label label-primary">PB38</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-270.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-270">NA 270 Panjgur-cum-Washuk-cum-Awaran</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-41" class="label label-primary">PB41</a>
+<a href="https://www.geo.tv/election/PB-43" class="label label-primary">PB43</a>
+<a href="https://www.geo.tv/election/PB-44" class="label label-primary">PB44</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-271.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-271">NA 271 Kech</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-45" class="label label-primary">PB45</a>
+<a href="https://www.geo.tv/election/PB-46" class="label label-primary">PB46</a>
+<a href="https://www.geo.tv/election/PB-47" class="label label-primary">PB47</a>
+<a href="https://www.geo.tv/election/PB-48" class="label label-primary">PB48</a>
+</div>
+</div>
+</div>
+<div class="grid-masonry">
+<div class="constit_nwsl" style="background: url(https://www.geo.tv/assets/front/images/election/constituency-svg/NA-272.svg) #f1f1f1 no-repeat right;">
+<h3>
+<a href="https://www.geo.tv/election/NA-272">NA 272 Lasbela-cum-Gwadar</a>
+</h3>
+<div class="label-container">
+<a href="https://www.geo.tv/election/PB-51" class="label label-primary">PB51</a>
+<a href="https://www.geo.tv/election/PB-50" class="label label-primary">PB50</a>
+<a href="https://www.geo.tv/election/PB-49" class="label label-primary">PB49</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script>
+
+    var elem = document.querySelector('.grid-main');
+    var msnry = new Masonry( elem, {
+      // options
+      itemSelector: '.grid-masonry',
+
+      gutter: 10
+    });
+
+</script>
+<div class="clearfix"></div>
+</div>
+<script src="../assets/front/ui/js/thirdparty.js?isdd=12345"></script>
+<script src="../assets/front/ui/js/my.js"></script>
+<script type='text/javascript'>
+var BaseURL = 'https://www.geo.tv/';
+var Page = 'election';
+var sg = 'election';
+</script>
+<script type='text/javascript' src='../assets/front/js/mycustom.js?xyz=12345678910123'></script>
+<script type='text/javascript' src='../assets/front/js/sw-app.js?sddd=123456'></script>
+<script type='text/javascript' src="../assets/front/js/d3/d3/d3.min.js"></script>
+<script type='text/javascript' src="../assets/front/js/d3/d3-parliament/d3-parliament.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../assets/front/js/d3/d3_app.js?abcdefghjklmn"></script>
+
+
+
+<script defer src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script defer src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap.min.js"></script>
+<script defer src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+<script defer src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap.min.js"></script>
+<style>
+    .hide_column {
+        display : none !important;
+    }
+</style>
+<script type="text/javascript">
+    $(document).ready(function() {
+      $('#election_table').DataTable( {
+          "columns": [
+              { className: "hide_column" },
+              null,
+              null,
+              null
+            ],
+            "order": [[ 0, "asc" ]],
+            "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+            "pageLength":50,
+            "bLengthChange": false,
+            "bInfo": false,
+              "oLanguage": {
+                 "sSearch": ""
+              },
+          responsive: true
+        });
+        $('.dataTables_filter input[type="search"]').attr('placeholder', 'Search Constituency / Candidate Name').css({
+            'width': '250px',
+            'display': 'inline-block'
+        });
+    });
+</script>
+<a href="javascript:void(0)" class="slide-bell top-head-bell"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.63 511.63" width="20" height="20" xml:space="preserve"> <g> <path d="M411.404,288.506c-18.455-45.014-27.685-92.455-27.685-142.325c0-31.405-9.131-56.337-27.398-74.802 c-18.28-18.464-43.406-29.602-75.383-33.407c1.52-3.424,2.279-6.945,2.279-10.562c0-7.614-2.663-14.091-7.991-19.416 C269.898,2.663,263.427,0,255.812,0c-7.61,0-14.083,2.663-19.414,7.994c-5.33,5.329-7.993,11.802-7.993,19.416 c0,3.617,0.76,7.135,2.285,10.562c-31.977,3.809-57.103,14.942-75.375,33.407c-18.271,18.464-27.406,43.396-27.406,74.802 c0,49.87-9.229,97.311-27.694,142.325c-18.464,45.015-45.776,82.847-81.942,113.492c0,9.896,3.617,18.463,10.85,25.693 c7.232,7.231,15.796,10.852,25.697,10.852h127.907c0,20.178,7.135,37.404,21.411,51.675c14.277,14.273,31.504,21.412,51.678,21.412 c20.177,0,37.404-7.139,51.675-21.412c14.273-14.271,21.412-31.497,21.412-51.675H456.81c9.897,0,18.47-3.613,25.694-10.852 c7.234-7.23,10.852-15.797,10.852-25.693C457.196,371.353,429.881,333.521,411.404,288.506z M255.816,488.787 c-13.894,0-25.747-4.896-35.548-14.698c-9.801-9.804-14.703-21.658-14.703-35.553c0-3.046,1.524-4.568,4.568-4.568 c3.046,0,4.57,1.522,4.57,4.568c0,11.231,4.043,20.889,12.132,28.982c8.091,8.094,17.749,12.135,28.98,12.135 c3.046,0,4.575,1.53,4.575,4.569C260.392,487.268,258.862,488.787,255.816,488.787z"></path> </g> </svg></a>
+<div class="geo-news-panel fixed-side-button" style="right: -400px;">
+<div class="buttonBody"><a class="close-side-button closeSideBar" href="javascript:void(0)"><i class="fa fa-times"></i></a>
+<h2>Notification Management</h2>
+<hr>
+<div class="category-body">
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="pakistan" name="categories[]" disabled=""> <span>Pakistan</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="world" name="categories[]" disabled=""><span>World</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="entertainment" name="categories[]" disabled=""> <span>Entertainment</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="lifestyle" name="categories[]" disabled=""> <span>Lifestyle</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="sports" name="categories[]" disabled=""> <span>Sports</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="business" name="categories[]" disabled=""> <span>Business</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="videos" name="categories[]" disabled=""> <span>Videos</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="tv-shows" name="categories[]" disabled=""> <span>Tv Shows</span>
+<div class="clearfix"></div>
+</div>
+<div class="column-category-vertical"><input type="checkbox" class="subscription_categories" value="health" name="categories[]" disabled=""> <span>Health</span>
+<div class="clearfix"></div>
+</div>
+</div>
+<button type="button" class="btn btn-primary saveCategories disable">Save changes</button>
+<hr>
+<div for="subsChecked" class="sub-section"><input type="checkbox" id="subsChecked" class="subscribe-notifications"><span>Subscribe to desktop notification</span>
+<div class="clearfix"></div>
+</div><a href="http://immcorporate.com/" target="_blank" class="powered-text">Powered by IMM</a></div>
+</div>
+</body>
+</html>

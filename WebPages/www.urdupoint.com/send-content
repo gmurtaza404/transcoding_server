@@ -1,0 +1,1175 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Send your content - اپنی تحریریں بھجوائیے</title>
+<meta name="keywords" content="urdu, pakistan, blogs, islamic names, muslim name, children  name, kids name, URDU, cards, urducards, urdu e-cards, urdu greeting, news, newspaper, paper, electronic, multimedia, poetry, poets, new, old, famous, india, pakistani, send, litreature, adab, afsaney, stories, funny, humour, humor, mazah, mazahia, jokes, latifey, kids, children, bache, games, java, true, wome, khawteen, womens, female, beauty, child care, interviews, rights, cooking, pakwan, khana, pakana, dishes, showbiz, show biz, film, tv, stage, music, election, politics, show, women, girl, girls, men, man, family, technology, mobile, phone, computers">
+<meta name="description" content=" Send your Articles, colums, poetry and other content to UrduPoint.com for publishing
+اپنی تحریریں، کالم، شاعری اور دیگر مواد اُردو پوائنٹ پر شائع کرنے کلئے بھجوائیے">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<META HTTP-EQUIV="ImageToolbar" CONTENT="No">
+
+<link rel="shortcut icon" href="https://cdn.urdupoint.com/daily/images/favicon.ico" type="image/x-icon" />
+
+<link type="text/css" rel="stylesheet" href="https://cdn.urdupoint.com/css/reset.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.urdupoint.com/css/fck_editorarea.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.urdupoint.com/css/main-stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.urdupoint.com/css/shortcode.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.urdupoint.com/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.urdupoint.com/css/colors.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.urdupoint.com/css/color-select.css" />
+<!--[if IE]>
+
+           <link type="text/css" rel="stylesheet" href="https://cdn.urdupoint.com/css/urdu_fonts_ie.css" />
+
+        <![endif]-->
+<!--[if !IE]><!-->
+<link type="text/css" rel="stylesheet" href="https://cdn.urdupoint.com/css/urdu_fonts.css" />
+<!--<![endif]-->
+<link rel="stylesheet" href="https://www.urdupoint.com/css/sc-player-standard.css" type="text/css">
+
+<!--[if lte IE 8]>
+
+		<link type="text/css" rel="stylesheet" href="css/ie-transparecy.css" />
+
+		<![endif]-->
+
+<style type="text/css">
+        	.cnt_box{ margin: 15px 0;font-family: 'arial';font-size: 14px;text-align: left;direction: ltr;line-height: 20px;background: #fbfbfb;padding: 10px;width: 100%;box-sizing: border-box;border-radius: 10px;-moz-border-radius: 10px;-webkit-border-radius: 10px;-o-border-radius: 10px;}
+			.cnt_box p, .cnt_box h1, .cnt_box h2, .cnt_box h3, .cnt_box h4, .cnt_box h5, .cnt_box h6{  margin-bottom:10px;}
+			.cnt_box strong{ font-weight:bold;}
+			.cnt_box ul{ list-style:disc; margin-left:20px;}
+			.cnt_box h1, .cnt_box h2, .cnt_box h3, .cnt_box h4, .cnt_box h5, .cnt_box h6 { font-weight:bold; margin: 10px 0;}
+			.cnt_box i{ font-style:italic;}
+			.cnt_box u{text-decoration:underline;}
+			.cnt_box h4{color: #800000;font-size: 15px;}
+        </style> 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-307140-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"9j5Lj1aUyS00WD", domain:"urdupoint.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=9j5Lj1aUyS00WD" style="display:none" height="1" width="1" alt="" /></noscript>
+
+
+<script type="text/javascript" src="https://cdn.urdupoint.com/jscript/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">
+
+        	$(document).ready(function() {
+
+			
+
+			$(window).scroll(function() {
+
+				if ($(this).scrollTop() > 100) {
+
+					$('.scroll-top').fadeIn();
+
+				} else {
+
+					$('.scroll-top').fadeOut();
+
+				}
+
+			});
+
+
+
+			$('.scroll-top').click(function() {
+
+				$('html, body').animate({
+
+					scrollTop: 0
+
+				}, 600); 
+
+				return false;
+
+			});
+
+			
+
+			
+
+			});
+
+			
+
+			function goToByScroll(id){
+
+  // jQuery.noConflict();
+
+
+
+   (function ($) {
+
+   
+
+     // Remove "link" from the ID
+
+   id = id.replace("link", "");
+
+     // Scroll
+
+   $('html,body').animate({
+
+    scrollTop: $("#"+id).offset().top},
+
+    'slow');
+
+   })(jQuery); 
+
+  }
+
+		</script>
+
+
+
+<script type="text/javascript" src="https://cdn.urdupoint.com/jscript/scripts.js"></script>
+
+
+<script type="text/javascript" src="https://cdn.urdupoint.com/jscript/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://cdn.urdupoint.com/jscript/iris.min.js"></script>
+
+<script type="text/javascript" src="https://cdn.urdupoint.com/js/pakistanpoint_keyboard.js"></script>
+<script type="text/javascript" src="https://cdn.urdupoint.com/jscript/jquery.cookie.js"></script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBVXX7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MBVXX7');</script>
+
+<script type="text/javascript">
+
+      	function get_ad_bar()
+
+		{
+
+			$(".right_ad_bar").html("<iframe src='https://www.urdupoint.com/gallery_adcense.html' width='300' height='250' frameBorder='0' scrolling='no'></iframe>");
+
+		}
+
+		
+
+		function get_thumb_src(id,number)
+
+		{
+
+			$("#"+id+"_big_img_"+number).click();
+
+		}
+
+		
+
+		$(document).ready(function()
+
+		{
+
+			$( "#cboxPrevious" ).click(function()
+
+			{
+
+				get_ad_bar();
+
+			});
+
+			
+
+			$( "#cboxNext" ).click(function()
+
+			{
+
+				get_ad_bar();
+
+			});	
+
+		});
+
+      </script>
+<script type="text/javascript" src="https://www.urdupoint.com/js/soundcloud.player.api.js"></script>
+<script type="text/javascript" src="https://www.urdupoint.com/js/sc-player.js"></script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/21678054/up_1x1', [1, 1], 'div-gpt-ad-1x1').addService(googletag.pubads());
+googletag.defineSlot('/21678054/urdupoint_outstream', [1, 1], 'div-gpt-ad-outstream').addService(googletag.pubads());
+googletag.defineSlot('/21678054/up_center_desktop', [300, 250], 'div-gpt-ad-1450556400794-0').addService(googletag.pubads());
+googletag.defineSlot('/21678054/urdupoint_end_story', [300, 250], 'div-gpt-ad-1450908604373-0').addService(googletag.pubads());
+googletag.defineSlot('/21678054/upprimespec', [300, 250], 'div-gpt-ad-lhs-banner').addService(googletag.pubads())
+.setCollapseEmptyDiv(true,true);
+googletag.defineSlot('/21678054/lhs_video', [300, 169], 'div-gpt-ad-1497745331743-0').addService(googletag.pubads())
+.setCollapseEmptyDiv(true,true);
+
+
+googletag.defineSlot('/21678054/UrduPoint_ROS_Header_970', [[970, 250],[970, 90], [728, 90]], 'div-gpt-ad-1451299449758-0').addService(googletag.pubads())
+.setCollapseEmptyDiv(true,true);
+
+
+googletag.defineSlot('/21678054/urdupoint_desktop_side', [300, 250], 'div-gpt-ad-1451291486653-0').addService(googletag.pubads());
+
+googletag.defineSlot('/1001388/JPX', [1, 1], 'div-gpt-ad-1455993065736-0').addService(googletag.pubads());
+googletag.defineSlot('/1001388/tf-head-up', [1, 1], 'div-gpt-ad-1459550220143-0').addService(googletag.pubads());
+googletag.defineSlot('/1001388/inks', [1, 1], 'div-gpt-ad-1538732554188-0').addService(googletag.pubads());
+//googletag.defineSlot('/1001388/collective', [1, 1], 'div-gpt-ad-1475051292100-0').addService(googletag.pubads());
+// googletag.defineSlot('/1001388/urdupoint_extra', [300, 250], 'div-gpt-ad-1456309057319-0').addService(googletag.pubads());
+//googletag.pubads().setTargeting('site', ['desktop']).setTargeting('section', ['default']);
+googletag.pubads().setTargeting('section', ['default']);
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+
+
+<link rel="stylesheet" type="text/css" href="https://www.urdupoint.com/css/accordion_styles.css">
+<style type="text/css">
+				.input_wrap{float:left; width:245px; margin-right:25px;  text-align:center;}
+				.panel label{ float:right; text-align:center; padding-top:10px;}
+				.article-soc-likes form label{ text-align:right !important; font-size:12px;direction:rtl;float: right;}
+				.content input[type="text"]{ margin: 5px 0px;}
+				.comment-form-author{ padding-top:15px !important; text-align:right !important;}
+				.input_wrap  input[type="radio"]{ direction:rtl; text-align:right;}
+				.input_wrap  input[type="text"]{ direction:rtl; text-align:right;}
+				.comment-form-author{ margin:0 auto; width:245px;  text-align:center;}
+				.form-submit{ padding:10px 10px; float:right;}
+				.btn{ padding:10px 10px; float:right;}
+				.clear{ clear:both; line-height:0px; margin:0px; padding:0px;}
+				.err{ color:#990000; text-align:right; direction:rtl; font-size:10px; padding-right:8px;}
+				#english_1{ margin:0px; padding:0px;}
+				#urdu_1{ margin:0px; padding:0px;}
+				#keboardTypes{margin:0px; padding:0px;}
+				.panel-contens span img{ text-align:left; float:left;}
+			   .panel-contens p{ float:right;}
+			   .panel-contens a.text_gray_box{ text-align:left;}
+			   .regionall{float:right;margin-bottom: 2px;margin-top: 10px;padding: 0 0 0 7px;width: 155px;}
+			   .marg_left{ margin-left:15px;}
+			   .marg_right{ margin-right:15px;}
+			   .border_dotted{ height:1px; border:dotted 1px #B2B2B2; margin:15px 100px;}
+			   .pag img{ padding:10px;}
+			   .pag a{ margin-left:15px;}
+			   .panel-contens p{float: right;text-align: justify;width: 570px;}
+			   .alphabets{direction:rtl; float:right; margin-bottom:15px;}
+			   .alphabets a{ float:right; direction:rtl; padding:5px; margin:0px 16px; width:28px; text-align:center;}
+				.content-box .content-with-middle .left-side{ width:600px !important;}
+				.content-box .content-box-sidebar{ padding-right:20px !important;}
+				.content-box .content-with-middle{ width:600px !important;}
+				
+		</style>
+
+
+</head>
+
+<body>
+
+<div class="boxed enableboxed">
+
+<div class="header">
+
+<div class="wrapper">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ur_PK/all.js#xfbml=1&appId=425749780794755";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script src="https://cdn.urdupoint.com/js/jquery.modern-ticker.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+
+            
+            $(function () {
+                
+                $(".ticker1").modernTicker({
+                    effect: "scroll",
+                    scrollInterval: 20,
+                    transitionTime: 500,
+                    autoplay: true
+                });
+                
+                $(".ticker2").modernTicker({
+                    effect: "fade",
+                    displayTime: 4000,
+                    transitionTime: 300,
+                    autoplay: true
+                });
+                
+                $(".ticker3").modernTicker({
+                    effect: "type",
+                    typeInterval: 10,
+                    displayTime: 4000,
+                    transitionTime: 300,
+                    autoplay: true
+                });
+                
+                $(".ticker4").modernTicker({
+                    effect: "slide",
+                    slideDistance: 100,
+                    displayTime: 4000,
+                    transitionTime: 350,
+                    autoplay: true
+                });
+                
+            });
+            
+
+</script>
+<link href="https://cdn.urdupoint.com/css/modern_ticker/modern-ticker.css" type="text/css" rel="stylesheet">
+<link id="style-sheet" href="https://cdn.urdupoint.com/css/modern_ticker/theme.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+.modern-ticker{ width:980px; padding:0px; margin:2px 0; background:none; border-bottom:1px dotted #B2B2B2;}
+.mt-news{ background:none; width:900px !important;}
+.mt-news a{ width:875px; direction:rtl; text-align:right; background:none !important; margin:0px; font-family:nafees_font;}
+.mt-news a:hover{ color:#C53C1C;}
+.mt-label{ font-weight:bold;font-family:nafees_font; background:none;  text-align:right; direction:rtl; float:right !important; margin:0 5px !important; padding:0px !important; width:65px !important;}
+.mt-label a{color:#C14D44 !important; text-decoration:none !important; font-size:18px; }
+</style>
+<div class="ticker2 modern-ticker">
+<div class="mt-news">
+<ul><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700186.html"> نام نہاد بلدیاتی انتخابات کے موقع پر کشمیری عوام کی احتجاجی ہڑتال اور مکمل بائیکاٹ بھارت کیلئے چشم کشا ہے </a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700164.html"> ہریتھک روشن کا جنسی ہراسانی میں ملوث ہدایت کار کی فلم چھوڑنے کا اعلان</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700140.html"> ڈالر کی اونچی اُڑان ، ملکی قرضوں کے حجم میں اضافہ </a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700171.html"> سونالی باندرے اور پریانکا چوپڑا کی بیمار رشی کپور سے ملاقات</a></li><li><a href="daily/livenews/2018-10-09/news-1700232.html"> 4 سال تک گیس کی قیمتوں میں اضافہ کیوں نہیں کیا؟</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700191.html"> اکبر میموریل فٹ بال ٹورنامنٹ میں بلتستان کلب اور ینگ سٹار ٹیموں کے درمیان میچ (آج) بدھ کو ٹی اینڈ ٹی گرائونڈ میں کھیلا جائیگا</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700168.html"> بالی وڈ ڈائریکٹر رجت کپور بھی خواتین کو ہراساں کرتے رہے، اب معافی مانگ لی</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700170.html"> خاتون صحافی کا گلوکار کیلاش کھیر پر جنسی ہراسانی کا الزام عائد</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700141.html"> شہباز شریف اپنی گرفتاری سے انتہائی دلبر داشتہ ہیں</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700143.html"> وزیر اعلیٰ پنجاب عثمان بزدار کے خلاف میڈیا کی طرف سے منفی مہم کا انکشاف</a></li><li><a href="daily/livenews/2018-10-09/news-1700215.html"> شہباز شریف نے نہ صبح دیکھی نہ شام ، دن رات کام کیا</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700150.html"> ڈسٹرکٹ جیل کیمپ آشیانہ ہاؤسنگ اسکیم میں ملوث سرکاری افسران سے بھر گئی</a></li><li><a href="daily/livenews/2018-10-09/news-1700138.html"> روپے کی قیمت میں کمی ، ڈالر کی قیمت میں اضافہ ہو گیا </a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700188.html"> مقبوضہ کشمیر ‘فوجی گاڑی کی ٹکر سے ایک شخص ہلاک </a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700193.html"> قومی جونئیر و یوتھ اتھلیٹکس چیمپین شپ 13اکتوبر سے اسلام آباد میں شروع ہو گی</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700167.html"> فلم’’اندھا دھن‘‘ کی باکس آفس پر اندھا دھند کمائی</a></li><li><a href="daily/livenews/2018-10-09/news-1700195.html"> ویسٹ مینجمنٹ کمپنی میں اربوں روپے کرپشن کا انکشاف</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700172.html"> ہالی ووڈڈرامہ فلم’’ دی سپر‘‘کانیا سنسنی خیز ٹریلر جاری کردیا گیا</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700165.html"> ’’طیفا ان ٹربل‘‘ سلک روڈ فلم فیسٹیول میں پیش کر دی گئی</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700255.html"> کیا عمران خان واقعی خود کشی کر لیں گے؟</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700190.html"> بھیم سنگھ کا وادی کشمیری میں بلدیاتی انتخابات کا ڈرامہ منسوخ کرنے کا مطالبہ </a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700151.html"> میں نے سُنا ہے کہ ڈالر 140 تک جائے گا </a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700169.html"> عمران عباس کا اداکاری چھوڑنے کا فیصلہ</a></li><li><a href="daily/livenews/2018-10-09/news-1700219.html"> ڈالر کی اونچی اڑان؛ پاکستان کو اسحاق ڈار کی یاد ستانے لگ گئی</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700192.html"> قومی فٹ سال چیمپیئن شپ سے نیا ٹیلنٹ سامنے آنے کی توقع ہے، عدنان ملک </a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700187.html"> صحرائی اور دیگر مزاحمتی ارکان کی گرفتاری مذموم:تحریک حریت</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700144.html"> نیب کی زیر حراست شہباز شریف دو روز سے سو نہیں سکے</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700189.html"> مقبوضہ کشمیر‘اسلامک پولیٹکل پارٹی کی اپنے چیئرمین اور دیگر رہنمائوں کی گرفتاری کی شدید مذمت</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700166.html"> ہریتھک روشن کا جنسی ہراسانی میں ملوث ہدایت کار کی فلم چھوڑنے کا اعلان</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700152.html"> بیگم کلثوم نواز کے انتقال کے بعد شریف خاندان کو ایک اور صدمہ</a></li><li><a href="https://www.urdupoint.com/daily/livenews/2018-10-09/news-1700139.html"> وزراء کے بے مقصد چھاپوں اور احتساب میں جلد بازی نے ملک کا 2800ارب روپے کا نقصان کر دیا</a></li><li><a href="daily/livenews/2018-10-09/news-1700163.html"> آشیانہ ہاؤسنگ اسکینڈل کا آغاز کہاں سے ہوا ؟</a></li><li><a href="daily/livenews/2018-10-09/news-1700142.html"> نیب نے صدر مسلم لیگ ن شہباز شریف کے خلاف اہم ثبوت حاصل کر لیے</a></li></ul>
+</div>
+<div class="mt-label">
+<a href="daily/index.html">تازہ ترین :</a>
+</div>
+</div>
+
+
+
+<style type="text/css">
+.header .header-top ul.right li a{ font-family:nafees_font !important; direction:rtl;  float:left; font-weight:bold;font-size:12px; text-align:right;}
+.header .header-top ul.right li{ margin-left:0px;}
+
+.addthis_bar_button { font-family:_urdupoint_eot !important; direction:rtl; font-weight:normal;font-size:13px; border: 0px !important;}
+.addthis_bar_message { font-family:_urdupoint_eot !important; direction:rtl; font-weight:normal;font-size:16px;}
+
+</style>
+<div class="header-top" style="margin-bottom:0px;">
+<ul class="left" style="font-family:Arial, Helvetica, sans-serif; font-weight:bold;">
+<li><a href="index.html" class="icon-text">&#8962;</a></li>
+<li><a href="https://www.facebook.com/urdupoint.network" target="_blank" class="icon-text">&#62220;</a></li>
+<li><a href="https://twitter.com/DailyUrduPoint" target="_blank" class="icon-text">&#62217;</a></li>
+<li><a href="https://plus.google.com/+urdupoint" target="_blank" class="icon-text">&#62223;</a></li>
+<li><a href="https://pinterest.com/urdupoint/" target="_blank" class="icon-text">&#62226;</a></li>
+<li><a href="https://www.linkedin.com/company/pakistanpoint-com/" target="_blank" class="icon-text">&#62232;</a></li>
+<li><a href="https://www.youtube.com/c/urdupointcomofficial" target="_blank" class="icon-text">&#127916;</a></li>
+<li><a href="https://www.instagram.com/urdupoint_com" target="_blank" class="icon-text">&#62253;</a></li>
+</ul>
+<ul class="right">
+<li><a style="width:40px;" href="https://www.urdupoint.com/contact-urdu">رابطہ </a></li>
+<li><a style="width:95px;" href="https://www.urdupoint.com/about_urdupoint">ہمارے بارے میں</a></li>
+<li><a style="width:60px;" href="https://www.urdupoint.com/daily/feedback">آپکی رائے</a></li>
+<li><a target="_blank" style="width:40px;" href="http://hulchul.urdupoint.com/HC/">ہلچل</a></li>
+<li><a target="_blank" style="width:50px;" href="http://emarkaz.com/">ای مرکز</a></li>
+<li><a target="_blank" style="width:95px;" href="https://www.pakistanpoint.com/">پاکستان پوائنٹ</a></li>
+</ul>
+
+<div class="clear-float"></div>
+
+</div>
+<div class="clear"></div>
+<link rel="stylesheet" type="text/css" href="https://cdn.urdupoint.com/css/jquery.fancybox.css?v=2.1.4" media="screen" />
+<script type="text/javascript" src="https://cdn.urdupoint.com/js/jquery.fancybox.js?v=2.1.4"></script>
+<script type="text/javascript">
+
+    	/* <![CDATA[ */
+
+			$(document).ready(function() {
+
+					//main function that runs the fancybox
+
+					$('.fancybox').fancybox();
+
+					
+
+					
+
+					
+
+					//this will close the fancy box
+
+					$(".close_fancy_box").click(function(){
+
+						$.fancybox.close();
+
+					});		
+
+					
+
+			});
+
+			
+
+			function change_weather_loction()
+
+			{
+
+				$.fancybox.open({
+
+					href : 'https://www.urdupoint.com/change_weather_location.php',
+
+					type : 'iframe',
+
+					padding : 5,
+
+					maxWidth  : 400,
+
+					maxHeight : 420,
+
+					afterClose: function () { // USE THIS IT IS YOUR ANSWER THE KEY WORD IS "afterClose"
+
+						
+
+						 //var x = $('#targetFrame')[0].contentWindow.targetFunction(); 
+
+						//var x = $('.fancybox').contents().find('#wea_city_by_user').val();
+
+						// var x = $('.fancybox-').contents().find('#wea_city_by_user').val();
+
+						//alert(x);
+
+						//var bla = $(".fancybox").contents().find("select#wea_city_by_user");
+
+						//alert(bla);
+
+						// var bla =$("#fancybox-frame").contents().find('html body').html(); alert(bla); 
+
+					// var x = document.getElementById('wea_city_by_user').value;
+
+					 //alert(x);
+
+					 //var bla2 =$("#fancybox-content").contents().find('#select#wea_city_by_user').html();        
+
+					 //alert(bla2);  
+
+						//parent.location.reload(true);
+
+						$("#weather_main_wrap").html('<img src="https://cdn.urdupoint.com/images/loading.gif" style="position:absolute; top:25px; left:-50px;" />');
+
+						$("#weather_main_wrap").load('https://noc.urdupoint.com/ajax_pages.php?act=get_user_weather');
+
+					}
+
+				});
+
+			}
+
+			
+		/* ]]> */							   
+
+    </script> 
+
+<iframe src="https://noc.urdupoint.com/includes/header-left-frame.php" width="100%" height="190" frameborder="0" scrolling="no"></iframe>
+
+
+</div>
+<div class="clear"></div>
+
+<div class="main-menu wrapper ">
+<style type="text/css">
+
+
+
+
+
+
+
+	.main-menu ul.main-menu-ul li{ float:right !important;}
+
+	.main-menu ul.main-menu-ul > li > a > span , .main-menu ul.main-menu-ul > li > a { font-family:nafees_font !important; padding:14px 4px !important; font-size:16px  !important;text-decoration:none !important;}
+
+	.main-menu ul.main-under-menu-ul li a {font-family:nafees_font !important; padding:10px 11px !important ; font-size:14px !important;text-decoration:none !important;}
+
+	.main-menu ul.main-menu-ul > li.active > a { background:none !important; text-decoration:none !important; }
+
+
+
+	
+
+	.main-menu ul.main-under-menu-ul li{ float:right !important;}
+
+</style>
+
+<ul class="main-menu-ul">
+<li class="custom-color " style="background-color:#244F83;"><a href="daily/index.html">اخبار</a></li>
+<li class="custom-color " style="background-color:#005502;">
+<a href="pakistan/index.html">
+پاکستان
+</a>
+</li>
+<li class="custom-color " style="background-color:#F781F3;">
+<a href="international/index.html">
+انٹرنیشنل
+</a>
+</li>
+<li class="custom-color " style="background-color:#2d7e5c;"><a href="poetry/index.html">شاعری</a></li>
+<li class="custom-color  " style="background-color:#c14d44;"><a href="https://www.urdupoint.com/adab/">ادب</a></li>
+<li class="custom-color" style="background-color:#609aaa;">
+<a href="mazah/index.html">
+مزاح
+</a>
+</li>
+<li class="custom-color " style="background-color:#c69069;">
+<a href="kids/index.html">
+بچے
+</a>
+</li>
+<li class="custom-color" style="background-color:#80476b;">
+<a href="women/index.html">
+خواتین
+</a>
+</li>
+<li class="custom-color" style="background-color:#3d88c7;">
+<a href="cooking/index.html">
+پکوان
+</a>
+</li>
+<li class="custom-color " style="background-color:#2d7e5c;">
+<a href="showbiz/index.html">
+شوبز
+</a>
+</li>
+<li class="custom-color " style="background-color:#7D7D7D;"><a href="horoscope/index.html">آپکا دن</a></li>
+<li class="custom-color" style="background-color:#675a8c;"><a href="sports/index.html">کھیل</a></li>
+<li class="custom-color" style="background-color:#F89628;">
+<a href="islam/index.html">
+اسلام
+</a>
+</li>
+<li class="custom-color" style="background-color:#580176;">
+<a href="health/index.html">
+صحت
+</a>
+</li>
+<li class="custom-color " style="background-color:#57524E;"><a href="https://www.urdupoint.com/books">کتابیں</a></li>
+<li class="custom-color " style="background-color:#063F4F;"><a href="https://www.urdupoint.com/technology">ٹیکنالوجی</a></li>
+<li class="custom-color " style="background-color:#5988AD;"><a href="https://www.urdupoint.com/weather">موسم</a></li>
+<li class="custom-color " style="background-color:#808000;">
+<a style="position:relative;" href="business/index.html">کاروبار
+</a>
+</li>
+<li class="custom-color " style="background-color:#FDB409;"><a href="https://www.urdupoint.com/mobile">موبائل</a></li>
+<li class="custom-color " style="background-color:#E74C3C;"><a href="https://www.urdupoint.com/dictionary">ڈکشنری</a>
+<span style="color: #f8e901 !important;font-size: 12px !important;font-weight: normal !important;padding: 0 !important;position: absolute;top: 4px;" class="nafees">&#9733;</span>
+</li>
+<li class="custom-color " style="background-color:#327881;"><a href="weird/index.html">دلچسپ و عجیب</a></li>
+<li class="custom-color " style="background-color:#2d7e5c;">
+<a href="videos/index.html">
+ویڈیوز
+</a>
+</li>
+
+</ul> </div>
+
+
+
+<div id='div-gpt-ad-1538732554188-0' style='height:1px; width:1px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1538732554188-0'); });
+</script>
+</div>
+
+<div id='div-gpt-ad-1455993065736-0' style='height:1px; width:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455993065736-0'); });
+</script>
+</div>
+
+<script type="text/javascript"><!--
+  e9 = new Object();
+  e9.snackbar = true;
+//--></script>
+<script type="text/javascript" src="https://tags.expo9.exponential.com/tags/UrduPointcom/Snackbar/tags.js"></script>
+
+
+
+<div id='div-gpt-ad-1459550220143-0' style='height:1px; width:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459550220143-0'); });
+</script>
+</div>
+
+<div class="clear"></div>
+
+<style type="text/css">
+	.fixed_banner{ position:fixed  !important; top:0px  !important; padding:0px !important;  z-index:9999 !important;}
+ </style>
+<div align="center" style="text-align:center; padding-bottom:5px; padding-top: 10px; width:970px; margin:0 auto;">
+
+<div id='div-gpt-ad-1451299449758-0'>
+<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1451299449758-0'); });
+	</script>
+</div>
+</div>
+<div class="clear"></div>
+<div style="text-align:center; padding-top:5px;">
+<a target="_blank" href="https://social.urdupoint.com/"><img style="width:970px;" src="https://photo-cdn.urdupoint.com/images/social_banner_head.jpg" alt="" /></a>
+</div>
+<div class="clear"></div>
+ 
+
+</div>
+
+<div class="content">
+
+<div class="wrapper">
+
+<div class="article-big-header">
+<div class="article-option-line">
+<a style="color:#A92626; font-family:nafees_font; font-size: 16px; display:inline; margin-left:10px;" href="https://www.urdupoint.com/daily/breaking-news/all/">
+تازہ ترین ایڈ یشن کے لیے ابھی کلک کریں
+</a>
+<div class="right" style="min-width:400px;">
+<span class="nafees16" style="float: right; direction:rtl; padding-right:8px;min-width: 100%;text-align: right;">
+منگل،28محرم الحرام 1440ھ،9 اکتوبر2018ء </span>
+</div>
+</div>
+</div>
+
+
+<div class="content-box">
+
+<div class="content-box-sidebar">
+<div class="panel">
+<h3 style="text-align:right;" class="mainTxt">ہمارے بارے میں</h3>
+<div class="panel-conten">
+<div id="w">
+<nav>
+<ul style="font-family:nafees_font; font-size:16px;" id="nav">
+<li><a href="https://www.urdupoint.com/about_urdupoint">ہمارے بارے میں</a></li>
+<li><a class="active" href="send-content">اپنی تحریریں بھجوائیے</a></li>
+<li><a href="https://www.urdupoint.com/advertisement_urdu">اشتہارات</a></li>
+<li><a href="https://www.urdupoint.com/contact?contact=urdu">رابطہ کیجئے</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+
+<div class="content-with-middle">
+<div style="width:600px; padding-left: 15px;border-left: 1px dotted #CCCCCC;text-align: justify;" class="left-side the-article-content arial">
+<h3 style="text-align:center; direction:rtl; color:#798055; font-family:nafees_font; font-size:20px;">اپنی تحریریں بھجوائیے</h3><br />
+<p style="direction:rtl;" class="mainTxt14">اُردو پوائنٹ دنیا کی سب سے بڑی اُردو ویب سائیٹ ہے، اور سن 2000ء سے اُردو کی خدمت میں مصروف ہے۔ اُردو پوائنٹ کو دنیا بھر سے روزانہ لاکھوں افراد پڑھتے ہیں، اور اسکا شمار دنیا کی چند ہزا ر بڑی ویب سائیٹس میں ہوتا ہے۔</p><br>
+<p style="direction:rtl;" class="mainTxt14">ادارہ اُردو پوائنٹ روز اول سے نئے لکھنے والوں کی رہنمائی کرتا آیا ہے ، اور ہر موضوع پر مشہور و معروف لکھاریوں کے ساتھ ساتھ نئے کالم نگاروں، شاعروں اور ادیبوں کو مناسب جگہ فراہم کرتا آیا ہے۔ اگر آپ اُردو پوائنٹ پر اشاعت کیلئے مضامین، ادبی تحریریں، کتابیں، شاعری، ٹیکنالوجی کے مضامین و خبریں، کالم، اخباری خبریں، مزاحیہ تحریریں، پکوان کی تراکیب یا دیگر تحریریں ارسال کرنا چاہتے ہیں تو نیچے دئیے گئے فارم کو تفصیلی پُر کیجئے۔ ہمارے نمائندگان آپ سے جلد بذریعہ ٹیلی فون یا ای میل رابطہ کریں گے۔</p><br>
+<p style="direction:rtl;" class="mainTxt14">یاد رہے کہ اُردو پوائنٹ صرف اُردو میں ٹائپ شدہ تحریروں کو اپنی سائیٹ پر جگہ دیتا ہے، رومن اُردو یا انگریزی تحریروں کو سائیٹ پر شائع نہیں کیا جاتا۔ آپ کی ارسال کردہ تحریریں یونی کوڈ اُردو ، یا اُردو ان پیج سافٹ وئیر میں ہی قابل قبول ہوں گی۔ </p>
+<br />
+<div class="clear"></div>
+<script type="text/javascript" src="https://cdn.urdupoint.com/js/pakistanpoint_keyboard.js"></script>
+<script type="text/javascript">   
+function makeid()
+{
+    var text = "";
+    var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+    for( var i=0; i < 5; i++ )
+        text += possible.charAt(Math.floor(Math.random() * possible.length));
+
+    return text;
+}
+
+
+function get_contact_capcha(lang,wrap)
+{
+  var rand = makeid();
+  $("#"+wrap).load("/ajax_pages.php?act=get_contact_capcha&lang="+lang+"&rand="+rand);
+}
+	
+function checkform(lang)
+{
+	
+	var sec_html = $("#"+lang+"_sec_wrap").html();
+	if(sec_html == '')
+	{
+		get_contact_capcha(lang,lang+'_sec_wrap');
+		return false;
+	}
+	
+	
+	var name 			=	 $("#name_"+lang).val();
+	var country 		=	 $("#country_"+lang).val();
+	var city 			=	 $("#city_"+lang).val();
+	var email 			=	 $("#email_"+lang).val();
+	var your_phone 		=	 $("#your_phone_"+lang).val();
+	var section 		=	 $("#section_"+lang).val();
+	var text 			=	 $("#about_"+lang).val();
+	var security_val 	=	 $("#security_val_"+lang).val();
+	var cp_val 			=	 $("#cp_val_"+lang).val();
+	
+
+	if(name == '')
+	{
+		$("#name_"+lang+"_err").html("نام کا اندراج کریں");
+		$("#name_"+lang).focus();
+		return false;
+	}
+	else
+	{
+		$("#name_"+lang+"_err").html("");
+	}
+	
+	
+	if(country == '')
+	{
+		$("#country_"+lang+"_err").html("ملک کا اندراج کریں");
+		$("#country_"+lang).focus();
+		return false;
+	}
+	else
+	{
+		$("#country_"+lang+"_err").html("");
+	}
+	
+	
+	if(city == '')
+	{
+		$("#city_"+lang+"_err").html("شہر کا اندراج کریں");
+		$("#city_"+lang).focus();
+		return false;
+	}
+	else
+	{
+		$("#city_"+lang+"_err").html("");
+	}
+
+
+	var atpos=email.indexOf("@");
+	var dotpos=email.lastIndexOf(".");
+	
+
+	if(email == '')
+	{
+		$("#email_"+lang+"_err").html("ای میل کا اندراج کریں");
+		$("#email_"+lang).focus();
+		return false;
+	}
+	else if(atpos<1 || dotpos<atpos+2 || dotpos+2>=email.length)
+	{
+		$("#email_"+lang+"_err").html("درست ای میل اندراج کا کریں");
+		$("#email_"+lang).focus();
+		return false;
+	}
+	else
+	{
+		$("#email_"+lang+"_err").html("");
+	}
+
+
+	if(your_phone == '')
+	{
+		$("#your_phone_"+lang+"_err").html("فون نمبر کا اندراج کریں");
+		$("#your_phone_"+lang).focus();
+		return false;
+	}
+	else
+	{
+		$("#your_phone_"+lang+"_err").html("");
+	}
+	
+	
+	if(section == '')
+	{
+		$("#section_"+lang+"_err").html("سیکشن کا اندراج کریں");
+		$("#section_"+lang).focus();
+		return false;
+	}
+	else
+	{
+		$("#section_"+lang+"_err").html("");
+	}
+
+	if(text == '')
+	{
+		$("#about_"+lang+"_err").html("پیغام کا اندراج کریں");
+		$("#about_"+lang).focus();
+		return false;
+	}
+	else
+	{
+		$("#about_"+lang+"_err").html("");
+	}
+	
+	if( security_val ) 
+	{
+		$("#security_val_"+lang+"_err").html("");
+	}
+	else
+	{
+		//alert('کوڈ درج کیجئے');
+		$("#security_val_"+lang+"_err").html("کوڈ درج کیجئے");
+		$("#security_val_"+lang).focus();
+		return false;
+	}
+
+	
+
+	
+	var rand = makeid();
+
+		$.post( "/ajax_pages.php", { act: "post_content_ajax", name: name,country: country,city: city, email: email ,your_phone: your_phone ,section: section , text: text, security_val: security_val, cp_val: cp_val ,rand: rand}) .done(function( data ) {
+					
+					//alert(data);
+					if(data == 0)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">نام کا اندراج کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+						
+					}
+					else if(data == 1)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">ملک کا اندراج کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+						
+					}
+					else if(data == 2)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">شہر کا اندراج کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+						
+					}
+					else if(data ==3)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">ای میل کا اندراج کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+					}
+					else if(data ==4)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">درست ای میل اندراج کا کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+					}
+					else if(data ==5)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">فون نمبر کا اندراج کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+					}
+					else if(data ==6)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">سیکشن کا اندراج کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+					}
+					else if(data ==7)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">پیغام کا اندراج کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+					}
+					else if(data ==8)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">درست کوڈ درج کیجئے<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+					}
+					else if(data ==9)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#77b01e;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">پیغام ارسال کرنے کا شکریہ۔ ہمارے نمائندگان آپ سے جلد بذریعہ ٹیلی فون یا ای میل رابطہ کریں گے۔<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+						
+						$("#name_"+lang).val("");
+						$("#email_"+lang).val("");
+						$("#country_"+lang).val("");
+						$("#city_"+lang).val("");
+						$("#about_"+lang).val("");
+						$("#your_phone_"+lang).val("");
+						$("#section_"+lang).val("");
+						$("#"+lang+"_sec_wrap").html(''); 
+						
+						
+					}
+					else if(data ==10)
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">سسٹم میں کچھ خرابی ہے۔ برائے مہربانی تھوڑی دیر بعد کوشش کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+					}
+					else
+					{
+						$("#msg_wrap").html('<div class="alert-message" style="background-color:#990000;"><span class="icon-text">&#10003;</span><span style="font-size:14px;font-family:nafees;font-weight: bold;" class="alert-content">سسٹم میں کچھ خرابی ہے۔ برائے مہربانی تھوڑی دیر بعد کوشش کریں<br /></span><a href="send-content#" class="destroy-button"></a></div>');
+					}
+					
+					goToByScroll('goto_message');
+					
+					
+				  });
+
+	
+
+	 
+
+}	
+
+function inputType2()
+{
+	if(document.formChange.inputType[0].checked==true)
+	{
+		document.getElementById("english_1").style.display="none";
+		document.getElementById("urdu_1").style.display="inline";					
+	}
+	else if(document.formChange.inputType[1].checked==true)
+	{
+		document.getElementById("english_1").style.display="inline";
+		document.getElementById("urdu_1").style.display="none";
+	}
+}
+
+</script>
+<style type="text/css">
+	.comment-form-author { font-size:13px;}
+	.err{ font-size:12px; padding-right:15px;}
+	.error{ color:#990000; width:100%;}
+</style>
+<div style="text-align:right; border:1px dotted #B2B2B2; margin:0px; position:relative;" class="article-soc-likes">
+<h3 class="nafees_txt" style="text-align:right; direction:rtl;color:maroon; margin-bottom:5px; padding:5px;">
+برائے مہربانی اپنی مکمل تفصیلات نیچے دئیے گئے فارم میں پر کیجئے،نامکمل تفصیلات کو اہمیت نہیں دی جاتی۔ -
+</h3>
+<h3 class="nafees_txt" style="text-align:right; direction:rtl;color:#000; font-size:15px; letter-spacing:1px; margin-bottom:5px; padding:5px;"></h3>
+<div id="goto_message" style="position:absolute; top:-100px;"></div>
+<div id="msg_wrap"></div>
+<form name="formChange" method="post" action="send-content">
+<div style="font-size:13px;" class="comment-form-author mainTxt">
+<input checked="checked" type="radio" name="inputType" value="1" onClick="inputType2()"> اُردو میں تحریر کیجئے
+<div class="mainTxt" style="text-align:right; font-size:13px;">
+<input type="radio" name="inputType" value="2" onClick="inputType2()"> انگریزی میں تحریر کیجئے
+</div>
+</div>
+</form>
+<div style="direction:rtl;display:block;" class="mainTxt" id="urdu_1">
+<form style="direction:rtl;margin-top:15px;" method="post" id="urdu_form" action="send-content" name="urdu_form">
+<div class="comment-form-author mainTxt">
+<label for="name_urdu">
+آپکا مکمل نام:
+<span class="err" id="name_urdu_err"></span><br />
+</label>
+<input value="" type="text" name="name_urdu" id="name_urdu" dir="rtl" class="required" lang="ur" />
+<div id="name_urdu_div"></div>
+<script type="text/javascript">$(document).ready(function (){set_urdu_keyboard("name_urdu","name_urdu_div");});</script>
+<label for="country_urdu">
+آپکا ملک :
+<span class="err" id="country_urdu_err"></span><br />
+</label>
+<input value="" type="text" name="country_urdu" id="country_urdu" dir="rtl" class="required" lang="ur" />
+<div id="country_urdu_div"></div>
+<script type="text/javascript">$(document).ready(function (){set_urdu_keyboard("country_urdu","country_urdu_div");});</script>
+<label for="city_urdu">
+آپکا شہر :
+<span class="err" id="city_urdu_err"></span><br />
+</label>
+<input value="" type="text" name="city_urdu" id="city_urdu" dir="rtl" class="required" lang="ur" />
+<div id="city_urdu_div"></div>
+<script type="text/javascript">$(document).ready(function (){set_urdu_keyboard("city_urdu","city_urdu_div");});</script>
+<label for="email_urdu">
+آپکا ای میل ایڈریس :
+<span class="err" id="city_urdu_err"></span><br />
+</label>
+<input value="" type="text" name="email_urdu" id="email_urdu" class="required email" style="text-align:left;direction:ltr;" />
+<label for="your_phone_urdu">
+آپکا فون نمبر :
+<span class="err" id="your_phone_urdu_err"></span><br />
+</label>
+<input value="" type="text" name="your_phone_urdu" id="your_phone_urdu" class="required" style="text-align:left; direction:ltr" />
+<label for="section_urdu">
+آپ کس سیکشن کیلئے لکھنا چاہتے ہیں؟ :
+<span class="err" id="section_urdu_err"></span><br />
+</label>
+<input value="" type="text" name="section_urdu" id="section_urdu" class="required" />
+<div id="section_urdu_div"></div>
+<script type="text/javascript">$(document).ready(function (){set_urdu_keyboard("section_urdu","section_urdu_div");});</script>
+<label>
+اپنے بارے میں بتائیے :
+<span class="err" id="section_urdu_err"></span><br />
+</label>
+<br />
+<br />
+<h3 class="nafees_txt" style="text-align:right; color:red; direction:rtl;color:maroon; margin-bottom:5px; padding:5px;">
+<a style="text-decoration:none; color:black;" target="_blank" href="https://www.urdupoint.com/guideline" class="nafees_txt">
+<strong style="color:#036;">اُردو ٹائپ کرنے میں دشواری؟</strong><br />
+انگریزی الفاظ سے اُردو میں با آسانی ٹائپ کرنے کیلئے یہاں پر کلک کیجئے
+</a>
+</h3>
+<textarea name="about_urdu" id="about_urdu" cols="40" rows="5" dir="rtl" lang="ur" class="required"></textarea>
+<div id="about_urdu_div"></div>
+<script type="text/javascript">$(document).ready(function (){set_urdu_keyboard("about_urdu","about_urdu_div");});</script>
+<div id="urdu_sec_wrap"></div>
+<div class="comment-form-author mainTxt" style="text-align:center;">
+<input onClick="checkform('urdu');" class="nafees16" name="submit" type="button" id="submit" value="- ارسال کریں - " style="margin-right:15px; font-weight:normal; padding:5px;" />
+</div>
+<div class="clear"></div>
+</div>
+</form>
+</div>
+<div id="english_1" style=" display:none; direction:rtl;">
+<form style="margin-top:15px;" action="send-content" method="post" id="english_form" name="english_form">
+<div class="comment-form-author mainTxt">
+<label for="name_eng">
+آپکا مکمل نام:
+<span class="err" id="name_eng_err"></span><br />
+</label>
+<input value="" type="text" name="name_eng" id="name_eng" class="required" style="direction:ltr; text-align:left;" />
+<label for="country_eng">
+آپکا ملک :
+<span class="err" id="country_eng_err"></span><br />
+</label>
+<input value="" type="text" name="country_eng" id="country_eng" class="required" style="direction:ltr; text-align:left;" />
+<label for="city_eng">
+آپکا شہر :
+<span class="err" id="city_eng_err"></span><br />
+</label>
+<input value="" type="text" name="city_eng" id="city_eng" class="required" style="direction:ltr; text-align:left;" />
+<label for="email_eng">
+آپکا ای میل ایڈریس :
+<span class="err" id="email_eng_err"></span><br />
+</label>
+<input value="" type="text" name="email_eng" id="email_eng" class="required email" style="direction:ltr; text-align:left;" />
+<label for="your_phone_eng">
+آپکا فون نمبر :
+<span class="err" id="your_phone_eng_err"></span><br />
+</label>
+<input value="" type="text" name="your_phone_eng" id="your_phone_eng" class="required" style="direction:ltr; text-align:left;" />
+<label for="section_eng">
+آپ کس سیکشن کیلئے لکھنا چاہتے ہیں؟ :
+<span class="err" id="section_eng_err"></span><br />
+</label>
+<input value="" type="text" name="section_eng" id="section_eng" class="required" style="direction:ltr; text-align:left;" />
+<label>
+اپنے بارے میں بتائیے :
+<span class="err" id="about_eng_err"></span><br />
+</label>
+<textarea style="direction:ltr; text-align:left;" name="about_eng" id="about_eng" cols="40" rows="5" class="required"></textarea>
+<div id="eng_sec_wrap"></div>
+<div class="comment-form-author mainTxt" style="text-align:center;">
+<input onClick="checkform('eng');" class="nafees16" name="submit" type="button" id="submit" value="- ارسال کریں - " style="margin-right:15px; font-weight:normal; padding:5px;" />
+</div>
+<div class="clear"></div>
+</div>
+</form>
+</div>
+</div> </div>
+</div>
+</div>
+
+</div>
+
+<style type="text/css">
+.footer-block{ float:left;}
+.footer .footer-content .footer-block .footer-logo{ text-align:right;}
+.footer .footer-content .footer-block .footer-set p{ text-align:right; direction:rtl; color:#fff;}
+.footer .footer-bottom{}
+.footer .footer-bottom a:hover{ text-decoration:none;}
+.footer a{ color:#B1B1B1 !important;}
+.footer .footer-contact-form p{ color:#fff; text-align:right; direction:rtl;}
+.footer .contact-msg{ text-align:right; direction:ltr;}
+.footer .contact-msg .icon-text { float:right;}
+.footer .footer-contact-form{ margin-bottom:0px !important;}
+</style>
+<div class="footer">
+
+<div class="wrapper">
+<div class="footer-content">
+<div class="footer-block arial">
+<h2 style="text-align:left;" class="footer-title arial">About US</h2>
+<ul class="category-listing2 arial">
+<li class="arial"><a style="text-align:left;padding-left:20px;text-transform:none;font-size:13px;" href="https://www.urdupoint.com/contact">Contact us<span class="category-square2" style="background:#675a8c; ">&nbsp;</span></a></li>
+<li class="arial"><a style="text-align:left;padding-left:20px;text-transform:none;;font-size:13px;" href="https://www.urdupoint.com/disclaimer">Disclaimer<span class="category-square2" style="background:#F89628; ">&nbsp;</span></a></li>
+<li><a style="text-align:left;padding-left:20px;text-transform:none;font-size:13px;" class="arial" href="https://www.urdupoint.com/privacypolicy">Privacy Policy<span class="category-square2" style="background:#063F4F;">&nbsp;</span></a></li>
+<li><a style="text-align:left;padding-left:20px;text-transform:none; font-size:13px;" class="arial" href="https://www.urdupoint.com/advertisement">Advertisment<span class="category-square2" style="background:#c14d44;">&nbsp;</span></a></li>
+</ul>
+</div>
+<div class="footer-block">
+<h2 class="footer-title mainTxt18">ہمارا نیٹ ورک</h2>
+<ul class="category-listing">
+<li><a href="https://www.pakistanpoint.com/"><span class="category-square" style="background:#F89628;">&nbsp;</span>پاکستان پوائنٹ</a></li>
+<li><a href="http://emarkaz.com/"><span class="category-square" style="background:#063F4F;">&nbsp;</span>ای مرکز</a></li>
+<li><a href="http://hulchul.urdupoint.com/HC/"><span class="category-square" style="background:#c14d44;">&nbsp;</span>ہلچل</a></li>
+<li><a href="http://priceweb.pakistanpoint.com/"><span class="category-square" style="background:#609aaa;">&nbsp;</span>پرائیس ویب</a></li>
+
+</ul>
+</div>
+<div style="padding-left:30px;" class="footer-block">
+<h2 class="footer-title mainTxt18">ہمارے بارے میں</h2>
+<ul class="category-listing">
+<li><a href="https://www.urdupoint.com/about_urdupoint"><span class="category-square" style="background:#609aaa;">&nbsp;</span>ہمارے بارے میں</a></li>
+<li><a href="https://www.urdupoint.com/contact-urdu"><span class="category-square" style="background:#F89628;">&nbsp;</span>رابطہ کیجئے</a></li>
+<li><a href="send-content"><span class="category-square" style="background:#244F83;">&nbsp;</span>اپنی تحریریں بھجوائیے</a></li>
+<li><a href="https://www.urdupoint.com/advertisement_urdu"><span class="category-square" style="background:#675a8c;">&nbsp;</span>اشتہارات</a></li>
+<li><a href="https://www.urdupoint.com/news-widget.html"><span class="category-square" style="background:#2d7e5c;">&nbsp;</span>خبریں حاصل کیجئے</a></li>
+</ul>
+</div>
+<div style="width:400px;" class="footer-block">
+<div class="relative-block">
+<div class="footer-logo">
+<a href="index.html"><img src="https://cdn.urdupoint.com/daily/images/Logos/footer-logo.png" title="" alt="" /></a>
+</div>
+<div class="footer-set mainTxt12">
+<p style="line-height:23px; color:#8A8A8A;">اُردو پوائنٹ دنیاکی سب سے بڑی اُردو ویب سائیٹ ہے، جو پچھلے 21 سال سے اُردو کی خدمت میں مصروف ہے۔ اُردو پوائنٹ کو مزید بہتر بنانے کیلئے اپنی آراء اور تجاویز سے ہمیں ضرور آگاہ کیجئے. <a href="https://www.urdupoint.com/daily/feedback.php">مزید...</a> </p>
+</div>
+<div class="footer-bottom">
+
+<a href="https://www.facebook.com/urdupoint.network" target="_blank" class="soc-button icon-text">&#62221;</a>
+<a href="https://twitter.com/DailyUrduPoint" target="_blank" class="soc-button icon-text">&#62218;</a>
+<a href="https://plus.google.com/+urdupoint" target="_blank" class="soc-button icon-text">&#62224;</a>
+<a href="https://pinterest.com/urdupoint/" target="_blank" class="soc-button icon-text">&#62227;</a>
+<a href="https://www.linkedin.com/company/pakistanpoint-com/" target="_blank" class="soc-button icon-text">&#62233;</a>
+<a href="https://www.youtube.com/c/urdupointcomofficial" target="_blank" class="soc-button icon-text">&#127916;</a>
+<a href="https://www.instagram.com/urdupoint_com" target="_blank" class="soc-button icon-text">&#62253;</a>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-copy arial">
+
+<div class="fl arial" style="padding-bottom: 10px;">
+</div>
+
+<p class="left">&copy; <a href="index.html" target="_blank"> 1997-2018, UrduPoint Network</a></p>
+<p style="width:185px;" class="right mainTxt11"> تمام اشاعت کے جملہ حقوق بحق ادارہ اُردو پوائنٹ محفوظ ہیں۔ </p>
+<div class="clear-float"></div>
+</div>
+<div class="footer-copy2 arial">
+<p style="line-height:12px; padding-top:2px; font-size:11px;" class="left"> All rights of the publication are reserved by UrduPoint.com <br /> Reproduction without proper consent is not allowed.</p>
+<p style="line-height:28px;" class="right mainTxt11"> بغیر اجازت کسی قسم کی اشاعت ممنوع ہے </p>
+<div class="clear-float"></div>
+</div>
+
+</div>
+
+</div>
+<a href="send-content#" class="scroll-top"><span class="icon-text">&#11014;</span></a>
+
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5335d534703431f2"></script>
+
+<script type="text/javascript">
+var addthis_config = addthis_config||{};
+addthis_config.data_track_addressbar = false;
+addthis_config.data_track_clickback = false;
+</script>
+<style>
+.at-cv-lightbox-message {FONT-SIZE:25px!important ;FONT-FAMILY:"_urdupoint_eot"!important;LINE-HEIGHT:30px;}
+.at-custom-sidebar-text{FONT-SIZE:18px !important; font-weight:500; FONT-FAMILY:"nafees_font";LINE-HEIGHT:20px; text-align:center !important;}
+.at4-drawer-right{FONT-SIZE:10px;COLOR:#000;FONT-FAMILY:"nafees_font";LINE-HEIGHT:20px; text-align:right !important;}
+.at4-drawer-right{FONT-SIZE:10px;COLOR:#000;FONT-FAMILY:"nafees_font";LINE-HEIGHT:20px; text-align:right !important;}
+.at4-thanks {FONT-SIZE:20px !important;COLOR:#000;FONT-FAMILY:"_urdupoint_eot" !important;LINE-HEIGHT:20px;}
+.at4-thanks h2 {FONT-FAMILY:"_urdupoint_eot" !important;LINE-HEIGHT:40px;}
+.at4-h2{FONT-SIZE:20px!important;COLOR:#000;FONT-FAMILY:"_urdupoint_eot"!important;LINE-HEIGHT:30px;}
+.at4-h2 h2{FONT-FAMILY:"_urdupoint_eot"!important;LINE-HEIGHT:40px;}
+</style>
+ 
+</div>
+
+</div>
+</div>
+
+</body>
+
+</html>

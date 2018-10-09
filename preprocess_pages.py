@@ -1,4 +1,4 @@
-import glob, os,json
+import glob, os,json,shutil
 from bs4 import BeautifulSoup
 from label_objects import page_pretty,label_tags
 
@@ -14,7 +14,6 @@ def move_to_folder(soup_html,file_name):
     page_pretty("differential_pages/{}".format(file_name))
 
 
-
 def make_differntial_pages(base_page,json_file):
     # assumes the directory has index_base.html and index.json file
     root_directory_local = os.getcwd()
@@ -24,10 +23,13 @@ def make_differntial_pages(base_page,json_file):
     #loading page
     html_string = ""
     with open(base_page, "rb") as f:
-		html_string = f.read()
+		  html_string = f.read()
     
     if not os.path.exists("differential_pages"):
 		os.makedirs("differential_pages")
+    else:
+        shutil.rmtree("differential_pages") 
+        os.makedirs("differential_pages")
     #os.chdir("differential_pages")
     
     for key in json_dict.keys():
@@ -45,6 +47,10 @@ def main():
     for filename in os.listdir("WebPages"):
         os.chdir("{}/WebPages/{}".format(root_directory,filename))
         # find index.html file and prettify it
+        if filename == "www.urdupoint.com":
+            os.chdir(root_directory)
+            continue
+        
         page_pretty("index.html")
         base_page, json_file= label_tags("index.html")
         make_differntial_pages(base_page,json_file)

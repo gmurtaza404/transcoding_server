@@ -1,0 +1,341 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+            #home-screen {
+                background: url(https://www.geo.tv/assets/uploads/updates/2018-06-06/198264_030238_fullstory.jpg) no-repeat center center !important;
+            }
+        </style>
+<title>Pakistan’s water apocalypse  | Pakistan - Geo.tv</title>
+<meta name='TITLE' content='Pakistan’s water apocalypse  | Pakistan - Geo.tv'>
+<meta name="description" content="In less than a decade, Pakistan, one of the world’s most populous countries, will run dry ">
+<meta name="keywords" content="Pakistan, Pakistan Water Crisis, Water Crisis, ">
+<meta property="og:title" content="Pakistan’s water apocalypse  | Pakistan - Geo.tv" />
+<meta property="og:image" content="https://www.geo.tv/assets/uploads/updates/2018-06-06/198264_102542_updates.jpg" />
+<meta property="og:description" content="In less than a decade, Pakistan, one of the world’s most populous countries, will run dry " />
+<meta property="og:url" content="https://www.geo.tv/latest/198264">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@geonews_english">
+<meta name="twitter:title" content="Pakistan’s water apocalypse  | Pakistan - Geo.tv">
+<meta name="twitter:description" content="In less than a decade, Pakistan, one of the world’s most populous countries, will run dry ">
+<meta name="twitter:image" content="https://www.geo.tv/assets/uploads/updates/2018-06-06/198264_102542_updates.jpg">
+<link rel="amphtml" href="https://www.geo.tv/amp/198264">
+
+<link rel="apple-touch-icon" sizes="57x57" href="../assets/front/images/gn-icons/57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../assets/front/images/gn-icons/60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../assets/front/images/gn-icons/72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../assets/front/images/gn-icons/76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../assets/front/images/gn-icons/114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../assets/front/images/gn-icons/120x120.png">
+<link rel="apple-touch-icon" sizes="128x128" href="../assets/front/images/gn-icons/128x128.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../assets/front/images/gn-icons/152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../assets/front/images/gn-icons/180x180.png">
+<link rel="apple-touch-icon" sizes="192x192" href="../assets/front/images/gn-icons/192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/front/images/gn-icons/16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/front/images/gn-icons/32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../assets/front/images/gn-icons/96x96.png">
+<link rel="icon" type="image/png" sizes="230x230" href="../assets/front/images/gn-icons/230x230.png">
+<link rel="icon" type="image/png" sizes="256x256" href="../assets/front/images/gn-icons/256x256.jpg">
+<link rel="shortcut icon" href="../assets/front/images/gn-icons/geo-favicon.jpg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Geo News">
+<meta name="msapplication-TileImage" content="https://www.geo.tv/assets/front/images/gn-icons/144x144.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<link rel="stylesheet" href="https://www.geo.tv/assets/front/ui/css/geo.css" type="text/css" />
+<link rel="stylesheet" href="https://www.geo.tv/assets/templates/detail_templates/watercrisis/watercrisisstyle.css" type="text/css" />
+<script src="https://www.geo.tv/assets/front/ui/js/thirdparty.js"></script>
+<script type='text/javascript' src='../assets/front/ui/js/my.js'></script>
+<link href="https://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet">
+<script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-1627489-1', 'auto');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+<script type="text/javascript">
+        var _sf_async_config = {};
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 49676;
+        _sf_async_config.mobileApp = true;
+        _sf_async_config.domain = 'geo.tv';
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.sections = "latest-news";  //CHANGE THIS
+        _sf_async_config.authors = 'GEO NEWS';    //CHANGE THIS
+        /** CONFIGURATION END **/
+        (function () {
+            function loadChartbeat() {
+                window._sf_endpt = (new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function () {
+                    oldonload();
+                    loadChartbeat();
+                };
+        })();
+    </script>
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=643971302475718";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+</head>
+<body>
+<div id="leftOverlay" class="leftOverlay" onclick="closeNav()"></div>
+<div class="water_crisis">
+<div id="mySidenav" class="sidenav">
+<div class="inner-scroller" style="height: 821px;">
+<div class="column-left">
+<div class="left-stick" id="leftstickmenu">
+<div class="logo-section">
+<a href="../index.html" class="logo open-section">
+<img class="responsive-logo-white" src="../assets/front/images/logo.svg">
+<img style="display: none" class="responsive-logo-green" src="https://www.geo.tv/assets/front/images/logo-green-white.svg">
+</a>
+</div>
+<div class="search-area">
+<div class="input-group">
+<form action="https://www.geo.tv/search1/" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="006074140653376922054:rmtzskztmow">
+<input type="hidden" name="cof" value="FORID:10">
+<input type="hidden" name="ie" value="UTF-8">
+</div>
+<div class="input-group">
+<input type="text" name="q" class="form-control" placeholder="Search">
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/search.svg"></button>
+</span>
+</div>
+</form>
+</div>
+</div>
+<div class="menu-area" id="style-1">
+<ul>
+<li><a class="open-section" href="../index.html"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/latest-icon.svg">Home</a></li>
+<li><a class="open-section" href="../latest-news"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/latest-icon.svg">latest</a></li>
+<li><a class="open-section" href="../category/pakistan"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/pakistan-icon.svg">pakistan</a></li>
+<li><a class="open-section" href="../category/world"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/world-icon.svg"> world</a> </li>
+<li><a class="open-section" href="../category/sports"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/sports-icon.svg"> sports</a></li>
+<li><a class="open-section" href="../category/entertainment"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/entertainment-icon.svg"> entertaintment</a></li>
+<li><a class="open-section" href="../category/business"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/business-icon.svg"> business</a></li>
+<li><a class="open-section" href="../category/health"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/health-icon.svg"> health</a></li>
+<li><a class="open-section" href="../category/amazing"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/amazing-icon.svg"> Amazing</a></li>
+<li><a class="open-section" href="../category/sci-tech"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/sci-tech-icon.svg"> Sci-Tech</a></li>
+<li><a class="open-section" href="../category/life-style"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/sci-tech-icon.svg">Life Style</a></li>
+<li><a class="open-section" href="../videos"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/video-icon.svg"> Videos</a></li>
+<li><a class="open-section" href="../tv-shows"><img src="https://www.geo.tv/assets/front/images/geo-menus-icons/shows-icon.svg"> shows</a></li>
+<li><a href="http://urdu.geo.tv" title="GEO Urdu" target="_blank">GEO Urdu</a></li>
+<li><a href="http://asool.geo.tv" title="Geo Asool" target="_blank">Geo Asool</a></li>
+<li><a href="198264-where-is-the-water#_" class="contactus">Contact us</a></li>
+<li>
+<div style="display: table;margin: 0 auto;width: 150px;">
+<a href="javascript:void(0)" class="slide-bell top-head-bell-responsive"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.63 511.63" width="20" height="20" xml:space="preserve"> <g> <path d="M411.404,288.506c-18.455-45.014-27.685-92.455-27.685-142.325c0-31.405-9.131-56.337-27.398-74.802 c-18.28-18.464-43.406-29.602-75.383-33.407c1.52-3.424,2.279-6.945,2.279-10.562c0-7.614-2.663-14.091-7.991-19.416 C269.898,2.663,263.427,0,255.812,0c-7.61,0-14.083,2.663-19.414,7.994c-5.33,5.329-7.993,11.802-7.993,19.416 c0,3.617,0.76,7.135,2.285,10.562c-31.977,3.809-57.103,14.942-75.375,33.407c-18.271,18.464-27.406,43.396-27.406,74.802 c0,49.87-9.229,97.311-27.694,142.325c-18.464,45.015-45.776,82.847-81.942,113.492c0,9.896,3.617,18.463,10.85,25.693 c7.232,7.231,15.796,10.852,25.697,10.852h127.907c0,20.178,7.135,37.404,21.411,51.675c14.277,14.273,31.504,21.412,51.678,21.412 c20.177,0,37.404-7.139,51.675-21.412c14.273-14.271,21.412-31.497,21.412-51.675H456.81c9.897,0,18.47-3.613,25.694-10.852 c7.234-7.23,10.852-15.797,10.852-25.693C457.196,371.353,429.881,333.521,411.404,288.506z M255.816,488.787 c-13.894,0-25.747-4.896-35.548-14.698c-9.801-9.804-14.703-21.658-14.703-35.553c0-3.046,1.524-4.568,4.568-4.568 c3.046,0,4.57,1.522,4.57,4.568c0,11.231,4.043,20.889,12.132,28.982c8.091,8.094,17.749,12.135,28.98,12.135 c3.046,0,4.575,1.53,4.575,4.569C260.392,487.268,258.862,488.787,255.816,488.787z"></path> </g> </svg></a>
+<div class="fb-bot-btn" style="margin-top: 10px;float: left">
+<div class="fb-messengermessageus fb_iframe_widget" id="fb-messengermessageus" messenger_app_id="1678638095724206" page_id="101059326616167" color="blue" size="large" style="height: 27px;" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=1678638095724206&amp;color=blue&amp;container_width=0&amp;locale=en_US&amp;messenger_app_id=1678638095724206&amp;page_id=101059326616167&amp;sdk=joey&amp;size=large"><span style="vertical-align: bottom; width: 109px; height: 29px;"><iframe name="f389eb1e2c7012" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" title="fb:messengermessageus Facebook Social Plugin" src="https://www.facebook.com/v2.6/plugins/messengermessageus.php?app_id=1678638095724206&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FoVjM2wVZ10b.js%3Fversion%3D42%23cb%3Df1b121c5f99b39c%26domain%3Dwww.geo.tv%26origin%3Dhttps%253A%252F%252Fwww.geo.tv%252Ff1ca11676b9c4dc%26relation%3Dparent.parent&amp;color=blue&amp;container_width=0&amp;locale=en_US&amp;messenger_app_id=1678638095724206&amp;page_id=101059326616167&amp;sdk=joey&amp;size=large" style="border: none; visibility: visible; width: 109px; height: 29px;" class=""></iframe></span></div>
+<script> window.fbAsyncInit = function () {
+                                                FB.init({appId: '1678638095724206', xfbml: true, version: 'v2.6'});
+                                            }</script>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<header>
+<div class="container-fluid">
+<div class="mobile-header">
+<div class="mobile-left">
+<div class="mobile-nav">
+<span class="mob-menu-icon" onclick="openNav()">
+<img src="https://www.geo.tv/assets/templates/detail_templates/watercrisis/water_menu.png" class="mob-blue-icon">
+</span>
+</div>
+</div>
+<div class="mobile-header-left">
+<div class="logo">
+<a class="open-section" href="../index.html">
+<div class="logo-white"><img src="../assets/front/images/logo.svg"> </div>
+<div class="logo-blck"><img src="../assets/front/images/logo-blue.svg"> </div>
+<div class="logo-green" style="display: none"><img src="../assets/front/images/logo-green.svg"> </div>
+ </a>
+</div>
+</div>
+<div class="header-right">
+<div class="signupForm">
+<div class="signupFormPaw"></div>
+<ul class="social-btns center-block">
+<li>
+<a href="http://www.facebook.com/sharer.php?u=https://www.geo.tv/latest/198264" target="_blank">
+<img src="https://www.geo.tv/assets/front/images/detail-facebook.svg">
+</a>
+</li>
+<li>
+<a href="https://twitter.com/share?text=Pakistan’s water apocalypse &amp;url=https://www.geo.tv/latest/198264" target="_blank">
+<img src="https://www.geo.tv/assets/front/images/detail-twitter.svg">
+</a>
+</li>
+<li class="whatsapp">
+<a href="whatsapp://send?text=Pakistan’s water apocalypse  https://www.geo.tv/latest/198264" target="_blank"><img src="https://www.geo.tv/assets/templates/detail_templates/atavist/whatsapp-logo.png">
+</a>
+</li>
+
+</ul>
+<div class="signupXButton">X</div>
+</div>
+<div class="signupButton"><img src="https://www.geo.tv/assets/templates/detail_templates/watercrisis/water_share.png"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</header>
+<section>
+<div class="water_crisis-content">
+<div id="home-screen" class="home-wrapper">
+<div class="wrapper">
+<div class="content">
+<h2>In less than a decade, Pakistan, one of the world’s most populous countries, will run dry </h2>
+<h1>Pakistan’s water apocalypse </h1>
+<h3>A GEO NEWS EXCLUSIVE</h3>
+</div>
+</div>
+</div>
+<p></p>
+</div>
+<div class="water_list">
+<div class="container">
+<ul>
+<li>
+<div class="pic">
+<a href="https://www.geo.tv/latest/198488-pakistans-water-taps-to-run-dry-by-2025">
+<img src="https://www.geo.tv/assets/uploads/updates/2018-06-08/t_198488_013802_updates.jpg" title="">
+</a>
+</div>
+<div class="text">
+<h2><a href="https://www.geo.tv/latest/198488-pakistans-water-taps-to-run-dry-by-2025">Pakistan’s water taps to run dry by 2025 </a></h2>
+<p>Most problems associated with water sector have risen from illiteracy and lack of knowledge and understanding of water conservation practices and high-efficiency irrigation systems</p>
+<span class="link"><a href="https://www.geo.tv/latest/198488-pakistans-water-taps-to-run-dry-by-2025">full story</a></span>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="https://www.geo.tv/latest/197382-punjab-needs-a-water-policy-now-not-tomorrow">
+<img src="https://www.geo.tv/assets/uploads/updates/2018-05-30/t_197382_013305_updates.jpg" title="">
+</a>
+</div>
+<div class="text">
+<h2><a href="https://www.geo.tv/latest/197382-punjab-needs-a-water-policy-now-not-tomorrow">Punjab needs a water policy now, not tomorrow </a></h2>
+<p>The Government of Punjab must chalk out a holistic water policy that will help conserve and manage water resources from Indus Delta and groundwater reserves in the region</p>
+<span class="link"><a href="https://www.geo.tv/latest/197382-punjab-needs-a-water-policy-now-not-tomorrow">full story</a></span>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="https://www.geo.tv/latest/197377-pakistans-capital-is-drying-up-faster-than-you-think">
+<img src="https://www.geo.tv/assets/uploads/updates/2018-05-30/t_197377_013045_updates.jpg" title="">
+</a>
+</div>
+<div class="text">
+<h2><a href="https://www.geo.tv/latest/197377-pakistans-capital-is-drying-up-faster-than-you-think">Pakistan’s capital is drying up, faster than you think </a></h2>
+<p>Residents of Islamabad are faced with a water shortage every summer </p>
+<span class="link"><a href="https://www.geo.tv/latest/197377-pakistans-capital-is-drying-up-faster-than-you-think">full story</a></span>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="https://www.geo.tv/latest/197379-thirsty-for-water-sindh-braces-for-a-public-health-crisis">
+<img src="https://www.geo.tv/assets/uploads/updates/2018-05-30/t_197379_013201_updates.jpg" title="">
+</a>
+</div>
+<div class="text">
+<h2><a href="https://www.geo.tv/latest/197379-thirsty-for-water-sindh-braces-for-a-public-health-crisis">Thirsty for water, Sindh braces for a public health crisis </a></h2>
+<p>With a severe water crisis gripping the province, there is an urgent need for an overreaching provincial water policy </p>
+<span class="link"><a href="https://www.geo.tv/latest/197379-thirsty-for-water-sindh-braces-for-a-public-health-crisis">full story</a></span>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="https://www.geo.tv/latest/197741-no-answers-for-khyber-pakhtunkhwas-water-woes">
+<img src="https://www.geo.tv/assets/uploads/updates/2018-06-02/t_197741_013403_updates.jpg" title="">
+</a>
+</div>
+<div class="text">
+<h2><a href="https://www.geo.tv/latest/197741-no-answers-for-khyber-pakhtunkhwas-water-woes">No answers for Khyber Pakhtunkhwa’s water woes </a></h2>
+<p>The close to two million residents of Peshawar have few options for clean drinking water</p>
+<span class="link"><a href="https://www.geo.tv/latest/197741-no-answers-for-khyber-pakhtunkhwas-water-woes">full story</a></span>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="https://www.geo.tv/latest/197747-leaving-balochistan-in-search-of-water">
+<img src="https://www.geo.tv/assets/uploads/updates/2018-06-02/t_197747_044604_updates.jpg" title="">
+</a>
+</div>
+<div class="text">
+<h2><a href="https://www.geo.tv/latest/197747-leaving-balochistan-in-search-of-water">Leaving Balochistan in search of water </a></h2>
+<p>The water level is declining at the rate of 10 feet per year in Balochistan’s capital city, Quetta</p>
+<span class="link"><a href="https://www.geo.tv/latest/197747-leaving-balochistan-in-search-of-water">full story</a></span>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="https://www.geo.tv/latest/198243-every-drop-counts">
+<img src="https://www.geo.tv/assets/uploads/updates/2018-06-06/t_198243_054429_updates.jpg" title="">
+</a>
+</div>
+<div class="text">
+<h2><a href="https://www.geo.tv/latest/198243-every-drop-counts">Every drop counts </a></h2>
+<p>What can we do at home to prevent water waste and abuse?
+</p>
+<span class="link"><a href="https://www.geo.tv/latest/198243-every-drop-counts">full story</a></span>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<hr>
+</section>
+<footer>
+<p>Copyright © 2018. Geo Television Network. All Rights Reserved.</p>
+</footer>
+</div>
+<script>
+    $('.signupForm').hide();
+    $(".signupButton").click(function(){
+        $('.signupForm').show();
+    },function(){
+        $('.signupForm').show();
+    });
+    $(".signupXButton").click(function(){
+        $('.signupForm').hide();
+    });
+</script>
+</body>
+</html>
