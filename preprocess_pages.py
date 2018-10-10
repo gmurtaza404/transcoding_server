@@ -3,7 +3,9 @@ from bs4 import BeautifulSoup
 from label_objects import page_pretty,label_tags
 from create_web_dirs import create_web_dirs
 from choose_ids import choose_ids
+from generate_transcoded_page import generate_transcoded_page
 import pprint as pp
+
 knap_sack_sizes = [25,50,100,200]
 
 
@@ -20,7 +22,7 @@ def move_to_folder(soup_html,file_name):
 def find_and_remove_total(obj_list):
     temp_obj = {}
     for obj in obj_list:
-        if obj["id"] == "total":
+        if obj["id"] == "orig":
             temp_obj = obj
     obj_list.remove(temp_obj)
     return temp_obj, obj_list
@@ -67,10 +69,7 @@ def make_differntial_pages(base_page,json_file,maxid_file):
 		os.makedirs("differential_pages")
     else:
         shutil.rmtree("differential_pages") 
-        os.makedirs("differential_pages")
-    #os.chdir("differential_pages")
-    #create_web_dirs(maxid_file)
-    
+        os.makedirs("differential_pages")    
     for key in json_dict.keys():
         soup = BeautifulSoup(html_string,"html.parser")
         for value in json_dict[key]:
@@ -82,39 +81,53 @@ def make_differntial_pages(base_page,json_file,maxid_file):
             #print element
     os.chdir(root_directory_local)
 
+
+def base_page_size_calculate(obj_dict, total_obj):
+    total_size = float(total_obj["memory_footprint"])
+    for obj in obj_dict:
+        total_size -= float(obj["memory_footprint"])
+    return total_size
+
 def fix_knapsack_file():
     # checking if a file with name knapsack exists
+    print os.getcwd()
     if os.path.exists("knapsack.json"):
         object_dict = {}
         total_obj = {}
         with open("knapsack.json", "rb") as f:
             object_dict =json.loads(f.read())
+            print object_dict
+
             total_obj ,object_dict = find_and_remove_total(object_dict)
             object_dict = lable_dict_objs(object_dict)
             for obj in object_dict:
-                if float(obj["memory_footprint"]) - float(obj["memory_footprint"]) < 0:
+                if float(total_obj["memory_footprint"]) - float(obj["memory_footprint"]) < 0:
                     obj["memory_footprint"] = 0
                 else:
-                    obj["memory_footprint"] = float(obj["memory_footprint"]) - float(obj["memory_footprint"])
-        #print object_dict, total_obj
+                    obj["memory_footprint"] = float(total_obj["memory_footprint"]) - float(obj["memory_footprint"])
         obj_dict = filter((lambda x: (x["memory_footprint"] > 0.0 )), object_dict)
-        pp.pprint(object_dict)
-        
-        #for size in knap_sack_sizes:
-        #    selected_ids = choose_ids(object_dict,size)
-        #    remove_ids = filter((lambda x: (x not in selected_ids)), object_dict)
-        #    remove_ids
-
+        base_size = base_page_size_calculate(obj_dict,total_obj)
+        for size in knap_sack_sizes:
+            page_type = str(size)
+            size = size - base_size
+            value ,selected_ids = choose_ids(object_dict,size)
+            remove_ids = filter((lambda x: (x not in selected_ids)), object_dict)
+            generate_transcoded_page(remove_ids,"index_base.html", page_type)
+    else:
+        print "knapsack file not found..."    
+    
 def main():
     root_directory = os.getcwd()
     for filename in os.listdir("WebPages"):
         print filename
+        # if filename != "www.google.com":
+        #     continue
         os.chdir("{}/WebPages/{}".format(root_directory,filename))
         # find index.html file and prettify it
         page_pretty("index.html")
         base_page, json_file, maxid_file= label_tags("index.html")
         make_differntial_pages(base_page,json_file,maxid_file)
-        #fix_knapsack_file()
+        fix_knapsack_file()
         os.chdir(root_directory)
     
 main()

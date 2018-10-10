@@ -3,6 +3,7 @@
     there exists a folder with name www.google.com and that folder has the base page with all the elements it need. Also, it has
     a JSON file that contains the information regarding, which tag consumes how much memory.
 """
+from bs4 import BeautifulSoup
 
 
 def generate_transcoded_page(obj_list,page,page_type):
@@ -12,7 +13,7 @@ def generate_transcoded_page(obj_list,page,page_type):
             element = soup.find(obj["type"], r_id=obj["id"])
             if element:
 				element.decompose()
-
+        
         with open("{}_index.html".format(page_type), "wb") as fw:
             fw.write(str(soup))
 
