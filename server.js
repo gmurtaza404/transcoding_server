@@ -8,22 +8,21 @@ web_pages = ["www.google.com","www.ask.com","www.dawnnews.tv","www.facebook.com"
 const readFile = util.promisify(fs.readFile);
 
 let current_directory =  process.cwd()
-let temp_mem_available =  2048 // 2 GB
 
 const decide_which_page_to_serve = (mem)=>{
-    if (mem == 512){
+    if (mem == 0.25){
         // serve low end page
-        return "low_index.html"
-    }else if(mem == 1024){
+        return "25_index.html"
+    }else if(mem == 0.5){
         // serve medium end page
-        return "mid_index.html"
+        return "50_index.html"
 
-    }else if(mem == 2048){
+    }else if(mem == 1){
         // serve ~ normal page
-        return "high_index.html"
-    }else if(mem == 4096){
+        return "100_index.html"
+    }else if(mem == 2){
         // serve base page
-        return "base_index.html"
+        return "200_index.html"
     }else{
         // for now serve base page
         return "index.html"
@@ -35,10 +34,25 @@ const main = async ()=>{
     console.log("Starting the server")
     const server = http.createServer(async (req,resp) => {
         let response_string = "If you are seeing this string"
-        console.log(req.url)
-        try {
-            response_string = await readFile(req.url.substr(1))
-            
+        x = req.rawHeaders
+        try{
+            if (x.indexOf("Device-Memory") == -1){
+                // serve the stub page
+                console.log("Serving the stub page")
+                response_string = await readFile("stub.html", "utf-8")    
+            }else{
+                device_mem_size = x[x.indexOf("Device-Memory")+1]
+                //device_mem_size = 0.25
+                console.log("Device is memory size is :" + device_mem_size + "GB")
+                if(req.url.search(/index.html/) == -1){
+                    // normal request
+                    response_string = await readFile(req.url.substr(1))
+                }else{
+                    // device aware response
+                    request = req.url.replace("index.html", decide_which_page_to_serve(device_mem_size))
+                    response_string = await readFile(request.substr(1))
+                }
+            }
         }catch(err){
             response_string = "file not found"
         }

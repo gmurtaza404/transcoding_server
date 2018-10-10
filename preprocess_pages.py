@@ -96,8 +96,7 @@ def fix_knapsack_file():
         total_obj = {}
         with open("knapsack.json", "rb") as f:
             object_dict =json.loads(f.read())
-            print object_dict
-
+            #print object_dict
             total_obj ,object_dict = find_and_remove_total(object_dict)
             object_dict = lable_dict_objs(object_dict)
             for obj in object_dict:
