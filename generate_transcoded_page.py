@@ -5,36 +5,14 @@
 """
 
 
+def generate_transcoded_page(obj_list,page,page_type):
+    with open(page, "rb") as f:
+        soup = BeautifulSoup(f.read(),"html.parser")
+        for obj in obj_list:
+            element = soup.find(obj["type"], r_id=obj["id"])
+            if element:
+				element.decompose()
 
+        with open("{}_index.html".format(page_type), "wb") as fw:
+            fw.write(str(soup))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-def generate_transcoded_page():
-    print "generating page"
-
-
-
-generate_transcoded_page()
