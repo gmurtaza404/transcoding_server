@@ -27,10 +27,10 @@ def add_rids(regex, html_string_list,html_string,tag_id,id):
             tags[1] = ">"
         
         try:
+            tags.insert(1, "r_id=\"{}\"".format(id))
             new_tags =  " ".join(tags)
             html_string_list[html_string_list.index(temp_tags)] = new_tags
             insert_dict(tag_id,tags[0][1:],id)
-            tags.insert(1, "r_id=\"{}\"".format(id))
             id+= 1
         except ValueError:
             print "found an embedded tag"
