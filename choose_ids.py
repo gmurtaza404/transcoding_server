@@ -5,9 +5,12 @@
     Maximum memory the webpage is allowed to consume.
     Make sure, that memory footprints and maxweight have same unit.
 """
+import functools32
+
 def choose_ids_knapsack(items, maxweight):
     result = [] # knapsack
     
+    @functools32.lru_cache(maxsize=None)
     def bestvalue(i, j):
         if i == 0: return 0
         value= items[i - 1]["value"]
@@ -19,6 +22,7 @@ def choose_ids_knapsack(items, maxweight):
             return max(bestvalue(i - 1, j),
                        bestvalue(i - 1, j - weight) + value)
 
+    
     j = maxweight
     result = []
     
@@ -43,11 +47,13 @@ def choose_id_greedily(items, maxweight):
             break
     return (len(selected_items),selected_items)
 
-#driver function
-def main():
-    knapsack_list = [{"id":1,"memory_footprint":12,"value":2},{"id":2,"memory_footprint":21,"value":3},{"id":3,"memory_footprint":11,"value":1}]
-    memory_capacity = 40
-    
-    print choose_id_greedily(knapsack_list, memory_capacity)    
 
-main()
+
+#driver function
+# def main():
+#     knapsack_list = [{"id":1,"memory_footprint":12,"value":2},{"id":2,"memory_footprint":21,"value":3},{"id":3,"memory_footprint":11,"value":1}]
+#     memory_capacity = 40
+    
+#     print choose_ids_knapsack(knapsack_list, memory_capacity)    
+
+#main()

@@ -1,12 +1,20 @@
-import glob, os,json,shutil
+import glob, os,json,shutil,decimal
 from bs4 import BeautifulSoup
 from label_objects import page_pretty,label_tags
 from create_web_dirs import create_web_dirs
-from choose_ids import choose_id_greedily
+from choose_ids import choose_id_greedily, choose_ids_knapsack
 from generate_transcoded_page import generate_transcoded_page
 import pprint as pp
 
-knap_sack_sizes = [25,50,100,200]
+
+def compute_knapsack_sizes(phone_memory):
+    return map( (lambda x: (((0.6*x)*1024)-144)*0.1),phone_memory )
+
+phone_memory = [0.25,0.5,1,2]
+knap_sack_sizes = compute_knapsack_sizes(phone_memory)
+D = decimal.Decimal
+
+
 """
     TODO: Add comments, and prettify the code.
 """
@@ -108,10 +116,20 @@ def fix_knapsack_file():
         obj_dict = filter((lambda x: (x["memory_footprint"] > 0.0 )), object_dict)
         base_size = base_page_size_calculate(obj_dict,total_obj)
         for size in knap_sack_sizes:
+            print size
             page_type = str(size)
             size = size - base_size
             t_value ,selected_ids = choose_id_greedily(object_dict,size)
             remove_ids = filter((lambda x: (x not in selected_ids)), object_dict)
+            
+            pp.pprint(remove_ids)
+            total_memory_saved = 0.0
+            for rem_obj in remove_ids:
+                total_memory_saved = total_memory_saved + float(rem_obj["memory_footprint"])
+
+            
+            print "Saved :", total_memory_saved
+            
             generate_transcoded_page(remove_ids,"index_base.html", page_type)
     else:
         print "knapsack file not found..."    
@@ -119,8 +137,8 @@ def fix_knapsack_file():
 def main():
     root_directory = os.getcwd()
     for filename in os.listdir("WebPages"):
-        print filename
-        if filename != "www.google.com":
+        #print filename
+        if filename != "www.urdupoint.com":
             continue
         os.chdir("{}/WebPages/{}".format(root_directory,filename))
         # find index.html file and prettify it
@@ -131,3 +149,5 @@ def main():
         os.chdir(root_directory)
     
 main()
+
+#print knap_sack_sizes
