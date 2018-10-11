@@ -12,17 +12,17 @@ let current_directory =  process.cwd()
 const decide_which_page_to_serve = (mem)=>{
     if (mem == 0.25){
         // serve low end page
-        return "25_index.html"
+        return "0.96_index.html"
     }else if(mem == 0.5){
         // serve medium end page
-        return "50_index.html"
+        return "16.32_index.html"
 
     }else if(mem == 1){
         // serve ~ normal page
-        return "100_index.html"
+        return "47.04_index.html"
     }else if(mem == 2){
         // serve base page
-        return "200_index.html"
+        return "108.48_index.html"
     }else{
         // for now serve base page
         return "index.html"
