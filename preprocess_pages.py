@@ -2,12 +2,14 @@ import glob, os,json,shutil
 from bs4 import BeautifulSoup
 from label_objects import page_pretty,label_tags
 from create_web_dirs import create_web_dirs
-from choose_ids import choose_ids
+from choose_ids import choose_id_greedily
 from generate_transcoded_page import generate_transcoded_page
 import pprint as pp
 
 knap_sack_sizes = [25,50,100,200]
-
+"""
+    TODO: Add comments, and prettify the code.
+"""
 
 def load_json_file(file_name):
 	json_dict = {}
@@ -31,7 +33,7 @@ def lable_dict_objs(obj_dict):
     # assuming this function is in a correct directory
     with open("index_json.json", "rb") as f:
         index_json = json.loads(f.read()) 
-        print index_json
+        #print index_json
         for key in index_json:
             for obj in obj_dict:
                if int(obj["id"]) in index_json[key]:
@@ -90,7 +92,6 @@ def base_page_size_calculate(obj_dict, total_obj):
 
 def fix_knapsack_file():
     # checking if a file with name knapsack exists
-    print os.getcwd()
     if os.path.exists("knapsack.json"):
         object_dict = {}
         total_obj = {}
@@ -109,7 +110,7 @@ def fix_knapsack_file():
         for size in knap_sack_sizes:
             page_type = str(size)
             size = size - base_size
-            value ,selected_ids = choose_ids(object_dict,size)
+            t_value ,selected_ids = choose_id_greedily(object_dict,size)
             remove_ids = filter((lambda x: (x not in selected_ids)), object_dict)
             generate_transcoded_page(remove_ids,"index_base.html", page_type)
     else:
@@ -119,13 +120,13 @@ def main():
     root_directory = os.getcwd()
     for filename in os.listdir("WebPages"):
         print filename
-        # if filename != "www.google.com":
-        #     continue
+        if filename != "www.google.com":
+            continue
         os.chdir("{}/WebPages/{}".format(root_directory,filename))
         # find index.html file and prettify it
         page_pretty("index.html")
         base_page, json_file, maxid_file= label_tags("index.html")
-        make_differntial_pages(base_page,json_file,maxid_file)
+        #make_differntial_pages(base_page,json_file,maxid_file)
         fix_knapsack_file()
         os.chdir(root_directory)
     
