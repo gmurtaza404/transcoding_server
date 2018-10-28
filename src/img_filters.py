@@ -2,7 +2,7 @@ import os,json,urllib,time
 from bs4 import BeautifulSoup
 from utilities import get_directory,compress_image_x_percent
 
-def remove_images_transform(path_to_file,updated_page_name = "cmprs_img_index.html"):
+def remove_images_transform(path_to_file,updated_page_name = "rmv_img_index.html"):
     directory_to_write_in = get_directory(path_to_file)
     with open(path_to_file, "rb") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
@@ -12,7 +12,7 @@ def remove_images_transform(path_to_file,updated_page_name = "cmprs_img_index.ht
             fw.write(str(soup))
 
 
-def remove_videos_transform(path_to_file, updated_page_name = "cmprs_img_index.html"):
+def remove_videos_transform(path_to_file, updated_page_name = "rmv_vid_index.html"):
     directory_to_write_in = get_directory(path_to_file)
     with open(path_to_file, "rb") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
@@ -23,7 +23,7 @@ def remove_videos_transform(path_to_file, updated_page_name = "cmprs_img_index.h
 
 
 
-def fix_img_links(path_to_file):
+def fix_img_links(path_to_file,updated_page_name = "link_fix_index.html"):
     directory_to_write_in = get_directory(path_to_file)
     if not os.path.exists("{}downloaded_images".format(directory_to_write_in)):
 		os.makedirs("{}downloaded_images".format(directory_to_write_in))
@@ -41,7 +41,7 @@ def fix_img_links(path_to_file):
             else:
                 continue
         
-        with open("{}imglink_fixed.html".format(directory_to_write_in),"wb") as fw:
+        with open("{}{}".format(directory_to_write_in,updated_page_name),"wb") as fw:
             fw.write(str(soup))
         
 
@@ -57,34 +57,6 @@ def compress_images_transform(path_to_file, compression_rate, updated_page_name 
         with open("{}{}".format(directory_to_write_in,updated_page_name), "wb") as fw:
             fw.write(str(soup))
     
-def main():
-    # print "preprocessing images..."
-    # root_directory = os.getcwd()
-    # os.chdir("./WebPages/www.dawnnews.tv")
-    
-    # json_file_data = {}
-    # with open("index_json.json","rb") as f:
-    #     json_file_data = json.loads(f.read())
-    # find_images_sizes(json_file_data)
-
-    # os.chdir(root_directory)
-    #fix_img_links("./WebPages/www.google.com/index.html")
-    #find_image_sizes("./WebPages/www.dawnnews.tv/index_base.html")
-    #compress_image_x_percent("./0.3_mb_image.png", 25)
-
-    compress_images_transform("./WebPages/www.google.com/imglink_fixed.html", 50)
-    print "done"
-
-main()
-
-
-
-
-
-
-
-
-
 
 
 

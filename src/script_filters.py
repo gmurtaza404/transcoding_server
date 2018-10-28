@@ -3,7 +3,7 @@
 """
 from bs4 import BeautifulSoup
 
-def remove_javascript_transform(path_to_file):
+def remove_javascript_transform(path_to_file, updated_page_name = "cmprs_img_index.html"):
     print "removing javascript from a page"
     path_list = path_to_file.split("/")
     path_list.pop()
@@ -16,7 +16,6 @@ def remove_javascript_transform(path_to_file):
         soup = BeautifulSoup(f.read(), "html.parser")
         for tag in soup.findAll("script"):
             tag.extract()
-        
-        with open("{}no_js_index.html".format(directory_to_write_in), "wb") as fw:
+        with open("{}{}".format(directory_to_write_in, updated_page_name), "wb") as fw:
             fw.write(str(soup))
     
