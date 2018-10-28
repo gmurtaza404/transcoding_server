@@ -44,7 +44,8 @@ def label_tags(page_path):
     file_name = page_path.split("/")[-1].split(".")[0]
     with open(page_path, "rb") as f:
         html_string = f.read()
-        regexes = [re.compile('<script.*?>'),re.compile('<noscript.*?>'), re.compile('<img.*?>'),re.compile('<link.*?>'),re.compile('<video.*?>')]
+        #,re.compile('<noscript.*?>'), re.compile('<img.*?>'),re.compile('<link.*?>'),re.compile('<video.*?>')
+        regexes = [re.compile('<script.*?>|<noscript.*?>|<img.*?>|<link.*?>|<video.*?>')]
         html_string_list = html_string.split("\n")
         html_string_list = map((lambda x: x.strip()), html_string_list)
         for regex in regexes:
@@ -72,14 +73,3 @@ def page_pretty(page_path):
     with open(page_path, "wb") as f:
         html_string.encode('ascii', 'ignore').decode('ascii')
         f.write(html_string)
-
-
-# main for debugging purposes
-def main():
-    page_name = "Ask.com - What's Your Question_.html"
-    page_pretty(page_name)
-    label_tags(page_name)
-
-
-
-#main()

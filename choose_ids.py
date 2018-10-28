@@ -6,6 +6,11 @@
     Make sure, that memory footprints and maxweight have same unit.
 """
 import functools32
+def apply_above_the_fold_value_scale(items):
+    max_id = len(items)*1.0
+    for x in range(len(items)):
+        items[x]["value"] = 0.5 + (max_id-x)/max_id*0.5 
+    return items
 
 def choose_ids_knapsack(items, maxweight):
     result = [] # knapsack
@@ -19,8 +24,7 @@ def choose_ids_knapsack(items, maxweight):
         if weight > j:
             return bestvalue(i - 1, j)
         else:
-            return max(bestvalue(i - 1, j),
-                       bestvalue(i - 1, j - weight) + value)
+            return max(bestvalue(i - 1, j), bestvalue(i - 1, j - weight) + value)
 
     
     j = maxweight
@@ -51,9 +55,10 @@ def choose_id_greedily(items, maxweight):
 
 #driver function
 # def main():
-#     knapsack_list = [{"id":1,"memory_footprint":12,"value":2},{"id":2,"memory_footprint":21,"value":3},{"id":3,"memory_footprint":11,"value":1}]
-#     memory_capacity = 40
-    
+#     knapsack_list = [{"id":1,"memory_footprint":12,"value":1},{"id":2,"memory_footprint":21,"value":1},{"id":3,"memory_footprint":11,"value":1},{"id":4,    "memory_footprint":11,"value":1}]
+
+#     memory_capacity = 3000
+#     knapsack_list = apply_above_the_fold_value_scale(knapsack_list)
 #     print choose_ids_knapsack(knapsack_list, memory_capacity)    
 
-#main()
+# main()

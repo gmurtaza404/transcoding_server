@@ -138,14 +138,14 @@ def main():
     root_directory = os.getcwd()
     for filename in os.listdir("WebPages"):
         #print filename
-        if filename != "www.urdupoint.com":
+        if filename != "www.dawnnews.tv":
             continue
         os.chdir("{}/WebPages/{}".format(root_directory,filename))
         # find index.html file and prettify it
         page_pretty("index.html")
         base_page, json_file, maxid_file= label_tags("index.html")
         #make_differntial_pages(base_page,json_file,maxid_file)
-        fix_knapsack_file()
+        #fix_knapsack_file()
         os.chdir(root_directory)
     
 main()
