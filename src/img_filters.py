@@ -62,9 +62,23 @@ def compress_images_transform(path_to_file, compression_rate, updated_page_name 
         os.chdir(root_directory)
         html_string = str(soup)
     with open("{}{}".format(directory_to_write_in,updated_page_name), "wb") as fw:
-        fw.write(str(soup))
+        fw.write(html_string)
     
-
+def compress_image_by_rid_transform(path_to_file, compression_rate, rid ,updated_page_name = "cmprs_img_index.html"):
+    root_directory = os.getcwd()
+    directory_to_write_in = get_directory(path_to_file)
+    html_string = ""
+    with open(path_to_file, "rb") as f:
+        os.chdir(directory_to_write_in)
+        soup = BeautifulSoup(f.read(), "html.parser")
+        tag = soup.find(['img'], r_id=rid)
+        if tag:
+            tag["src"] = compress_image_x_percent(tag["src"], compression_rate)
+        os.chdir(root_directory)
+        html_string = str(soup)
+    
+    with open("{}{}".format(directory_to_write_in,updated_page_name), "wb") as fw:
+        fw.write(html_string)
 
 
 

@@ -3,9 +3,14 @@
         1. get_directory(path_to_file) returns path to the parent directory
         2. get_file_size(path_to_file) return size of file in bytes
         3. compress_image_x_percent(path_to_image, path_to_output, quality) generates a new image on the given path with given quality parameter
-        4. prettify_html(path_to_page, path_to_output)
+        4. prettify_html(path_to_page, path_to_output) prettifies the input page. 
+        5. knapsack(items, maxweight) function takes, a list of item, where each item should have a "memory_footprint" and a "value" attribute. 
+                                      It can have additional attributes, and the resulting list will retain those values. and the second parameter is the maxweight.
+                                      Maximum memory the webpage is allowed to consume.
+                                      Make sure, that memory footprints and maxweight have same unit.
+        6. 
 """
-import os,sys
+import os,sys,functools32,json
 from bs4 import BeautifulSoup
  
 def get_directory(path_to_file):
@@ -41,6 +46,31 @@ def prettify_html(path_to_page, path_to_output):
         html_string.encode('ascii', 'ignore').decode('ascii')
         f.write(html_string)
 
+# expects a list of dictionaries and returns a list of dictionaries
+def knapsack(items, max_weight, value = "value", weight = "memory_footprint"):
+    result = [] # knapsack
+    @functools32.lru_cache(maxsize=None)
+    def bestvalue(i, j):
+        if i == 0: return 0
+        value= items[i - 1]["value"]
+        weight= items[i - 1]["memory_footprint"]
+        if weight > j:
+            return bestvalue(i - 1, j)
+        else:
+            return max(bestvalue(i - 1, j), bestvalue(i - 1, j - weight) + value)
+
+    
+    j = max_weight
+    result = []
+    
+    for i in xrange(len(items), 0, -1):
+        if bestvalue(i, j) != bestvalue(i - 1, j):
+            result.append(items[i - 1])
+            j -= items[i - 1]["memory_footprint"]
+    result.reverse()
+    
+    return bestvalue(len(items), max_weight), result
+
 
 #################################################################################
 ################### H E L P E R F U N C T I O N S ###############################
@@ -58,3 +88,9 @@ def generate_images_convert(path_to_image, path_to_output ,quality):
 def generate_images_pngquant(path_to_image, path_to_output ,quality):
     if not os.path.exists(path_to_output):
         os.system("pngquant {} --quality={}-{} -o{}".format(path_to_image, quality, quality ,path_to_output))
+
+def load_json_file(path_to_file):
+	json_dict = {}
+	with open(path_to_file, "rb") as f:
+		json_dict = json.loads(f.read())
+	return json_dict

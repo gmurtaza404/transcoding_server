@@ -1,5 +1,5 @@
 #TODO Add more transformations, example, fixed high,mid,low quality image transforms.
-
+#TODO Add error handling for bad inputs...
 """
     Main Driver script that applies desired transformation
     API Parameters
@@ -13,13 +13,13 @@
                     4. fix_image_links      -> Fixes the "src" attributes of the images.
                     5. cmprs_imgs           -> Compresses all images in a html by a given factor.
                     6. page_pretty          -> Prettify the html of the page. 
-                    7. lable_objects        -> Give unique ids to all the objects in html
+                    7. label_objects        -> Give unique ids to all the objects in html
                     8. remove_object_by_rid -> Removes an object with given r_id
-
+                    9. cmprs_img_by_rid     -> Compresses image by a factor x
             Third Parameter: output_html_name, name of the generated html file.
             
         Optional:
-            -c/--compression_rate: Optional parameter to specify the compression rate, for cmprs_img transformation
+            -c/--compression_rate: Optional parameter to specify the compression rate, for cmprs_img and cmprs_img_by_rid transformation
             -r/--r_id: Required parameter for remove_object_by_rid, this generated a 
             -h/--help: Prints help for the API
     API Examples
@@ -35,7 +35,9 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("path_to_html_file", help="Path to the html file onto which you want to apply the transformations.")
     parser.add_argument("transformation", help="Which transformation to apply, no_script, no_img etc...")
-    parser.add_argument("-c", "--compression_rate", type=int, default=80, help= "Compression rate (in case of cmprs_img transform, ignored otherwise. Default value is 80", )
+    parser.add_argument("-c", "--compression_rate", type=int, default=80, help= "Compression rate (in case of cmprs_img transform, ignored otherwise. Default value is 80")
+    parser.add_argument("-r", "--r_id", type=int, default=-1, help= "r_id of the tag that you want to remove from a labeled html file")
+    
     parser.add_argument("output_html_name", help="Path to file where you want to write the transformed html")
     args = parser.parse_args()
     if args.transformation == "no_script":
@@ -50,8 +52,12 @@ def main():
         img_filters.compress_images_transform(args.path_to_html_file, args.compression_rate,args.output_html_name)
     elif args.transformation == "page_pretty":
         page_transformations.page_prettify(args.path_to_html_file, args.output_html_name)
-    elif args.transformation == "lable_objects":
+    elif args.transformation == "label_objects":
         page_transformations.lable_html_tags(args.path_to_html_file, args.output_html_name)
+    elif args.transformation == "remove_object_by_rid":
+        page_transformations.remove_element_by_rid(args.path_to_html_file, args.r_id, args.output_html_name)
+    elif args.transformation == "cmprs_img_by_rid":
+        img_filters.compress_image_by_rid_transform(args.path_to_html_file, args.compression_rate ,args.r_id, args.output_html_name)
     
     else:
         print "Invalid Transformation"
