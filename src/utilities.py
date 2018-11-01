@@ -2,11 +2,12 @@
     Utilities
         1. get_directory(path_to_file) returns path to the parent directory
         2. get_file_size(path_to_file) return size of file in bytes
-        3. compress_image(path_to_image, path_to_output, quality) generates a new image on the given path with given quality parameter
-
+        3. compress_image_x_percent(path_to_image, path_to_output, quality) generates a new image on the given path with given quality parameter
+        4. prettify_html(path_to_page, path_to_output)
 """
-import os
-
+import os,sys
+from bs4 import BeautifulSoup
+ 
 def get_directory(path_to_file):
     path_list = path_to_file.split("/")
     path_list.pop()
@@ -17,7 +18,7 @@ def get_directory(path_to_file):
     directory_to_write_in = "/".join((path_list))
     return directory_to_write_in
 
-def find_file_sizes(path_to_file):
+def find_file_size(path_to_file):
     return os.path.getsize(path_to_file)
 
 
@@ -29,8 +30,21 @@ def compress_image_x_percent(path_to_file, x):
     compress_image(path_to_file,path_to_output,x)
     return path_to_output
 
+def prettify_html(path_to_page, path_to_output):
+    reload(sys)
+    sys.setdefaultencoding('utf8')
+    with open(path_to_page, "rb") as f:
+        html_string = f.read()
+        html_string = BeautifulSoup(html_string, 'html.parser').prettify()
+    
+    with open(path_to_output, "wb") as f:
+        html_string.encode('ascii', 'ignore').decode('ascii')
+        f.write(html_string)
 
 
+#################################################################################
+################### H E L P E R F U N C T I O N S ###############################
+#################################################################################
 def compress_image(path_to_image, path_to_output, quality):
     file_extension = path_to_image.split(".")[-1]
     if file_extension == "png":
