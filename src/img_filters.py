@@ -14,6 +14,19 @@ def remove_images_transform(path_to_file,updated_page_name = "rmv_img_index.html
     with open("{}{}".format(directory_to_write_in,updated_page_name), "wb") as fw:
         fw.write(html_string)
 
+def remove_svg_transform(path_to_file,updated_page_name = "rmv_img_index.html"):
+    directory_to_write_in = get_directory(path_to_file)
+    html_string = ""
+    with open(path_to_file, "rb") as f:
+        soup = BeautifulSoup(f.read(), "html.parser")
+        for tag in soup.findAll("img"):
+            if ".svg" in tag["src"]:
+                tag.extract()
+        html_string = str(soup)
+
+    with open("{}{}".format(directory_to_write_in,updated_page_name), "wb") as fw:
+        fw.write(html_string)
+
 
 def remove_videos_transform(path_to_file, updated_page_name = "rmv_vid_index.html"):
     directory_to_write_in = get_directory(path_to_file)
@@ -36,7 +49,13 @@ def fix_img_links(path_to_file,updated_page_name = "link_fix_index.html"):
     with open(path_to_file, "rb") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
         for tag in soup.findAll("img"):
-            image_link = tag["src"]
+            image_link = " "
+            try: 
+                image_link = tag["src"]
+            except KeyError:
+                image_link = tag["data-default-src"]
+                print image_link
+                continue
             if "https" in image_link or "http" in image_link:
                 img_name = image_link.split("/")[-1]
                 if img_name not in os.listdir("{}downloaded_images".format(directory_to_write_in)):

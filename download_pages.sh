@@ -1,2 +1,2 @@
 cd WebPages
-wget -r -l1 -k -i ../webpages.txt
+wget -r -l2 -k -i ../webpages.txt

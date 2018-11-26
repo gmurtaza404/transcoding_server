@@ -1,4 +1,3 @@
-#TODO Add more transformations, example, fixed high,mid,low quality image transforms.
 #TODO Add error handling for bad inputs...
 """
     Main Driver script that applies desired transformation
@@ -16,6 +15,8 @@
                     7. label_objects        -> Give unique ids to all the objects in html
                     8. remove_object_by_rid -> Removes an object with given r_id
                     9. cmprs_img_by_rid     -> Compresses image by a factor x
+                    10. get_page_stats      -> Get basic stats of a html page and dumps the data in a .json file.
+                    11. rmv_svg             -> Removes SVG format files from the webpage
             Third Parameter: output_html_name, name of the generated html file.
             
         Optional:
@@ -58,7 +59,10 @@ def main():
         page_transformations.remove_element_by_rid(args.path_to_html_file, args.r_id, args.output_html_name)
     elif args.transformation == "cmprs_img_by_rid":
         img_filters.compress_image_by_rid_transform(args.path_to_html_file, args.compression_rate ,args.r_id, args.output_html_name)
-    
+    elif args.transformation == "get_page_stats":
+        page_transformations.page_stats(args.path_to_html_file, args.output_html_name)
+    elif args.transformation == "rmv_svg":
+        img_filters.remove_svg_transform(args.path_to_html_file, args.output_html_name)
     else:
         print "Invalid Transformation"
 main()
