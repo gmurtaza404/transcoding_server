@@ -35,9 +35,7 @@ def page_prettify(path_to_page,updated_page_name = "pretty_index.html"):
     prettify_html(path_to_page,path_to_output)
 
 """
-<img src="img/1_mb_image_jpeg.jpeg" style="width:100px;height:100px;">
-<img src="img/1_mb_image_png.png" style="width:100px;height:100px;">
-<img src="img/1_mb_image_gif.gif" style="width:100px;height:100px;">
+
 """
 def page_stats(path_to_page, path_to_json_file):
     directory_to_write_in = get_directory(path_to_page)

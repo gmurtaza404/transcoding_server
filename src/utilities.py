@@ -72,7 +72,15 @@ def update_extension(path_to_file, new_ext):
     return path_to_file
 
 
-
+def val_in_range(low,high):
+	val_range = range(1,101)
+	if (high in val_range) and (low in val_range):
+		return (low+high)/2
+	elif high in val_range:
+		return high
+	elif low in val_range:
+		return low
+	
 
 def load_json_file(path_to_file):
 	json_dict = {}

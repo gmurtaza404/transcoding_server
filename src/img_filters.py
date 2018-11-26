@@ -1,6 +1,7 @@
 import os,json,urllib,time
 from bs4 import BeautifulSoup
-from utilities import get_directory,compress_image_x_percent
+from utilities import get_directory
+from compression import compress_image_by_percentage
 
 def remove_images_transform(path_to_file,updated_page_name = "rmv_img_index.html"):
     directory_to_write_in = get_directory(path_to_file)
@@ -77,7 +78,7 @@ def compress_images_transform(path_to_file, compression_rate, updated_page_name 
         os.chdir(directory_to_write_in)
         soup = BeautifulSoup(f.read(), "html.parser")
         for tag in soup.findAll("img"):
-            tag["src"] = compress_image_x_percent(tag["src"], compression_rate)
+            tag["src"] = compress_image_by_percentage(tag["src"], compression_rate)
         os.chdir(root_directory)
         html_string = str(soup)
     with open("{}{}".format(directory_to_write_in,updated_page_name), "wb") as fw:
@@ -92,7 +93,7 @@ def compress_image_by_rid_transform(path_to_file, compression_rate, rid ,updated
         soup = BeautifulSoup(f.read(), "html.parser")
         tag = soup.find(['img'], r_id=rid)
         if tag:
-            tag["src"] = compress_image_x_percent(tag["src"], compression_rate)
+            tag["src"] = compress_image_by_percentage(tag["src"], compression_rate)
         os.chdir(root_directory)
         html_string = str(soup)
     

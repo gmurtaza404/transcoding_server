@@ -5,21 +5,54 @@ WEBP_ENABLED = True
 SUPPORTED_FORMATS = ["jpg", "jpeg", "png", "gif"]
 
 
+def quality_binary_search(path_to_image, path_to_tmp,percentage, low, high):
+    if high<low:
+        return val_in_range(low,high)
+    
+    mid = int((low+high)/2)
+    rate = compress_image(path_to_image, path_to_tmp, mid)
+    os.system("rm {}".format(path_to_tmp))
+    
+    size_comp = size_comparison(percentage,rate)
+    if size_comp==0: #size in range
+		return mid
+    elif size_comp==-1: #size too low
+		return quality_binary_search(path_to_image,path_to_tmp,percentage,mid+1,high)
+    elif size_comp==1: #size too high
+		return quality_binary_search(path_to_image,path_to_tmp,percentage,low,mid-1)
+
+def get_output_file_name(path_to_file, x):
+    directory_to_write_in = get_directory(path_to_file)
+    file_name = path_to_file.split("/")[-1]
+    output_file_name = "{}_{}".format(x, file_name)
+    path_to_output = directory_to_write_in + output_file_name
+    return path_to_output
 
 
+def compress_image_by_percentage(path_to_image, percentage):
+    path_to_output = get_output_file_name(path_to_image, percentage)
+    path_to_output = update_extension(path_to_output, "webp")
+    
+    path_to_tmp = path_to_output.split("/")
+    path_to_tmp[-1] = "temp.webp"
+    path_to_tmp = "/".join(path_to_tmp)
 
-
-def compress_image_by_percentage(path_to_image, path_to_output, percentage):
     file_extension = path_to_image.split(".")[-1]
     if file_extension not in SUPPORTED_FORMATS:
         print "Not compressing file {} because format is not supported!".format(path_to_image.split("/")[-1])
         return path_to_image
+   
     if os.path.exists(path_to_output):
         return path_to_output
-
     
-
-
+    if not(0 <= percentage <= 100):
+		print "Error: Percentage must be in the range {} to {}".format(0,100)
+		sys.exit(1)
+    quality_level = quality_binary_search(path_to_image,path_to_tmp,percentage,1,100)
+    achieved_compression = compress_image(path_to_image,path_to_output, quality_level)
+    
+    print "Achieved {} percent compression at quality {}".format(achieved_compression, quality_level)
+    return path_to_output
 
 
 
@@ -45,7 +78,7 @@ def compress_image(path_to_image, path_to_output, quality):
         else:
             generate_image_cwebp(path_to_image, path_to_output, quality)
     
-    return (find_file_size(path_to_output)/find_file_size(path_to_image))*100
+    return (1- (find_file_size(path_to_output)/find_file_size(path_to_image)) )*100
 
 
 
@@ -57,30 +90,22 @@ def compress_image(path_to_image, path_to_output, quality):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+def size_comparison(target_percentage,actual_percentage):
+	slack = 1 #percent
+	percent_upper = target_percentage+slack
+	percent_lower = target_percentage-slack
+	if actual_percentage<percent_lower: #not enough size reduction achieved
+		return  1
+	elif actual_percentage>percent_upper: #too much reduction achieved
+		return -1
+	else:
+		return 0
 
 
 
 def generate_image_cwebp(path_to_image, path_to_output, quality):
     if not os.path.exists(path_to_output):
-        os.system("cwebp -q {} {} -o {}".format(quality, path_to_image, path_to_output))
+        os.system("cwebp -q {} {} -o {} -quiet".format(quality, path_to_image, path_to_output))
 
 def compress_gif_gif2webp(path_to_image, path_to_output, quality):
     if not os.path.exists(path_to_output):
