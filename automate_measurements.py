@@ -10,6 +10,7 @@ import pandas as pd
     Global Variables
 """
 website = "www.synthetic.com"
+nonce = "_1_{}".format(0)
 
 path = "./WebPages/{}/index.html".format(website) 
 curr_ip = "192.168.1.11"
@@ -19,13 +20,18 @@ mv_from = "/home/fatima/chromium/src/tools/perf"
 mv_to = "/home/fatima/Documents/sproj/measurement_results/results_telemetry/{}/".format(website)
 
 web_cache = "memory:chrome:renderer_processes:reported_by_chrome:web_cache:effective_size"
-proportional_resident_size = "memory:chrome:renderer_processes:reported_by_os:proportional_resident_size"
+renderer_proportional_resident_size = "memory:chrome:renderer_processes:reported_by_os:proportional_resident_size"
+browser_proportional_resident_size = "memory:chrome:browser_process:reported_by_os:system_memory:proportional_resident_size"
+gpu_proportional_resident_size = "memory:chrome:gpu_process:reported_by_os:system_memory:proportional_resident_size"
+
+
+
 results = {
-    "noimg":{"web_cache":0, "proportional_resident_size": 0},
-    "25":{"web_cache":0, "proportional_resident_size": 0},
-    "50":{"web_cache":0, "proportional_resident_size": 0},
-    "75":{"web_cache":0, "proportional_resident_size": 0},
-    "fixed":{"web_cache":0, "proportional_resident_size": 0}
+    "noimg":{},
+    "25":{},
+    "50":{},
+    "75":{},
+    "fixed":{}
 }
 
 def generate_transformed_pages(path_to_index_page):
@@ -62,20 +68,15 @@ def generate_transformed_pages(path_to_index_page):
 
 def parse_csv_file(mv_to):
     os.chdir(mv_to)
-    data = pd.read_csv("results.csv") 
+    data = pd.read_csv("results.csv")
     for _, row in data.iterrows():
-        if row['name'] == web_cache:
-            results[row["stories"].split("_")[-3]]["web_cache"] = int(row['avg'])
-            #print row['avg'], row["stories"].split("_")[-3]
-        if row['name'] == proportional_resident_size:
-            results[row["stories"].split("_")[-3]]["proportional_resident_size"] = int(row['avg'])
-            #print row['avg'], row["stories"].split("_")[-3]
-        
-
+        if "effective_size" in row['name'] and "renderer_process" in row['name']: 
+            field = ":".join(row['name'].split(":")[3:])
+            results[row["stories"].split("_")[-3]][field] = int(row['avg'])
 
 def make_csv_of_results():
     df = pd.DataFrame.from_dict(results)
-    df.to_csv("{}.csv".format(website))
+    df.to_csv("{}{}.csv".format(website,nonce))
 
 
 def driver_function():
@@ -85,9 +86,9 @@ def driver_function():
         write_string = "URL_LIST = [{}]".format(",".join(url_list))
         f.write(write_string)
     # Run telemetry memory benchmark
-    #os.system(benchmark_command)
-    #os.chdir(mv_from)
-    #os.system("mv results.csv {}".format(mv_to))
+    os.system(benchmark_command)
+    os.chdir(mv_from)
+    os.system("mv results.csv {}".format(mv_to))
     os.chdir(root)
 
 
@@ -101,10 +102,11 @@ def get_page_img_sizes(path_to_folder):
     os.system("rm a.json")
 
 
+
 driver_function()
-#get_page_img_sizes("./WebPages/{}".format(website))
-#parse_csv_file(mv_to)
-#make_csv_of_results()
+get_page_img_sizes("./WebPages/{}".format(website))
+parse_csv_file(mv_to)
+make_csv_of_results()
 
 
 

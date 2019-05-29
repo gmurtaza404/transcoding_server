@@ -1,7 +1,7 @@
 import os,json,urllib,time
 from bs4 import BeautifulSoup
 from utilities import get_directory
-from compression import compress_image_by_percentage
+from compression import compress_image_by_percentage, change_image_format, change_image_size
 
 def remove_images_transform(path_to_file,updated_page_name = "rmv_img_index.html"):
     directory_to_write_in = get_directory(path_to_file)
@@ -83,7 +83,47 @@ def compress_images_transform(path_to_file, compression_rate, updated_page_name 
         html_string = str(soup)
     with open("{}{}".format(directory_to_write_in,updated_page_name), "wb") as fw:
         fw.write(html_string)
-    
+
+
+
+
+def change_image_format_transform(path_to_file, new_format, updated_page_name = "cmprs_img_index.html"):
+    root_directory = os.getcwd()
+    directory_to_write_in = get_directory(path_to_file)
+    html_string = ""
+    with open(path_to_file, "rb") as f:
+        os.chdir(directory_to_write_in)
+        soup = BeautifulSoup(f.read(), "html.parser")
+        for tag in soup.findAll("img"):
+            
+            tag["src"] = change_image_format(tag["src"], new_format)
+        
+        os.chdir(root_directory)
+        html_string = str(soup)
+    with open("{}{}".format(directory_to_write_in,updated_page_name), "wb") as fw:
+        fw.write(html_string)
+
+
+
+
+def change_image_size_transform(path_to_file, new_size, updated_page_name = "cmprs_img_index.html"):
+    root_directory = os.getcwd()
+    directory_to_write_in = get_directory(path_to_file)
+    html_string = ""
+    with open(path_to_file, "rb") as f:
+        os.chdir(directory_to_write_in)
+        soup = BeautifulSoup(f.read(), "html.parser")
+        for tag in soup.findAll("img"):
+            
+            tag["src"] = change_image_size(tag["src"], new_size)
+        
+        os.chdir(root_directory)
+        html_string = str(soup)
+    with open("{}{}".format(directory_to_write_in,updated_page_name), "wb") as fw:
+        fw.write(html_string)
+
+
+
 def compress_image_by_rid_transform(path_to_file, compression_rate, rid ,updated_page_name = "cmprs_img_index.html"):
     root_directory = os.getcwd()
     directory_to_write_in = get_directory(path_to_file)

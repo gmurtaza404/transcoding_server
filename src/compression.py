@@ -56,11 +56,43 @@ def compress_image_by_percentage(path_to_image, percentage):
 
 
 
+def change_image_format(path_to_image, output_format):
+    path_to_output = path_to_image
+    path_to_output = update_extension(path_to_output, output_format)
+    
+    file_extension = path_to_image.split(".")[-1]
+    
+    if file_extension not in SUPPORTED_FORMATS:
+        print "Not chaninging file {} because format is not supported!".format(path_to_image.split("/")[-1])
+        return path_to_image
+
+    if os.path.exists(path_to_output):
+        return path_to_output
+    
+    try:
+        if output_format == "webp":
+            convert_to_webp(path_to_image, path_to_output)
+        else:
+            convert_format(path_to_image, path_to_output)
+    except:
+        print "Failed to convert format"
+        return path_to_image
+    return path_to_output
 
 
-
-
-
+def change_image_size(path_to_image, resize_percentage):
+    file_extension = path_to_image.split(".")[-1]
+    path_to_output = get_output_file_name(path_to_image, resize_percentage)
+    try:
+        if file_extension == "webp":
+            resize_image_cwebp(path_to_image, path_to_output, resize_percentage)
+        else:  
+            resize_image_convert(path_to_image, path_to_output, resize_percentage)
+    except:
+        print "Failed to resize!"
+        return path_to_image
+      
+    return path_to_output
 
 
 
@@ -85,9 +117,17 @@ def compress_image(path_to_image, path_to_output, quality):
 
 
 
+def convert_format(path_to_image, path_to_output):
+    if not os.path.exists(path_to_output):
+        os.system("convert {} {}".format(path_to_image, path_to_output))
 
-
-
+def convert_to_webp(path_to_image, path_to_output):
+    if not os.path.exists(path_to_output):
+        file_extension = path_to_image.split(".")[-1]
+        if file_extension not in "gif":
+            os.system("cwebp {} -o {}".format(path_to_image, path_to_output))
+        else:
+            os.system("gif2webp {} -o {}".format(path_to_image, path_to_output))
 
 
 def size_comparison(target_percentage,actual_percentage):
@@ -119,3 +159,11 @@ def generate_images_pngquant(path_to_image, path_to_output ,quality):
         os.system("pngquant {} --quality={}-{} -o{}".format(path_to_image, quality, quality ,path_to_output))
 def generate_image_copy(path_to_image,path_to_output):
     os.system("cp {} {}".format(path_to_image, path_to_output))
+
+def resize_image_convert(path_to_image, path_to_output, resize_percentage):
+    if not os.path.exists(path_to_output):
+        os.system("convert {} -resize {} {}".format(path_to_image, resize_percentage, path_to_output))
+
+def resize_image_cwebp(path_to_image, path_to_output, resize_percentage):
+    if not os.path.exists(path_to_output):
+        os.system("cwebp {} -resize {} -o {}".format(path_to_image, resize_percentage, path_to_output))
